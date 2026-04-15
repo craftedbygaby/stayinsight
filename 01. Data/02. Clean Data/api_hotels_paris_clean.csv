@@ -1,0 +1,1662 @@
+,hotel_name,latitude,longitude,city_name,address_lines,search_city
+0,Maison Albar-Le Champs-Elysees,48.87541,2.29453,Paris,3 Avenue Mac Mahon,Paris
+1,Occidental Paris Levallois,48.89818,2.28087,Paris,"8 Place Georges Pompidou, Levallois Perret",Paris
+2,Wldrf Astoria Versailles Trianon Palace,48.81067,2.12022,Versailles - Paris,1 Boulevard De La Reine,Paris
+3,The Peninsula Paris,48.87073,2.2934,Paris,19 Avenue Kleber,Paris
+4,Hilton Paris Defense,48.89305,2.23857,La Defense,"2 Place De La Defense, Cnit-B",Paris
+5,Maison Albar - Le Vendome,48.87177,2.33476,Paris,7 Rue Du Helder,Paris
+6,Innside Paris Charles De Gaulle Airport,49.00875,2.54852,Roissy En France,9 Rue Du Voyageur,Paris
+7,25Hours Terminus Nord,48.87957,2.35513,Paris,12 Boulevard De Denain,Paris
+8,Le Royal Monceau Raffles Paris,48.8758,2.30015,Paris,"37,  Avenue Hoche",Paris
+9,Hotel Le Bellechasse Saint-Germain,48.85965,2.3241,Paris,"8, Rue De Bellechasse",Paris
+10,Hilton Paris Opera,48.8757,2.32553,Paris,"108, Rue Saint Lazare",Paris
+11,Intercontinental Paris Le Gran,48.87098,2.33042,Paris,2 Rue Scribe,Paris
+12,Maison Albar - Le Diamond,48.87538,2.32341,Paris,4 Rue De La Pepiniere,Paris
+13,Le Meridien Paris Arc De Triomphe,48.87948,2.28499,Paris,81 Boulevard Gouvion Saint Cyr,Paris
+14,Kopster Hotel Paris Porte De Versailles,48.83659,2.27891,Paris,1 Boulevard Victor Paris,Paris
+15,Hotel Plaza Athenee,48.86618,2.30426,Paris,25 Avenue Montaigne,Paris
+16,Le Meurice,48.86513,2.32812,Paris,228 Rue De Rivoli,Paris
+17,Kopster Hotel Residence Paris Colombes,48.93329,2.25455,Colombes,63 Rue Germaine Tillion,Paris
+18,Bw Quartier Latin Pantheon,48.84365,2.35246,Paris,71 Rue Monge,Paris
+19,Ibis Budget Issy Les Moulineaux Ouest,48.82426,2.26067,Issy-Les-Moulineaux,"12 Rue Jacques Henri Lartigue, Zac Garibaldi",Paris
+20,Belfort,48.85696,2.38486,Paris,22 Rue De Belfort,Paris
+21,Ibis Marne La Vallee Noisy,48.83779,2.54171,Noisy Le Grand,"4 Allee Bienvenue, Noisy Horizon",Paris
+22,Abbaye Des Vaux De Cernay,48.68589,1.9312,Cernay La Ville,"Domaine De L Abbaye, Des Vaux De Cernay",Paris
+23,Bresil Opera,48.87238,2.34478,Paris,"23, Rue Bergere",Paris
+24,Hotel Fougere,48.85504,2.33372,Paris,36 Rue Bonaparte,Paris
+25,Hotel Ascot Opera,48.86826,2.33523,Paris,2 Rue Monsigny,Paris
+26,Hotel Bourg Tibourg,48.85722,2.35591,Paris,19 Rue Du Bourg Tibourg,Paris
+27,Hc Hotel Kabanel,48.87653,2.35417,Paris,"21 Rue De Chabrol, 10Th Disctrict",Paris
+28,Hc Etoile Saint Ferdinand,48.87775,2.28728,Paris,36 Rue Saint Ferdinand,Paris
+29,Ibis Clamart Paris Velizy,48.78285,2.24439,Clamart,350 Avenue General De Gaulle,Paris
+30,Hotel Volney Opera,48.8698,2.33019,Paris,11 Rue Volney,Paris
+31,Novotel Paris Pont De Sevres,48.82684,2.22119,Sevres,11 Grande Rue,Paris
+32,B&B Hotel Paris Sud - Chatenay Malabry,48.76152,2.28686,Chatenay Malabry,53 Avenue De La Division Leclerc,Paris
+33,Monceau-Elysees,48.88004,2.3024,Paris,108 Rue De Courcelles,Paris
+34,Hotel 85 Saint Honore,48.86112,2.34364,Paris,85 Rue Saint Honore,Paris
+35,Kyriad Meaux,48.95656,2.90809,Meaux,32 Avenue De La Victoire,Paris
+36,Ibis Issy Les Moulineaux,48.82245,2.25732,Issy Les Moulineaux,213 Rue Jean Jacques Rousseau,Paris
+37,Og Saint-Laurent,48.7764,1.80988,Montfort L Amaury,2 Place Lebreton,Paris
+38,Hotel Saint Germain,48.85473,2.32423,Paris,88 Rue Du Bac,Paris
+39,Adagio Access Paris Bastille,48.84954,2.37234,Paris,11 Rue Moreau,Paris
+40,Campanile Evry Ouest Corbeil Essonnes,48.60984,2.4538,Corbeil Essonnes,22 Avenue Paul Maintenant,Paris
+41,L Hotel Du Collectionneur Paris,48.87679,2.30758,Paris,51-57 Rue De Courcelles,Paris
+42,Ibis Budget Marne La Vallee Bry Sur Marn,48.8334,2.53189,Bry Sur Marne,1 Avenue De L Europe,Paris
+44,Le General Hotel,48.86623,2.36686,Paris,5 - 7 Rue Rampon,Paris
+45,"Hotel Camille Paris,Tapestry Coll Hilton",48.84629,2.37195,Paris,5 Rue De Lyon,Paris
+46,Hotel De La Tamise,48.86499,2.32957,Paris,4 Rue D Alger,Paris
+47,Le Mareuil,48.86599,2.36747,Paris,51 Rue De Malte,Paris
+48,Ibis Budget Paris Pte Italie Est,48.81583,2.36373,Kremlin Bicetre,"20,Rue Voltaire",Paris
+49,Forest Hill Paris Meudon-Velizy,48.78486,2.22522,Meudon La Foret,"40 Avenue Marechal De Lattre, De Tassigny",Paris
+50,All Suites Appart Hotel Choisy Le Roi,48.76239,2.41265,Choisy Le Roi,23 Avenue Louis Luc,Paris
+51,Ibis Styles Paris 16 Boulogne,48.83652,2.25366,Paris,19 Avenue Ferdinand Buisson,Paris
+52,Hilton Garden Inn Massy,48.7268,2.2634,Massy,35 Avenue Carnot,Paris
+53,Hotel Beaugrenelle Tour Eiffel,48.85029,2.29023,Paris,19 Rue Viala,Paris
+54,Hotel Waldorf Montparnasse,48.84254,2.32356,Paris,17 Rue Du Depart,Paris
+55,Citadines Tour Eiffel Paris,48.84884,2.29781,Paris,"132, Boulevard De Grenelle",Paris
+56,La Reserve Paris Hotel And Spa,48.86968,2.31334,Paris,42 Avenue Gabriel,Paris
+57,Hotel Palym,48.84626,2.37345,Paris,4 Rue Emile Gilbert,Paris
+58,Hotel Ekta,48.87131,2.29818,Paris,52 Rue Galilee,Paris
+59,Residence Inn Didot Montparnasse,48.82802,2.31527,Paris,94 Rue Didot,Paris
+60,Campanile Nature - Mlv Chelles,48.87788,2.60116,Chelles,38 Av Du Gendarme Castermant,Paris
+61,New Hotel Roblin La Madeleine,48.87134,2.32394,Paris,6 Rue Chauveau Lagarde,Paris
+62,Hotelf1 Paris Porte De Chatillon,48.82277,2.31653,Paris,23 Ave De La Porte De Chatillon,Paris
+63,Residence Ecla Massy Palaiseau,48.71928,2.2634,Palaiseau,16 Avenue Emile Baudot,Paris
+64,Hotel Monte Cristo Paris,48.83788,2.34927,Paris,20-22 Rue Pascal,Paris
+65,Hotel Florida,48.8716,2.32252,Paris,12 Bd Malesherbes,Paris
+66,Monsieur Cadet,48.87433,2.34248,Paris,4 Rue Cadet,Paris
+67,Hotel Du Ministere,48.87137,2.31926,Paris,31 Rue De Surene,Paris
+68,Hotel Chambellan Morgane,48.86969,2.2975,Paris,6 Rue Keppler,Paris
+69,Hotel Alfred Sommier,48.87201,2.32403,Paris,"""20 Rue De LArcade""",Paris
+70,Monge,48.8448,2.35246,Paris,55 Rue Monge,Paris
+71,Hotel Olympic Paris Boulogne,48.83723,2.24588,Boulogne Billancourt,69 Avenue Victor Hugo,Paris
+72,Campanile Prime - Argenteuil,48.93499,2.24256,Argenteuil,1 Rue Ary Scheffer,Paris
+73,Hotel Albert 1Er,48.87947,2.35804,Paris,162 Rue La Fayette,Paris
+74,Ibis Styles Paris Place Italie,48.8284,2.34735,Paris,22 Rue Barrault,Paris
+75,Campanile Saint-Quentin-En-Yvelines,48.78292,2.04253,St Quentin En Yvelines,"2 Place Georges Pompidou, Regional Shopping Center",Paris
+76,B&B Hotel Paris Nord Villepinte,48.96292,2.5535,Villepinte,Les Mousseaux Sud - Rue Jean Fourgeaud,Paris
+77,Le Cinq Codet,48.855,2.30835,Paris,5 Rue Louis Codet,Paris
+78,Sejours Affaires Paris Bagneux,48.79391,2.32056,Bagneux,204 Avenue Aristide Briand,Paris
+79,Hotel Riviera Elysees,48.87827,2.29395,Paris,55 Rue Des Acacias,Paris
+80,Belfast Hotel Paris,48.87559,2.29375,Paris,Av Carnot 10,Paris
+81,Ibis Paris Gare Montparnasse 15Th Hotel,48.84043,2.31547,Paris,71 Boulevard De Vaugirard,Paris
+82,Hotel Gustave Paris,48.85021,2.28904,Paris,34 Rue Viala,Paris
+83,Printania,48.83402,2.29531,Paris,"55, Rue Olivier De Serres",Paris
+84,Hotel Dress Code,48.87053,2.32795,Paris,5 Rue De Caumartin,Paris
+85,Tribe Paris Saint Ouen,48.91378,2.33602,Saint Ouen,33/35 Boulevard Jean Jaures,Paris
+86,Hotel Augustin,48.87549,2.31829,Paris,9 Rue Roy,Paris
+87,Residhome Issy Les Moulineaux,48.82499,2.25852,Issy Les Moulineaux,22 To 24 Rue Du Passeur De Boulogne,Paris
+88,Les Plumes Hotel,48.87663,2.3433,Paris,10 Rue Lamartine,Paris
+89,Hotel George - Astotel,48.87951,2.33635,Paris,"46, Rue Notre Dame De Lorette",Paris
+90,Armoni Hotel,48.88514,2.29304,Paris,7 Villa Berthier,Paris
+91,Ibis Budget Sucy En Brie,48.77381,2.49809,Sucy En Brie,"3 Rue Des Ameriques, Zac Du Petit Marais",Paris
+92,B&B Hotel Rosny-Sous-Bois Paris Est,48.87755,2.47559,Rosny Sous Bois,1 Rue De Lisbonne,Paris
+93,Hotel Saint Jacques,48.84875,2.34762,Paris,35 Rue Des Ecoles,Paris
+94,Hotel Icone,48.87108,2.33899,Paris,"""4, Rue D Amboise""",Paris
+95,"Hotel De Berri Champs Elysees, A Luxury",48.8728,2.3055,Paris,18-22 Rue De Berri,Paris
+96,Villa Marquis Melia Collection,48.8652,2.30455,Paris,35 Rue Jean Goujon,Paris
+97,Premiere Classe Chantilly - Luzarches,49.12319,2.42542,Chaumontel,"54 Rue De Paris, N16",Paris
+98,Hotel Clement,48.85254,2.33612,Paris,6 Rue Clement,Paris
+99,Hotel Excelsior,48.88357,2.32357,Paris,16 Rue Caroline,Paris
+100,Hotel Sainte Beuve,48.84394,2.32947,Paris,9 Rue Sainte Beuve,Paris
+101,Marriott Vac Club Ile-De-Franc,48.85269,2.81159,Bailly Romainvilliers,Allee De L.Orome Rond,Paris
+102,B&B Hotel Disneyland Paris,48.87693,2.80911,Magny Le Hungre,Zac Des Courtalins Avenue De La Fosse Des Pressoirs,Paris
+103,B&B Hotel Saint Witz,49.08868,2.5534,Saint Witz,10 Rue Jean Moulin,Paris
+104,Hotel Victor Hugo Paris Kleber,48.86904,2.28912,Paris,19 Rue Copernic,Paris
+105,Fraser Suites Le Claridge,48.87108,2.30465,Paris,74 Avenue Des Champs Elysees,Paris
+106,Daunou Opera,48.86935,2.33215,Paris,"6, Rue Daunou",Paris
+107,Zenitude Paris Roissy Village,49.00446,2.51181,Roissy En France,4 Avenue De Montmorency,Paris
+108,Hotel Garden Elysee,48.86624,2.2881,Paris,12 Rue Saint Didier,Paris
+109,Le Basile,48.87159,2.32709,Paris,23 Rue Godot De Mauroy,Paris
+110,Le Notre Dame,48.85301,2.34658,Paris,"1, Quai Saint Michel",Paris
+111,Splendid Etoile Hotel,48.87488,2.29367,Paris,1 Avenue Carnot,Paris
+112,Comfort Hotel Paris Porte Divry,48.81983,2.37602,Paris,"1-11 Rue Rene Villars, Ivry Sur Seine",Paris
+113,Bw Nouvel Orleans Montparnasse,48.83101,2.32992,Paris,25 Avenue Du General Leclerc,Paris
+114,Kyriad Chantilly,49.20426,2.46125,Chantilly,Rn16 - Za Du Coq Chantant,Paris
+115,Mercure Acheres,48.97232,2.08034,Acheres,2 Avenue Jacques Chirac,Paris
+116,Brach Paris - Evok Collection,48.86127,2.27544,Paris,1-7 Rue Jean Richepin,Paris
+117,Hotel Le Royal Rive Gauche,48.84098,2.32966,Paris,212 Boulevard Raspail,Paris
+118,Dauphine Saint Germain,48.85446,2.33901,Paris,"36, Rue Dauphine",Paris
+119,Pierre Nicole,48.83979,2.33887,Paris,"39, Rue Pierre Nicole",Paris
+120,Hotel Trianon Gare De Lyon,48.8465,2.37944,Paris,52 Boulevard Diderot,Paris
+121,Premiere Classe Saint Brice Sous Foret,48.99176,2.36242,Saint Brice Sous Foret,Rue Du Champ Gallois,Paris
+122,Le Quartier Bercy Square,48.83947,2.39272,Paris,33 Boulevard De Reuilly,Paris
+123,Hotel Opera Marigny,48.87173,2.32351,Paris,15 Rue De L Arcade,Paris
+124,Villa Boheme,48.88016,2.33422,Paris,2 Bis Cite Pigalle,Paris
+125,Ibis Styles Paris Mairie De Clichy,48.90305,2.30526,Clichy,14 Rue Dagobert,Paris
+126,Le Damantin,48.86506,2.30769,Paris,1 Rue Bayard,Paris
+127,B&B Home Paris Nord 18Eme,48.9018,2.35957,Paris,1 Impasse Marteau,Paris
+128,B&B Hotel Paris Est Bobigny,48.91554,2.41715,Bobigny,6 Rue Rene Goscinny,Paris
+129,Hotel Alize Grenelle Tour Eifel,48.84675,2.28777,Paris,87 Avenue Emile Zola,Paris
+130,Le Relais Monceau,48.88035,2.31727,Paris,85 Rue De Rocher,Paris
+131,Premiere Classe Paris-Nanterre,48.91896,2.22064,Nanterre,16 Rue Du Haras,Paris
+132,Hotel Belleval,48.87518,2.32209,Paris,16 Rue De La Pepiniere,Paris
+133,Premiere Classe Villeneuve Saint Georges,48.7612,2.44572,Villeneuve-St-Georges,"17 Rue Louis Armand, Z.A Des Pres De L H Opital (Rn6)",Paris
+134,Campanile Plaisir St Quentin En Yvelines,48.79945,1.95611,Plaisir,"Zac De Sainte Apolline, 177 Rue Des Poiriers",Paris
+135,Ibis Budget Paris Porte De Pantin,48.89683,2.4037,Pantin,96/98 Avenue Du General Leclerc,Paris
+136,B&B Hotel Paris Meudon Velizy,48.7931,2.2176,Meudon,9 Route Du Coronel Marcel Moraine,Paris
+137,Hotel Marais Home,48.86548,2.3657,Paris,38 Blvd Du Temple,Paris
+138,Yllen Eiffel Hotel,48.8415,2.30771,Paris,196 Rue De Vaugirard,Paris
+139,Le Marquis By Inwood,48.85162,2.29789,Paris,15 Rue Dupleix,Paris
+141,Espace Champerret,48.88861,2.28745,Paris,26 Rue Louise Michel,Paris
+142,Novotel Chateau De Maffliers,49.07456,2.30439,Maffliers,Allee Des Marroniers,Paris
+143,Hotel Handsome,48.86207,2.34873,Paris,"83, Rue Rambuteau",Paris
+144,Hotel Central Saint Germain,48.84982,2.34303,Paris,3 Rue Champollion,Paris
+145,Hotel Veryste,48.87627,2.34642,Paris,5 Rue Riboutte,Paris
+146,7 Eiffel By Malone,48.85839,2.30776,Paris,17 Bis Rue Amelie,Paris
+147,Hotel Albe Saint Michel,48.85313,2.34469,Paris,1 Rue De La Harpe,Paris
+148,Timhotel Tour Montparnasse,48.8403,2.32409,Paris,11 Bis Rue De La Gaite,Paris
+149,Elysees Union Hotel,48.86839,2.29177,Paris,44 Rue De L Amiral Hamelin,Paris
+150,Hotel Regence Etoile-Paris Etoile,48.87657,2.29292,Paris,Avenue Carnot 24,Paris
+151,Brit Hotel Baillet En France,49.06302,2.32482,Baillet En France,9 Avenue Du Bosquet,Paris
+152,Brit Hotel Codalysa Marne La Vallee,48.84163,2.6558,Torcy,"2, Rue Charlie Chaplin",Paris
+153,Hotel Bijou,48.83136,2.24209,Boulogne Billancourt,15 Rue Victor Griffuelhes,Paris
+154,Elysees Hotel,48.87204,2.30865,Paris,100 Rue La Boetie,Paris
+155,Hc Hotel De Neuve,48.85392,2.36317,Paris,14 Rue Neuve Saint Pierre,Paris
+156,Ibis Paris Avenue D'Italie,48.82927,2.35662,Paris,"15 Bis Avenue D""Italie",Paris
+157,Hotel Bradford Elysees,48.87288,2.30817,Paris,10 Rue St Philippe De Roule,Paris
+158,Hotel Joke - Astotel,48.88245,2.33182,Paris,69 Rue Blanche,Paris
+159,Panam Hotel,48.8654,2.39826,Paris,208 Rue Des Pyrenees,Paris
+160,Hotel Helios Opera,48.87519,2.33276,Paris,75 Rue De La Victoire,Paris
+161,Mandarin Oriental Paris,48.86701,2.32713,Paris,251 Rue Saint-Honore,Paris
+162,Kyriad Paris Est - Bois De Vincennes,48.81801,2.42207,Saint Maurice,12 Rue Du Marechal Leclerc,Paris
+163,Mercure Paris Sud Parc Du Coudray Hotel,48.55604,2.48259,Le Coudray Montceaux,Route De Milly,Paris
+164,Hotel Maxim Opera,48.87384,2.34442,Paris,13 Rue Geoffroy Marie,Paris
+165,Hotel Nuage,48.87154,2.31214,Paris,30 Rue Jean Mermoz,Paris
+166,Westotel Taverny Paris Val D'Oise,49.02642,2.19898,Taverny,1 Rue Marie Sklodowska-Curie,Paris
+167,Zenao Le Raincy Thiers,48.8994,2.5182,Le Raincy,43 Avenue Thiers,Paris
+168,Ibis Paris Pont De Suresnes,48.86839,2.22717,Suresnes,6 Rue Des Bourets,Paris
+169,Hotel Dantan,48.83218,2.24897,Boulogne Billancourt,53 Rue Du Dome,Paris
+170,Adagio Paris Tour Eiffel,48.84972,2.28541,Paris,14 Rue Du Theatre,Paris
+171,Ibis Budget Paris Porte De Bagnolet,48.86648,2.41644,Bagnolet,3 Rue Jean Jaures,Paris
+172,Hotel Maison Fl,48.85884,2.28401,Paris,6 Rue De La Tour,Paris
+173,Best Western Plus Opera Batignolles,48.88711,2.31439,Paris,165 Rue De Rome,Paris
+174,Ibis Budget Paris Porte De Montmartre,48.90116,2.33412,Paris,45 Rue Du Docteur Babinski,Paris
+175,Appart'City Paris La Villette,48.88718,2.38633,Paris,157 Avenue Jean Jaures,Paris
+176,Campanile Nogent Sur Marne,48.83232,2.49372,Nogent Sur Marne,13 Quai Du Port,Paris
+177,Greet Hotel Boulogne,48.83211,2.24433,Boulogne Billancourt,210 Bis Boulevard Jean Jaures,Paris
+178,Saint Andre Des Arts,48.85365,2.33895,Paris,"66, Rue Saint Andre Des Arts",Paris
+179,Hotel Atelier Vavin,48.8426,2.32873,Paris,49 Rue Vavin,Paris
+180,Five Boutique Hotel,48.83784,2.33866,Paris,"3, Rue Flatters",Paris
+181,Novotel Paris Val De Fontenay,48.85343,2.48738,Fontenay Sous Bois,2 Avenue Val De Fontenay,Paris
+182,Hotel Prince Monceau,48.88682,2.31375,Paris,9 Rue Tarbe,Paris
+183,Quinzerie,48.84418,2.28087,Paris,40 Rue De La Convention,Paris
+184,Hotel Paradis Paris,48.87378,2.34994,Paris,41 Rue Des Petites Ecuries,Paris
+185,Hotel Chateaubriand,48.8733,2.30254,Paris,"6, Rue Chateaubriand",Paris
+186,Hotel Louvre Montana,48.86445,2.33176,Paris,12 Rue Saint Roch,Paris
+187,Hotel Montholon Opera,48.87656,2.3471,Paris,15 Rue Montholon,Paris
+188,Residhome Nanterre La Defense,48.90162,2.21809,Nanterre,521 Boulevard Des Provinces Francaises,Paris
+189,Cluny Square,48.85154,2.34347,Paris,21 Boulevard Saint Michel,Paris
+190,Boronali,48.88867,2.34796,Paris,65 Rue De Clignancourt,Paris
+191,Le Glam S Hotel Paris,48.82451,2.32721,Paris,47 Rue Beaunier,Paris
+192,Royal Garden Hotel Paris,48.87565,2.30383,Paris,218 - 220 Rue Du Faubourg Saint Honore,Paris
+193,Saint Pierre,48.85067,2.34197,Paris,"""4 Rue De LEcole De Medecine""",Paris
+194,Atelier Montparnasse,48.83336,2.31694,Paris,84  Rue Raymond Losserand,Paris
+195,Elysees 8,48.87304,2.31795,Paris,"16, Rue Cambaceres",Paris
+196,Grand Hotel Francais,48.85163,2.39079,Paris,223 Boulevard Voltaire,Paris
+197,Joe M,48.87338,2.34381,Paris,6 Rue Geoffroy Marie,Paris
+199,Residhome Saint Ouen,48.91004,2.3266,Saint Ouen,33 Rue Ardoin,Paris
+200,Hotel Georgette,48.86324,2.35268,Paris,36 Rue Du Grenier Saint Lazare,Paris
+201,Hotel Terminus Lyon,48.84576,2.37177,Paris,19 Boulevard Diderot,Paris
+202,Ibis Budget Cergy St Christophe,49.05588,2.03782,Cergy,"1 Allee Du Promenoir, Rue Du Petit Albi",Paris
+203,Kyriad Direct Arpajon,48.58854,2.24569,Arpajon,23 Boulevard Jean Jaures,Paris
+204,Ibis Styles Paris Meteor,48.81701,2.3594,Paris,"""12 Avenue De La Porte DItalie""",Paris
+205,Hidden Hotel,48.87754,2.29348,Paris,"""28 Rue De LArc De Triomphe""",Paris
+206,Campanile Prime - Barbanniers,48.93467,2.30349,Gennevilliers,"1 Av Marcel Paul, ""Parc DActivites Barbanniers""",Paris
+207,Numa Paris Champs Elysees,48.86964,2.30524,Paris,37 Rue Marbeuf,Paris
+208,Lala Hotel,48.88344,2.32511,Paris,3 Rue Darcet,Paris
+209,Citadines Republique Paris,48.86455,2.37489,Paris,75 Bis Avenue Parmentier,Paris
+210,La Demeure Montaigne,48.8678,2.30321,Paris,18 Rue Clement-Marot,Paris
+211,Le Parisis,48.84956,2.29556,Paris,102 Boulevard De Grenelle,Paris
+212,Hotel Beige,48.87665,2.3418,Paris,12 Rue Maubeuge,Paris
+213,Daumesnil Vincennes,48.84529,2.4325,Vincennes,50 Avenue De Paris,Paris
+214,Hotel Luxembourg Parc,48.84919,2.33463,Paris,42 Rue De Vaugirard,Paris
+215,Poussin Hotel,48.84859,2.26125,Paris,52 Rue Poussin,Paris
+216,Moxy Paris Bastille,48.85754,2.36998,Paris,34/36 Rue Saint Sabin,Paris
+217,Campanile Versailles - Buc,48.76039,2.12139,Buc,"Zac Du Pre Clos, Rue Clement Ader",Paris
+218,Art Hotel,48.89342,2.39818,Pantin,25 Rue Scandicci Pantin,Paris
+219,Adagio Access Paris Villette,48.89649,2.38475,Paris,28 Bis Avenue Corentin Cariou,Paris
+220,Ibis Paris Montmartre,48.88532,2.33019,Paris,5 Rue Caulaincourt,Paris
+221,9Hotel Bastille Lyon,48.84744,2.3715,Paris,23 Rue De Lyon,Paris
+222,Hotel Ginette A La Folie,48.86583,2.36744,Paris,49 Rue De Malte,Paris
+223,Ibis Budget Paris Coeur D Orly Airport,48.73152,2.37203,Orly,1 Avenue De L Union,Paris
+224,Novotel Paris Suresnes Longchamp,48.87028,2.22982,Suresnes,7 Rue Du Port Aux Vins,Paris
+225,Hotel Amiral,48.82532,2.35725,Paris,98 Avenue D Italie,Paris
+226,Maison Armance,48.86664,2.32534,Paris,5 Rue Cambon,Paris
+227,Hotel Carladez Cambronne,48.84209,2.30297,Paris,3 Place Du General Beuret,Paris
+228,Hotel Versailles Saint Quentin,48.75817,2.05625,Voisins Le Bretonneux,7-9 Rue Des Tilleuls,Paris
+229,Hotel Elysee Secret,48.87013,2.31114,Paris,5 Rue De Ponthieu,Paris
+230,Jack S Hotel,48.83294,2.35934,Paris,19 Avenue Stephen Pichon,Paris
+231,Campanile Nature - Cergy Pontoise,49.04298,2.08257,Pontoise,8 Rue Pierre De Coubertin,Paris
+232,Acacias Etoile,48.8766,2.29075,Paris,11 Rue Des Acacias,Paris
+233,Le Marceau Bastille,48.84898,2.3698,Paris,13 Rue Jules Cesar,Paris
+234,Ibis Budget Courbevoie Paris La Defense,48.89557,2.26174,Courbevoie,37 Quai Du President Paul Doumer,Paris
+235,B&B Hotel Paris Romainville Noisy Le Sec,48.89242,2.44166,Noisy Le Sec,220 Avenue Gaston Roussel,Paris
+236,Og Du Vieux Saule Le Marais,48.86328,2.3622,Paris,6 Rue De Picardie,Paris
+237,Pullman Paris Tour Eiffel,48.8556,2.2928,Paris,"18 Avenue De Suffren, Entree Au 22 Rue Jean Rey",Paris
+238,Ibis Budget Vitry Sur Seine N7,48.77872,2.37582,Vitry Sur Seine,"160, Rue Julian-Grimau",Paris
+239,Ibis Styles Paris Republique Le Marais,48.86914,2.3641,Paris,9 Rue Leon Jouhaux,Paris
+240,Ibis Styles Clamart Gare,48.81456,2.27416,Clamart,11 Bis Rue Du Clos Montholon,Paris
+241,Mercure Pont De Levallois,48.89404,2.27854,Levallois,19 Rue Paul Vaillant Couturier,Paris
+242,Ibis Gare De Lyon Ledru Rollin 12Th,48.84786,2.37089,Paris,41-43 Avenue Ledru Rollin,Paris
+243,Le Grand Quartier,48.87231,2.35847,Paris,15 Rue De Nancy,Paris
+244,Paris Bruxelles,48.86735,2.36242,Paris,4 Rue Meslay,Paris
+245,So Paris,48.85,2.36244,Paris,10 Rue Agrippa D Aubigne,Paris
+246,Residhome Paris Evry,48.62506,2.42675,Evry,1 Rue Ambroise Croizat,Paris
+247,Hotel Sacha,48.87951,2.33921,Paris,7 Rue De Navarin,Paris
+248,Hotel De Varenne,48.857,2.31723,Paris,44 Rue De Bourgogne,Paris
+249,B&B Hotel Louveciennes,48.87465,2.13028,Louveciennes,"25, Chemin Du Prunay Rn 13",Paris
+250,Residence Aurmat,48.84124,2.24,Boulogne Billancourt,Rue De Paris 106,Paris
+251,B&B Hotel Nanterre Rueil Malmaison,48.89273,2.18407,Nanterre,170 Avenue Du Parc De L Ile,Paris
+252,B&B Hotel Paris St Denis Pleyel,48.92195,2.34334,Saint Denis,36 Boulevard De La Liberation,Paris
+253,Hotel Le Clery,48.86999,2.35042,Paris,13 Boulevard Bonne Nouvel,Paris
+254,Campanile Prime - Marne-La-Valle - Torcy,48.83456,2.66067,Torcy,34 Rue Du General De Gaule,Paris
+255,Relais Spa Paris Val D Europe,48.85737,2.77303,Chessy,1 Rue Des Grands Pres,Paris
+256,Premiere Classe Meaux-Nanteuil Les Meaux,48.93469,2.88037,Nanteuil-Les-Meaux,"21 Avenue De La Foulee, Za De Nanteuil",Paris
+257,Maison Delano,48.86949,2.32065,Paris,4 Rue D Anjou,Paris
+258,Hotel Opera Lafayette,48.87632,2.34602,Paris,80 Rue La Fayette,Paris
+259,Imperial Rennequin,48.88203,2.29768,Paris,34 Rue Rennequin,Paris
+260,Hotel De L Empereur By Malone,48.85636,2.30955,Paris,2 Rue Chevert,Paris
+261,Hotel Wyld Saint Germain,48.84869,2.34785,Paris,33 Rue Des Ecoles,Paris
+262,Ibis Paris Bagnolet,48.86654,2.41685,Bagnolet,1 Rue Jean Jaures,Paris
+263,Hotel Arc De Triomphe,48.87672,2.29389,Paris,10 Rue De L Arc De Triomphe,Paris
+264,Mercure  Paris Vaugirard Pte  V,48.83307,2.28803,Paris,69 Boulevard Victor,Paris
+265,Parc Hotel,48.82467,2.32681,Paris,60 Rue Beaunier,Paris
+266,Hotel Tabletterie,49.23849,2.13879,Meru,51 Bis Rue Roger Salengro,Paris
+267,Holiday Inn Montmartre,48.8889,2.33317,Paris,23 Rue Damremont,Paris
+268,Ibis Styles Paris Velizy,48.78085,2.21797,Velizy Villacoublay,39 Avenue De L Europe,Paris
+269,Molitor Hotel And Spa Paris,48.84494,2.25259,Paris,13 Rue Nungesser Et Coli,Paris
+270,La Comtesse,48.85392,2.3072,Paris,Avenue De Tourville 29,Paris
+271,Hotel Casimir,48.88434,2.29792,Paris,182 Rue De Courcelles,Paris
+272,Hotel San Regis,48.86645,2.30852,Paris,12 Rue Jean Goujon,Paris
+273,Elysees Ceramic Hotel,48.87705,2.29765,Paris,34 Avenue De Wagram,Paris
+274,Hotel De France Invalides,48.85349,2.30921,Paris,"102, Boulevard La Tour Maubourg",Paris
+275,Hotel Esmeralda,48.85245,2.34726,Paris,4 Rue Saint Julien Le Pau,Paris
+276,Hotel St Georges Lafayette,48.88056,2.33921,Paris,11 Rue Victor Masse,Paris
+277,Premiere Classe Boissy Saint Leger,48.75992,2.50127,Boissy-St-Leger,4 Rue Pompadour,Paris
+278,B&B Hotel Paris Porte De La Villette,48.9013,2.38901,Paris,4 Rue Emilie Reynaud,Paris
+279,Eiffel Trocadero,48.86129,2.28634,Paris,35 Rue Benjamin Franklin,Paris
+280,Courtyard Gare Lyon Marriott,48.84512,2.3713,Paris,209 211 Rue De Bercy,Paris
+281,Hotel Les Jardins D' Epone,48.96031,1.81326,Epone,"220, Avenue De La Mauldre",Paris
+282,Palais De Chaillot,48.86572,2.28616,Paris,35 Av Raymond Poincare,Paris
+283,B&B Hotel Noisy Le Grand,48.83567,2.54909,Noisy Le Grand,"Rue Sancho Panca, Quartier Du Montfort",Paris
+284,Hotel De Crillon Rosewood,48.86735,2.32105,Paris,10 Place De La Concorde,Paris
+285,Idol,48.87947,2.32032,Paris,16 Rue D Edimbourg,Paris
+286,Sejours Affaires Le Magistere,48.80096,2.45061,Creteil,100 Avenue Du Mal De Lattre De Tassigny,Paris
+287,Contact Hotel Alize Montmartre,48.88376,2.32869,Paris,71 Rue De Douai,Paris
+288,Hotel Barriere Fouquets Paris,48.87169,2.3008,Paris,"46 Avenue George V, 99 Avenue Des Champs Elysees",Paris
+289,Tourisme Avenue,48.84954,2.29823,Paris,66 Avenue De La Motte Picquet,Paris
+290,Mandarin Oriental Lutetia Par,48.85118,2.32715,Paris,45 Boulevard Raspail,Paris
+291,Citadines Montparnasse Paris,48.83921,2.32249,Paris,67 Avenue Du Maine,Paris
+292,Ibis Budget Santeny,48.71989,2.5644,Santeny,"L Or#Bce Du Val De Marne, Rue Du Noyer De Saint-Germain",Paris
+293,Renaissance Paris Nobel Tour Eiffel,48.86735,2.28573,Paris,55-57 Avenue Raymond Poincare,Paris
+294,Renaissance Paris Republique,48.86859,2.36102,Paris,40 Rue Rene Boulanger,Paris
+295,Le 37 Bis Hotel,48.88192,2.27923,Neuilly Sur Seine,37 Bis Avenue Du Roule,Paris
+296,Hotel Villa Royale,48.88216,2.33673,Paris,2 Rue Duperre,Paris
+297,Greet Hotel Paris Nord 18E,48.9017,2.36028,Paris,7-9 Impasse Marteau,Paris
+298,Beauregard,48.84078,2.29915,Paris,14 Rue Petel,Paris
+299,Hotel Rochechouart,48.88203,2.34093,Paris,55 Boulevard Marguerite De Rochechouart,Paris
+300,Drawing Hotel,48.86441,2.3361,Paris,17 Rue De Richelieu,Paris
+301,Hotel Vernet Champs Elysees,48.87197,2.29793,Paris,25 Rue Vernet,Paris
+302,Le Domaine Des Vanneaux,49.12119,2.26189,Presles,1 Route Du Golf Des Vanneaux,Paris
+303,Novotel Paris Porte De Versailles,48.83008,2.29224,Paris,4 Av De La Porte De La Plaine,Paris
+304,Timhotel Montmartre,48.88598,2.33765,Paris,11 Rue Ravignan,Paris
+305,Hotel Brady,48.87118,2.35499,Paris,"31, Boulevard De Strasbourg",Paris
+306,Best Western Plus La Demeure,48.8378,2.35578,Paris,51 Boulevard Saint-Marcel,Paris
+307,Agate,48.84764,2.39984,Paris,8 Cours De Vincennes,Paris
+308,Park Hyatt Paris-Vendome,48.86877,2.33052,Paris,5 Rue De La Paix,Paris
+309,Hotel Felicien,48.84937,2.27442,Paris,21 Rue Felicien David,Paris
+310,Hotel Cambon,48.86639,2.32524,Paris,3 Rue De Cambon,Paris
+311,Paris Marriott Champs Elysees,48.87102,2.30493,Paris,70 Ave Des Champs Elysees,Paris
+312,Turenne Le Marais,48.85496,2.36335,Paris,6 Rue De Turenne,Paris
+313,Le Bon Hotel,48.88615,2.26115,Paris,13 Rue Du Chateau,Paris
+314,Hc Maison Nabis,48.88119,2.3278,Paris,7 Rue De Parme,Paris
+315,Hotel L Elysee Val D Europe - Serris,48.85553,2.7755,Serris,7 Cours Du Danube,Paris
+316,Belambra City Hotel Magendie,48.83407,2.34612,Paris,2/4 Rue Magendie,Paris
+317,Paris Marriott Opera Ambassador Hotel,48.87257,2.33692,Paris,16 Boulevard Haussmann,Paris
+318,Golden Tulip Washington Opera Hotel,48.86626,2.33723,Paris,50 Rue De Richelieu,Paris
+319,Hotel Le 20 Prieure,48.86601,2.36851,Paris,20 Rue Du Grand Prieure,Paris
+320,Premiere Classe Epinay Sur Orge,48.67784,2.33508,Epinay-Sur-Orge,1 B Rue De Charaintru,Paris
+321,B&B Hotel Marne-La-Vallee Chelles,48.88919,2.59161,Chelles,"""6 Rue De LOrmeteau"", Zac La Tuilerie",Paris
+322,Vice Versa Hotel,48.83635,2.28968,Paris,213 Rue Croix Nivert,Paris
+323,Ibis Budget Paris Aubervilliers,48.91043,2.38038,Aubervilliers,"53-61,Rue De La Commune De Paris",Paris
+324,Kyriad Brie Comte Robert,48.70315,2.59904,Brie Comte Robert,Zone De La Haie Passart,Paris
+325,Lenox Montparnasse Hotel,48.8416,2.32796,Paris,15 Rue Delambre,Paris
+326,Nouvel Eiffel,48.84332,2.30675,Paris,"5, Rue Des Volontaires",Paris
+327,Campanile Paris - Clichy Centre,48.90284,2.3033,Clichy,3 Place Du Marche,Paris
+328,Le Manoir De Gressy,48.965,2.67409,Gressy,Chemin Des Carrosses,Paris
+329,Hotel Hauteville Opera,48.87389,2.35042,Paris,41 Rue D Hauteville,Paris
+330,Hotel Du Theatre,48.88218,2.3186,Paris,5 Rue De Cheroy,Paris
+331,Ibis Budget Paris Pte Montreuil,48.85453,2.41557,Montreuil,278 280 Rue De Paris,Paris
+332,Residence Inn Paris Charles De Gaulle Ce,49.00881,2.54921,Roissy En France,10 Rue Du Voyageur,Paris
+333,Mom'Art Hotel,48.88371,2.34267,Paris,42 Rue D Orsel,Paris
+334,Ibis Styles Paris Tolbiac Bnf,48.82896,2.37408,Paris,21 Rue De Tolbiac,Paris
+335,Hotel Lorette - Astotel,48.87895,2.337,Paris,"36, Rue Notre Dame De Lorette",Paris
+336,Flanelles Paris Gare Du Nord,48.87953,2.35657,Paris,11 Rue De Dunkerque,Paris
+337,Htl Relais Montmartre,48.88538,2.33351,Paris,6 Rue Constance,Paris
+338,Citizenm Paris Gare De Lyon,48.84376,2.3717,Paris,8 Rue Van Gogh,Paris
+339,Hotel De L Avre,48.84782,2.29764,Paris,"""21, Rue De LAvre""",Paris
+340,Tribe Paris Batignolles,48.89049,2.31755,Paris,176 Rue Cardinet,Paris
+341,Ibis Gonesse Le Bourget,48.96911,2.46339,Gonesse,2 Rue De Montservon,Paris
+342,B&B Home Velizy,48.78264,2.2242,Velizy Villacoublay,1 Ter Rue Du Petit Clamart,Paris
+343,B&B Hotel Marne La Valle - Bussy St Geor,48.8326,2.70363,Bussy St Georges,"Z.A.C. Du Centre Ville, 6 Av. Marie Curie",Paris
+344,Grand Hotel Du Havre,48.87658,2.32699,Paris,18 Rue D Amsterdam,Paris
+345,Edouard Vi,48.84423,2.32353,Paris,61 Boulevard Du Montparnasse,Paris
+346,Chalgrin Boutique Hotel,48.87431,2.28968,Paris,1 Rue D Argentine,Paris
+347,Hotel Fertel Maillot,48.87814,2.28519,Paris,269 Boulevard Pereire,Paris
+348,Hotel Madison,48.85326,2.33442,Paris,143 Blevard Saint Germain,Paris
+349,B&B Hotel Herblay,48.99978,2.18199,Herblay,255 Boulevard Du 8 Mai 1945,Paris
+350,Ibis Daumesnil Porte Doree,48.83511,2.40539,Paris,111 Boulevard Poniatowski,Paris
+351,Le Bristol,48.87173,2.31477,Paris,"112 Rue Faubourg, Saint Honore",Paris
+352,Timhotel Odessa Montparnasse,48.84268,2.32435,Paris,8 Rue D Odessa,Paris
+353,Hotel Brittany,48.87679,2.33833,Paris,3 To 5 Rue Saint Lazare,Paris
+354,Hotel Graphik Montparnasse,48.83484,2.32426,Paris,131 Avenue Du Maine,Paris
+355,Mob House Paris,48.90492,2.33768,Saint Ouen Paris,70 Rue Des Rosiers,Paris
+356,The Jangle Paris,49.02205,2.59967,Le Mesnil Amelot,"Rue De La Chappelle 1, At Charles De Gaulle Airport",Paris
+357,Doubletree By Hilton Paris Bougival,48.8676,2.14523,Bougival,"10-12 Rue Yvan Tourgueneff Rn 13, Paris",Paris
+358,Comfort Hotel Etampes,48.43433,2.17092,Etampes,Avenue De Coquerive,Paris
+359,Ibis Budget Versailles Trappes,48.7666,1.97423,Trappes,"Centre De Vie Immoparc, Rn 10",Paris
+360,Hotel Cordelia Opera - Madeleine,48.87317,2.32526,Paris,11 Rue De Greffuhle,Paris
+361,Campanile Prime - Porte Italie,48.81583,2.36005,Lekremlin Bicetre,"2 Bld Du General De, Gaulle",Paris
+362,Novotel Marne Vallee Collegien,48.83042,2.67934,Collegien,"2 Allee Des Portes De La Foret, Z.A.E Les Portes De La Foret",Paris
+363,Moxy Paris La Villette,48.89723,2.38553,Paris,28 Avenue Corentin Cariou,Paris
+364,Le Bus Paladium,48.88078,2.33492,Paris,6 Rue Fontaine,Paris
+365,Hotel Le Pradey,48.86447,2.33151,Paris,5 Rue St Roch,Paris
+366,Holiday Inn Express Poissy,48.9332,2.04605,Poissy,19 Boulevard Robespierre,Paris
+367,Maison Eugenie,48.88905,2.31416,Paris,Rue De Rome 167,Paris
+368,Midnight Hotel,48.87733,2.35598,Paris,"133, Rue Du Faubourg Saint Denis",Paris
+369,La Source - Exclusive Apartment,48.87303,2.31719,Paris,7 Rue De Penthievre,Paris
+370,Hotel R De Paris,48.87997,2.32898,Paris,41 Rue De Clichy,Paris
+371,Residhome Puteaux La Defense,48.88586,2.22975,Paris,99 Avenue Du General De Gaulle,Paris
+372,Chouchou Hotel,48.87208,2.33476,Paris,11 Rue Du Helder,Paris
+373,Simons Boutique Hotel,48.88967,2.36245,Paris,69 Rue Riquet,Paris
+374,Hc The Playce Hotel,48.88863,2.3498,Paris,66 Bouvelard Barbes,Paris
+375,Ibis Styles Paris Alesia Montraparnasse,48.83039,2.32344,Paris,32 Rue Des Plantes,Paris
+376,Shell La Villa Saint Germain,48.85541,2.33409,Paris,29 Rue Jacob,Paris
+377,Four Seasons Hotel Paris,48.86879,2.30071,Paris,31 Ave George V,Paris
+378,Hotel Balmoral Paris,48.87602,2.29388,Paris,6 Rue General Lanrezac,Paris
+379,Htl Le Relais Madeleine,48.8711,2.32689,Paris,"11 Bis Rue Godot, De Mauroy",Paris
+380,Hotel Moulin Vert,48.83142,2.31982,Paris,74 Rue Du Moulin Vert,Paris
+381,B&B Hotel Paris Chatillon,48.80225,2.28544,Chatillon,40 Avenus De Verdun,Paris
+382,Ibis Paris Bercy Village 12Th,48.83241,2.38675,Paris,19 Place Des Vins De France,Paris
+383,Novotel Suites Paris Montreuil,48.8561,2.41518,Paris,22 Avenue Du Prof Andre Le Mierre,Paris
+384,Hotel Astra Opera,48.87189,2.32814,Paris,29 Rue Caumartin,Paris
+385,Hotel Splendide Royal Paris,48.87096,2.31541,Paris,18 Rue Du Cirque,Paris
+386,Hotel Pilgrim,48.84907,2.35286,Paris,11 Rue De Poissy,Paris
+387,Lux Hotel Picpus,48.84374,2.4016,Paris,74 Boulevard De Picpus,Paris
+388,Citizenm Paris Charles De Gaulle,49.0096,2.5571,Tremblay En France,"7 Rue De Rome, Roissypole",Paris
+389,B&B Hotel Paris Nord Aulnay Sous Bois,48.95408,2.48454,Aulnay Sous Bois,1 Rue Leonard De Vinci,Paris
+390,Folkestone Opera Hotel,48.87225,2.32504,Paris,9 Rue De Castellane,Paris
+391,Color Design,48.85389,2.3819,Paris,35 Rue De Citeaux,Paris
+392,Voco Paris Montparnasse,48.83922,2.32263,Paris,79 - 81 Avenue Du Maine,Paris
+393,Hotel Les Cles Du 27,48.88361,2.3118,Paris,27 Rue De Tocqueville,Paris
+394,Beaugrenelle St-Charles Tour,48.84724,2.28591,Paris,82 Rue Saint-Charles,Paris
+395,Mercure Paris Gare De L Est Magenta,48.87601,2.35574,Paris,"1-3 Cour De La Ferme St Lazare, Angle 79-81 Boulevard Magenta",Paris
+396,Le Magellan,48.88343,2.29246,Paris,17-19 Rue Jean Baptiste Dumas,Paris
+397,Hotel Sixteen Paris Montrouge,48.81603,2.31082,Montrouge,16 Place Jean Jaures,Paris
+398,Vaneau Saint Germain,48.84861,2.32032,Paris,86 Rue Vaneau,Paris
+399,Campanile Roissy - Aeroport Cdg - Le Mes,49.01814,2.58643,Le Mesnil Amelot,Rue Du Stade,Paris
+400,Hotel Sub,48.91345,2.27375,Asnieres Sur Seine,2 Ter Villa Aubert,Paris
+401,Lumen Paris Louvre,48.86526,2.33297,Paris,15 Rue Des Pyramides,Paris
+402,Ibis Paris Tour Eiffel,48.84705,2.30138,Paris,"2 Rue Cambronne, Ex Hotel Arcade",Paris
+403,Libertel Canal Saint Martin,48.88234,2.37103,Paris,5 Avenue Secretan,Paris
+404,Campanile Villejust - Za Courtaboeuf,48.68467,2.21824,Villejust,"2 Avenue Des 2 Lacs, Za Courtaboeuf N 7",Paris
+405,Novotel Paris Charenton Le Pont,48.82645,2.40523,Charenton Le Pont,3-5 Place Des Marseillais,Paris
+406,Kyriad Paris 10 Canal Saint Martin Repub,48.87282,2.36134,Paris,30 Rue Lucien Sampaix,Paris
+407,B&B Hotel Evry Lisses 2 - 3 Etoiles,48.59401,2.43635,Lisses,Zac Du Clos Aux Pois - Rue De La Closerie,Paris
+408,Ibis Paris Nation Davout,48.85551,2.40974,Paris,110 Rue Des Orteaux,Paris
+409,Campanile Nature - Villennes,48.93333,1.99253,Villennes Sur Seine,"""235 Route DOrgeval""",Paris
+410,Best Western Plus Suitcase,48.91136,2.27195,Bois Colombes,9 Rue Des Bourguignons,Paris
+411,Hotel 15 Montparnasse,48.84376,2.31557,Paris,153  Rue De Vaugirard,Paris
+412,Hotel Duminy Vendome,48.86537,2.32941,Paris,3 To 5 Rue Du Mont Thabor,Paris
+413,Le 12 Hotel,48.87712,2.32211,Paris,12 Rue De Vienne,Paris
+414,Hotel Le Cardinal Rueil Centre,48.87394,2.18179,Paris,1 Place Richelieu,Paris
+415,Le Rocroy Hotel,48.87962,2.35076,Paris,13 Rue De Rocroy,Paris
+416,Ibis Paris Bastille Opera 11Th,48.8574,2.37286,Paris,15 Rue Breguet,Paris
+417,Artemisia Montmartre Hotel Paris,48.88279,2.33467,Paris,11 Rue Fromentin,Paris
+418,Hotel Pont Royal,48.85669,2.32771,Paris,5 Rue De Montalembert,Paris
+419,Adagio Val D'Europe,48.85603,2.78687,Marne La Vallee,"42 Cours Du Danube, Marne La Vellee Cedex 4",Paris
+420,Howard Sur Seine,48.90505,2.28688,Asnieres Sur Seine,39 Quai Du Docteur Dervaux,Paris
+421,Hotel Faubourg Galant Paris,48.87598,2.34206,Paris,19 Rue Buffault,Paris
+422,B&B Hotel Paris Sud Igny,48.73279,2.23089,Igny,37 Rue Maryse Bastie,Paris
+423,Brit Hotel Confort Orly Morangis,48.6975,2.33092,Morangis,81 Rue Lavoisier,Paris
+424,Les Jardins Du Marais,48.86054,2.368,Paris,74 Rue Amelot,Paris
+425,Hotel Avama Prony,48.88451,2.29951,Paris,103 Avenue De Villiers,Paris
+426,Elysees Flaubert,48.88158,2.29816,Paris,19 Rue Rennequin,Paris
+427,Des Carmes By Malone,48.84919,2.34781,Paris,5 Rue Des Carmes,Paris
+428,Hotel Botaniste,48.84506,2.2647,Paris,11 Rue Molitor,Paris
+429,Adonis Paris Sud,48.77032,2.36756,Chevilly Larue,196 Avenue De Stalingrad 1,Paris
+430,Les Deux Gares & Spa,48.87844,2.35829,Paris,2 Rue Des Deux Gares,Paris
+431,Hotel Le Bailli De Suffren,48.84695,2.30803,Paris,149 Avenue De Suffren,Paris
+432,Ibis Paris La Villette 19,48.89196,2.38476,Paris,31/35 Quai De L Oise,Paris
+433,Soho House Paris,48.87977,2.33235,Paris,45 To 47 Rue La Bruyere,Paris
+434,Ibis Paris Pere Lachaise,48.86204,2.38546,Paris,80 Rue De La Folie Regnault,Paris
+435,Triangle D Or Hotel,48.87049,2.32683,Paris,6 Rue Godot De Mauroy,Paris
+436,Observatoire Luxembourg,48.84367,2.33903,Paris,107 Boulevard St Michel,Paris
+437,Hotel Mercedes,48.88481,2.30338,Paris,128 Avenue De Wagram,Paris
+438,B&B Hotel Montlhery,48.62818,2.25891,Linas Montlhery,"Zac Linas - Autodrome, 3 Allee Francois Cevert",Paris
+439,Mercure Paris Opera Faubourg Montmartre,48.87302,2.34465,Paris,5 Rue De Montyon,Paris
+440,De Buci Hotel,48.85385,2.33666,Paris,22 Rue De Buci,Paris
+441,Novotel Paris Centre Tour Eiffel,48.84984,2.28323,Paris,61 Quai De Grenelle,Paris
+442,Ibis Styles Paris Gare Est Tgv,48.87587,2.35747,Paris,87 Boulevard De Strasbourg,Paris
+443,Mob Hotel Paris Les Puces,48.90569,2.33605,Paris,4 Rue Gambetta,Paris
+444,Hilton Garden Inn Paris La Villette,48.8963,2.38325,Paris,27 Quai De Le Gironde,Paris
+445,Ibis Clichy Centre Mairie,48.90368,2.30403,Clichy,4 Rue Marcellin Berthelot,Paris
+446,Hotel George Washington,48.87421,2.30453,Paris,43 Rue Washington,Paris
+447,Sejours Affaires Paris Ivry,48.82095,2.39079,Ivry Sur Seine,"4 Rue Jean Jacques Rousseau,",Paris
+448,Best Western Allegro Nation,48.84303,2.4051,Paris,33 Avenue Du Doc Arnold Netter,Paris
+449,Best Western Hotel Grand Parc,48.8556,2.74292,Chanteloup En Brie,Route De La Ferme Du Pavillon,Paris
+450,Residhome Val D Europe,48.85493,2.77062,Montevrain,3 Place Jean Monnet,Paris
+451,Campanile Prime - Nanterre,48.89196,2.21389,Nanterre,20-22 Av Pablo Picasso,Paris
+452,Ibis Paris Bastille St Antoine,48.85174,2.37866,Paris,13 Rue Trousseau,Paris
+453,Residhome Courbevoie La Defense,48.89801,2.23812,Courbevoie,49Avenue De L Arche,Paris
+454,Experimental Marais,48.86298,2.35807,Paris,116 Rue Du Temple,Paris
+455,La Conversation,48.83279,2.30368,Paris,61 Rue Brancion,Paris
+456,Le Temple De Jeanne,48.85517,2.36024,Paris,125 Rue Saint Antoine,Paris
+457,Villa Nicolo,48.85835,2.28051,Paris,3 Rue Nicolo,Paris
+458,Mercure Paris Nanterre,48.8966,2.19571,Paris,2 Avenue Benoit Frachon,Paris
+459,Hotel Terminus Orleans,48.82359,2.32473,Paris,197 Bd Brune,Paris
+460,Maison Astor Paris,48.87277,2.31936,Paris,"11, Rue D Astorg",Paris
+461,Hotel Astoria,48.88168,2.32294,Paris,42 Rue De Moscou,Paris
+462,Kyriad Eco - Montreuil,48.86842,2.43102,Montreuil,64 Rue Jean Lolive,Paris
+463,Hotel Les Bulles De Paris,48.84918,2.34723,Paris,32 Rue Des Ecoles,Paris
+464,Hotel First Paris,48.84768,2.30227,Paris,2 Boulevard Garibaldi,Paris
+465,Mercure Paris Sud Les Ulis Courtaboeuf,48.67916,2.19905,Les Ulis,3 Rue Rio Salado,Paris
+466,Hotel Opera Opal,48.87283,2.32572,Paris,19 Rue Tronchet,Paris
+467,Campanile Creteil Centre,48.78463,2.46,Creteil,52 Avenue Du Chemin De Mesly,Paris
+468,Ibis Saint Germain En Laye,48.89608,2.09049,Saint Germain En Laye,10 Bis Rue Des Joueries,Paris
+469,Hotel De Sevres,48.8481,2.32496,Paris,22 Rue De L Abbe Gregoire,Paris
+470,Villa D Estrees Hotel,48.85351,2.34258,Paris,17 Rue Git Le Coeur,Paris
+471,Novotel Paris La Defense Nanterre,48.89635,2.21938,Nanterre,14 Rue Des 3 Fontanot,Paris
+472,Hotel Louison Ex Aviatic,48.84536,2.32134,Paris,105 Rue De Vaugirard,Paris
+473,Alane Gare De L'Est,48.87539,2.35707,Paris,Boulevard De Magenta 72,Paris
+474,Hotel Apollinaire,48.84129,2.32578,Paris,39 Rue Delambre,Paris
+475,B&B Home Paris Mairie De Saint-Ouen,48.90963,2.33876,Paris,65 Rue Du Docteur Bauer,Paris
+476,Regina Opera,48.87085,2.35182,Paris,11 Bis Rue De Mazagran,Paris
+477,Atypik,48.90393,2.30693,Clichy,20 Rue Villeneuve,Paris
+478,Kyriad Eco - Suresnes - La Dfense,48.86735,2.22654,Suresnes,17 Bd Henri Sellier,Paris
+479,Courtyard Saint Denis Marriott,48.92222,2.343,Saint Denis,34 Bd De La Liberation Zac Ple,Paris
+480,Kyriad Le Bourget Centre,48.93985,2.43091,Le Bourget,134-136 Av De La Division Leclerc,Paris
+481,9Hotel Opera,48.87633,2.34714,Paris,14 Rue Papillon,Paris
+482,Ibis Paris Vanves Parc Expo,48.82217,2.29411,Vanves,43 Rue Jean Bleuzen,Paris
+483,Holiday Inn Paris Opera Grands Blvds,48.87157,2.34371,Paris,30-32 Boulevard Poissonniere,Paris
+484,Hotel Delambre Paris Montparnasse,48.84135,2.32608,Paris,35 Rue Delambre,Paris
+485,Hotel La Manufacture,48.83294,2.35543,Paris,8 Rue Philippe De Champag,Paris
+486,Marais Bastille,48.85725,2.37144,Paris,36 Boulevard Richard Lenoir,Paris
+487,Alison,48.87105,2.32037,Paris,"21, Rue De Surene",Paris
+488,L Empire Paris,48.86075,2.34258,Paris,48 Rue De Larbre Sec,Paris
+489,Maison Breguet,48.85648,2.37201,Paris,8 Rue Breguet,Paris
+490,Contact Hotel Bleu France,49.01967,2.09676,Eragny,Rue Des Pinsons,Paris
+491,Domaine Reine Margot Paris Issy Mgallery,48.82286,2.27708,Issy Les Moulineaux,3 Cours De La Reine Margot,Paris
+492,Mercure Paris 15 P Versailles,48.83833,2.29047,Paris,6 Rue Saint Lambert,Paris
+493,Hotel La Tremoille,48.86687,2.30286,Paris,14 Rue De La Tremoille,Paris
+494,Holiday Inn Exp Marne La Vallee Deurop,48.8485,2.83105,Bailly Romainvilliers,Boulevard Des Artisans,Paris
+495,Rochester Champs Elysees Hotel,48.87238,2.30931,Paris,92 Rue La Boetie,Paris
+496,Le Monna Lisa By Inwood,48.87154,2.30775,Paris,97 Rue La Boetie,Paris
+497,Novotel Paris Expo Porte De Versailles,48.82759,2.30466,Paris,4 Boulevard Brune,Paris
+498,Du Cadran,48.85654,2.30593,Paris,"10, Rue Du Champ De Mars",Paris
+499,Hotel De La Bretonnerie,48.85832,2.35602,Paris,22 Rue De Sainte Croix De La Bretonnerie,Paris
+500,Hotel Du Chemin Vert,48.86101,2.38063,Paris,97 Rue Du Chemin Vert,Paris
+501,B&B Hotel Paris Porte Des Lilas,48.88004,2.40779,Paris,23 Avenue Rene Fonck,Paris
+502,Alma,48.85698,2.30331,Paris,"""32, Rue De LExposition""",Paris
+503,Hipark By Adagio La Villette,48.88489,2.39743,Paris,28 Boulevard D Indochine,Paris
+504,Hotel Gaston,48.88749,2.30796,Paris,51 Boulevard Pereire,Paris
+505,The Atlantic Hotel,48.87814,2.32634,Paris,44 Rue De Londres,Paris
+506,Okko Hotels Paris Porte De Versailles,48.8325,2.27836,Paris,2 Rue Du Colonel Pierre Avia,Paris
+507,Ibis Styles Paris Batignolles,48.88988,2.32116,Paris,119 Avenue De Clichy,Paris
+508,Hotel Les Jardins Du Faubourg,48.87022,2.31933,Paris,9 Rue D Aguesseau,Paris
+509,Hotel Joli Mome,48.88379,2.32265,Paris,11 Rue Des Batignolles,Paris
+510,Taylor Hotel,48.86942,2.35914,Paris,"6, Rue Taylor",Paris
+511,Des Pavillons,48.87643,2.2906,Paris,16 Rue Des Acacias,Paris
+512,Hotel Saint Cyr Etoile,48.88046,2.28555,Paris,101 Avenue Des Ternes,Paris
+513,Adagio Access Paris Clamart,48.78126,2.24088,Clamart,426 Av Du General De Gaulle,Paris
+514,Platine Hotel Paris,48.84741,2.28347,Paris,20 Rue Ing Robert Keller,Paris
+515,Premiere Classe Roissy - Aeroport Charle,48.99808,2.51567,Roissy-En-France,Zac Du Parc De Roissy - Allee Des Vergers,Paris
+516,Nest Paris La Defense Mgallery,48.88816,2.24842,Puteaux,33 Voie Des Sculpteurs,Paris
+517,Hotel Le M Paris Montparnasse,48.83982,2.32358,Paris,20 Bis Rue De La Gaite,Paris
+518,Comfort Hotel Linas - Montlhery,48.62973,2.2625,Linas Montlhery,10 Avenue Ettore Bugatti,Paris
+519,Htl Le Relais St Honore,48.86519,2.33158,Paris,308 Rue Saint Honore,Paris
+520,La Bourdonnais By Inwood,48.85499,2.3046,Paris,111 Avenue De La Bourdonnais,Paris
+521,B&B Hotel Saclay,48.71409,2.17118,91190,Rn 118 Plateau Du Moulon,Paris
+522,Hotel Prince De Conti,48.85568,2.33841,Paris,8 Rue Guenegaud,Paris
+523,Hotel Le 5 Particulier,48.87942,2.27496,Neuilly Sur Seine,5 Rue Paul Deroulede,Paris
+524,Clairefontaine,48.83597,2.32534,Paris,11 Rue Fermat,Paris
+525,Williams Opera,48.87684,2.34577,Paris,3 Rue Mayran,Paris
+526,Clarisse,48.82899,2.30053,Paris,"159, Boulevard Lefebvre",Paris
+527,Ibis Acheres,48.97232,2.08034,Acheres,"2 Avenue Jacques Chirac, Building B",Paris
+528,Maison Saintonge,48.86182,2.36262,Paris,"16, Rue De Saintonge",Paris
+529,Hotel Montaigne,48.86552,2.30387,Paris,6 Avenue Montaigne,Paris
+530,Exe Panorama,48.8762,2.35,Paris,"Rue Des Messageries, 9",Paris
+531,Grand Hotel Des Gobelins,48.83757,2.35503,Paris,57 Blvd Saint Marcel,Paris
+532,Hotel Madame Reve,48.86474,2.343,Paris,48 Rue Du Louvre,Paris
+533,Hotel Crayon,48.86398,2.34144,Paris,25 Rue Du Bouloi,Paris
+534,Og Marne La Vallee Est Meaux,48.94574,2.86974,Villenoy,27 Rue Jean Pierre Plicque,Paris
+535,Hotel Gabbie,48.87268,2.30206,Paris,9 Rue Washington,Paris
+536,Boudoir Des Muses,48.86135,2.36205,Paris,6 Rue De Saintonge,Paris
+537,Madeleine Haussmann,48.87179,2.32331,Paris,10 Rue Pasquier,Paris
+538,Hotel Le Friedland,48.87509,2.30484,Paris,177 Rue Du Faubourg Saint-Hono,Paris
+539,Hotel Brighton,48.86484,2.329,Paris,218 Rue De Rivoli,Paris
+540,D Orsay,48.70421,2.18916,Orsay,2 Rue Francois Leroux,Paris
+541,Bw Plus 61 Paris Nation Hotel,48.84644,2.41041,Paris,61 Rue De La Voute,Paris
+542,Hotel Madame Drouot,48.87392,2.34059,Paris,19 Rue Drouot,Paris
+543,Hotel Mode Paris Aparthotel,48.8712,2.28729,Paris,4-6 Rue Leroux,Paris
+544,Hotel Du Lion,48.83338,2.33196,Paris,1 Avenue D General Leclerc,Paris
+545,Hotel Miramar,48.84229,2.32026,Paris,6 Place Bienvenue,Paris
+546,Moderniste,48.83582,2.2924,Paris,5 Rue De Langeac,Paris
+547,Hotel Arioso,48.87465,2.31683,Paris,7 Rue D Argenson,Paris
+548,Hotel De Jobo,48.85546,2.36193,Paris,"8, Rue De, ""Sevigne To 10 Rue DOrmesson""",Paris
+549,Hotel De La Jatte,48.894,2.26633,Neuilly Sur Seine,4 Boulevard Du Parc,Paris
+550,Hotel Sleeping Belle,48.84661,2.36974,Paris,234 Rue De Bercy,Paris
+551,Solly Hotel,48.86751,2.35401,Paris,4 Rue Salomon De Caus,Paris
+552,Hotel B55 Paris,48.82598,2.34214,Paris,55 Rue Boussingault,Paris
+553,Grand Hotel Leveque,48.85744,2.30618,Paris,29 Rue Cler,Paris
+554,L Exposition Tour Eiffel,48.84881,2.28815,Paris,42 Bis Rue Du Theatre,Paris
+555,Kyriad Eco - Marne-La-Valle,48.85345,2.66607,St-Thibault-Des-Vignes,"Rue De L Etang De Loy, Marne La Vallee",Paris
+556,Hotel Etoile Trocadero,48.86617,2.28713,Paris,21 Rue Saint Didier,Paris
+557,Appartcity Paris 13,48.82785,2.37961,Paris,70 Avenue De France,Paris
+558,Diese Hotel Bastille,48.85504,2.38654,Paris,131 Rue De Charonne,Paris
+560,Relais Christine,48.85443,2.33998,Paris,3 Rue Christin,Paris
+561,Hotel Villa Des Ambassadeurs,48.86531,2.29052,Paris,6 Rue Bouquet De Longchamp,Paris
+562,Ibis Paris Porte De Bercy,48.82515,2.39397,Charenton Le Pont,2 Place De L Europe,Paris
+563,Green Hotels Confort Roissy,48.97703,2.51118,Tremblay En France,62 Rue De La Perdrix,Paris
+564,Ibis Budget Paris Pte Vincenne,48.84933,2.41638,Paris,2 Avenue Leon Gaumont,Paris
+565,Hotel Antin Saint Georges,48.87797,2.33786,Paris,21 Rue Notre Dame De Lorette,Paris
+566,Bob Hotel,48.83349,2.31899,Paris,30 Rue Pernety,Paris
+567,B&B Hotel Creteil,48.76752,2.46447,Creteil,4 Rue Daniel Costantini,Paris
+568,Les Jardins De Saint Cloud,48.84393,2.22168,Saint Cloud,15 Rue Dantan,Paris
+569,Ibis Paris Brancion Expo 15Eme,48.83024,2.30202,Paris,105 Rue Brancion,Paris
+570,Paris D Issy Hotel Porte De Versailles,48.82349,2.27294,Issy Les Moulineaxu,4 Rue Auguste,Paris
+571,Castille Paris Starhotels Lvx,48.86832,2.32686,Paris,33-37 Rue Cambon,Paris
+572,Maison Athenee,48.87137,2.32805,Paris,19 Rue Caumartin,Paris
+573,Mercure Montmartre Sacre Coeur,48.88527,2.33007,Paris,3 Rue Caulaincourt,Paris
+574,Le Belmont Paris,48.86924,2.29784,Paris,30 Rue De Bassano,Paris
+575,Hotel Opera Richepanse,48.86872,2.32521,Paris,14 R Chevalier St George,Paris
+576,Manoir Saint Germain Des Pres Hotel,48.85378,2.33232,Paris,153 Boulevard Saint Germain,Paris
+577,Mama Shelter Paris East,48.85978,2.40284,Paris,109 Rue De Bagnolet,Paris
+578,Tulip Htl & Resid-Marne-La-Vallee Torcy,48.8387,2.65752,Torcy,3 Avenue Jean Moulin,Paris
+579,Hotel Paradiso,48.84824,2.39331,Paris,135 Boulevard Diderot,Paris
+580,Hotel Andre Latin,48.84288,2.34261,Paris,50 Rue Gay Lussac,Paris
+581,Renaissance Paris La Defense,48.89258,2.23292,Paris,60 Jardin De Valmy,Paris
+582,Best Western Hotel Journel Paris Sud,48.65695,2.40538,Ris Orangis,8 Rue Du Clos,Paris
+583,Hotel Leopold,48.8401,2.33063,Paris,225 Boulevard Raspail,Paris
+584,B&B Hotel Massy Gare Tgv,48.72254,2.27039,Massy,15 Rue Galvani,Paris
+585,Libertel Gare De L'Est Francais,48.87619,2.35706,Paris,13 Rue Du 8 Mai 1945,Paris
+586,Paris Bastille,48.85096,2.36994,Paris,67 Rue De Lyon,Paris
+587,Hotel Monceau Wagram,48.88087,2.29895,Paris,7 Rue Rennequin,Paris
+588,Mercure Mlv Bussy St Georges,48.83849,2.71098,Bussy Saint Georges,44 Boulevard Antoine Giroust,Paris
+589,Ibis Paris Levallois-Perret,48.89136,2.2898,Levallois Perret,24 Rue De Trebois,Paris
+590,Green Park Hotel Paris,48.87835,2.38425,Paris,4 Rue Hassard,Paris
+591,Sax Paris Lxr Hotels And Resorts,48.8468,2.31276,Paris,55 Avenue De Saxe,Paris
+592,Hotel And Spa Royal Madeleine,48.87289,2.32401,Paris,29 Rue De L Arcade,Paris
+593,Les Dames Du Pantheon,48.84451,2.34545,Paris,19 Place Du Pantheon,Paris
+594,Ibis Senlis,49.20844,2.60577,Senlis,72 Avenue Du General De Gaulle,Paris
+595,Paris Hotel Clichy,48.90209,2.31312,Clichy La Garenne,3 Rue Henri Poincare,Paris
+596,Appartcity Paris Velizy,48.78043,2.20651,Velizy Villacoublay,3 Avenue Morane Saulnier,Paris
+597,Mercure Paris Massy Gare Tgv,48.72751,2.26487,Massy,"21, Avenue Carnot",Paris
+598,Campanile Prime - Bussy-Saint-Georges,48.83204,2.70497,Bussy St Georges,"8 Av Marie Curie, Zac Du Centre Ville",Paris
+599,Cheval Blanc Paris,48.8588,2.34186,Paris,8 Quai Du Louvre,Paris
+600,Hotel Wallace,48.84613,2.29846,Paris,89 Rue Fondary,Paris
+601,Mercure Paris Ivry Quai De Seine,48.81817,2.40056,Ivry Sur Seine,5 Allee De La Seine,Paris
+602,Premiere Classe Paris Nord - Sarcelles,49.0,2.38333,Sarcelles,"Zone D Activite, 1 Rue Du Vignolle",Paris
+603,Novotel Paris 17,48.89185,2.30216,Paris,34 Avenue Porte D Asnieres,Paris
+604,Kyriad Eco - Bussy-St-Georges,48.83248,2.70544,Bussy Saint Georges,8 Avenue Maris Curie,Paris
+605,Jardin Le Brea,48.84291,2.32985,Paris,14 Rue Brea,Paris
+606,Hotel Balzac Paris,48.87334,2.30039,Paris,6 Rue Balzac,Paris
+607,Adagio Paris Boulogne,48.82855,2.23903,Boulogne Billancourt,770 Rue Yves Kermen,Paris
+608,Auriane Porte De Versailles,48.83411,2.29521,Paris,"60, Rue Olivier De Serres",Paris
+609,Hotel Malte - Astotel,48.86715,2.33752,Paris,63 Rue De Richelieu,Paris
+610,De La Paix Tour Eiffel,48.85681,2.30304,Paris,19 Rue Du Gros Caillou,Paris
+611,Adagio Access Defense Charras,48.89482,2.2491,Courbevoie,1 Rue De Bitche,Paris
+612,Premiere Classe Cergy Saint Christophe,49.05411,2.0189,Cergy,Rn 14 Rue De La Pompe,Paris
+613,Le Roch Hotel And Spa,48.86623,2.3329,Paris,28 Rue Saint Roch,Paris
+614,Danemark Hotel,48.8434,2.32988,Paris,21 Rue Vavin,Paris
+615,Alexandrine Opera,48.88005,2.32627,Paris,10 Rue De Moscou,Paris
+616,Des Ducs D Anjou Hotel,48.85986,2.34712,Paris,1 Rue Sainte Opportune,Paris
+617,Grand Hotel Lafayette,48.87501,2.34165,Paris,6 Rue Buffault,Paris
+618,Adagio Paris Buttes Chaumont,48.87829,2.38651,Paris,3 - 5 Cours Du 7Eme Art,Paris
+619,Ibis Styles Paris 15 Lecourbe,48.83883,2.2894,Paris,192 Rue De La Croix Nivert,Paris
+620,Maison Albar - Le Pont-Neuf,48.86061,2.34419,Paris,23 Rue Du Pont Neuf,Paris
+621,Timhotel Paris Gare De L Est,48.87493,2.36018,Paris,27 Rue Des Recollets,Paris
+622,Hotel Monterosa - Astotel,48.87945,2.3342,Paris,30 Rue La Bruyere,Paris
+623,Premiere Classe Roissy Le Mesnil Amelot,49.01781,2.58678,Le Mesnil Amelot,Rue Du Stade Sauvanet,Paris
+624,Hotel L Echiquier Opera Paris,48.87177,2.34927,Paris,38 Rue De L Echiquier,Paris
+625,Hotel Roi De Sicile Rivoli,48.85599,2.35734,Paris,19 Rue De Rivoli,Paris
+626,Hotel Les Bains,48.86395,2.35191,Paris,7 Rue Du Bourg L Abbe,Paris
+627,Ibis Styles Asnieres Centre,48.90649,2.28741,Asnieres Sur Seine,10 Bis Rue Du Chateau,Paris
+628,Serotel Suites,48.87624,2.34835,Paris,77 Rue Faubourg Poissoniere,Paris
+629,Royal Bergere,48.87341,2.34395,Paris,8 Rue Geoffroy Marie,Paris
+630,Hotel Raspail Montparnasse,48.84166,2.33001,Paris,203 Boulevard Raspail,Paris
+631,Mercure Montmartre Basilique,48.88261,2.3416,Paris,100 Boulevard De Rochechouart,Paris
+632,Hotel Montsouris Orleans,48.82407,2.33008,Paris,15 Rue Beaunier,Paris
+633,Champerret Elysees,48.88522,2.29396,Paris,"129,Avenue De Villiers",Paris
+634,Princesse Caroline,48.87562,2.29567,Paris,1 Bis Rue Troyon,Paris
+635,Sejours Affaires Nanterre,48.88499,2.19614,Nanterre,50 Rue Des Vignes,Paris
+636,B&B Hotel Bretigny Sur Orge,48.62409,2.29904,Bretigny-Sur-Orge,Francilienne Sortie 42,Paris
+637,Test,48.84488,2.32078,Paris,33 Bd Du Montparnasse,Paris
+638,Hipark By Adagio Val D Europe,48.85857,2.78608,Serris,18 Cours De L Elbe,Paris
+639,Ibis Paris La Defense Esplanade Hotel,48.88787,2.25236,La Defense,"4 Boulevard De Neuilly La Defense, 1 - Pont De Neuilly",Paris
+640,Campanile Cesson Vert St Denis,48.56675,2.63322,Cesson,"260 Av De L Europe, Vert Saint Denis",Paris
+641,Lion Dor Paris Hotel,48.86537,2.33178,Paris,6 Rue De La Sourdiere,Paris
+642,Hotel Bel Ami,48.85474,2.33305,Paris,7/11 Rue St-Benoit,Paris
+643,Novotel Chateau De Versailles,48.8157,2.12815,Le Chesnay,4 Bld Saint Antoine,Paris
+644,Hotel Murat,48.83743,2.25876,Paris,119 Bis Boulevard Murat,Paris
+645,Paxton Paris Mlv,48.828,2.70959,Paris,1 Av Joseph Paxton,Paris
+646,Tribe Paris Clichy,48.90394,2.30287,Clichy,105 Bd Jean Jaures,Paris
+647,Hotel Royal Saint Germain,48.84493,2.32511,Paris,159 Rue De Rennes,Paris
+648,Odalys City Levallois Maurice Ravel,48.89464,2.29547,Levallois-Perret,2 Rue Trezel,Paris
+649,Ibis Styles Paris Mairie De Montreuil,48.86253,2.44354,Montreuil,15 19 Rue Franklin,Paris
+650,Mercure Paris Porte De Pantin,48.89024,2.39936,Pantin,"22 Avenue Jean Lolive, Pantin",Paris
+651,Eurohotel Orly Rungis,48.75336,2.33684,Fresnes,"63, Avenue Parc Medicis",Paris
+652,Ibis Styles Paris Villejuif,48.78865,2.36913,Villejuif,11 Avenue Louis Aragon,Paris
+653,Adagio Paris Nation,48.8407,2.39787,Paris,17 Rue Lamblardie,Paris
+654,La Perle Hotel,48.85212,2.33365,Paris,14 Rue Des Canettes,Paris
+655,Villa Saxe Eiffel Hotel,48.84972,2.30961,Paris,9 Villa De Saxe,Paris
+656,Warwick Paris,48.87223,2.30304,Paris,5 Rue De Berri,Paris
+657,Eurohotel Paris Creteil,48.76539,2.47163,Creteil,"12, Avenue Fernand Pouillon",Paris
+658,Adagio Paris Opera,48.87272,2.32817,Paris,43 Rue Caumartin,Paris
+659,Niepce Paris Htl Curio Collection,48.83487,2.31832,Paris,4 Rue Ni Pce,Paris
+660,Citadines Place D Italie Paris,48.83059,2.35493,Paris,18 Place Ditalie,Paris
+661,Residhome Neuilly Bords De Marne,48.85145,2.51335,Neuilly Plaisance,1 Rue Du Canal,Paris
+662,Hotel Daval,48.85466,2.37113,Paris,21 Rue Daval,Paris
+663,Novotel Paris Les Halles,48.8606,2.34656,Paris,8 Place Marguerite De Navarre,Paris
+664,Ibis Budget Versailles Forum,48.75426,1.93331,Coignieres,"Rue Du Gibet, Forum De Coigni#Bcres",Paris
+665,Hotel De Geneve,48.87773,2.32751,Paris,36 Rue De Londres,Paris
+666,Ibis Styles Cadet Lafayette,48.87824,2.34747,Paris,11 Bis Rue Pierre Semard,Paris
+667,Premiere Classe Paris-Gennevilliers Nord,48.93315,2.30384,Gennevilliers,Zac Des Barbanniers Avenue Du Gal De Gaulle,Paris
+668,Hotel Maxim Folies,48.8737,2.34452,Paris,14 Rue Geoffroy Marie,Paris
+669,Ibis Gare Du Nord La Fayette,48.87806,2.35266,Paris,122 Rue Lafayette,Paris
+670,Hotel Belle Ville,48.87715,2.40579,Paris,349 Rue De Belleville,Paris
+671,Leon Hotel,48.88299,2.33602,Paris,40 Boulevard De Clichy,Paris
+672,Campanile Prime - Paris Ouest Boulogne,48.8346,2.24246,Boulogne Billancourt,"5, Rue Carnot",Paris
+673,Ibis Paris Av Republique,48.86652,2.36789,Paris,14 Rue Rampon,Paris
+674,Villa Glamour Tour Eiffel,48.86458,2.27796,Paris,85 Rue De La Pompe,Paris
+675,Hotel Dandy,48.86233,2.34959,Paris,86 Rue Saint Denis,Paris
+676,Off Paris Seine,48.84281,2.36789,Paris,86 Quai D Austerlitz,Paris
+677,Odalys City Levallois Perret Paris,48.89564,2.29812,Levallois-Perret,34 Rue Jules Verne,Paris
+678,Ibis Budget Pontault Combault,48.77803,2.58903,Pontault Combault,2 Za La Tete De Buis Rn 4,Paris
+679,Hotel Le Singulier,48.86653,2.28527,Paris,38 Rue Saint Didier,Paris
+680,Ibis Styles Massy Opera,48.73301,2.28979,Massy,6 Rue De L Opera,Paris
+681,Hotel Excelsior Opera,48.87353,2.33449,Paris,5 Rue La Fayette,Paris
+682,The People Paris Nation,48.84759,2.39733,Paris,28B Place De La Nation,Paris
+683,Holiday Inn Auteuil,48.83798,2.25847,Paris,21 Rue Gudin,Paris
+684,Hotel Salvia,48.848,2.34231,Paris,16 Rue Cujas,Paris
+685,Hotel Langlois,48.87684,2.33365,Paris,63 Rue Saint Lazare,Paris
+686,Hotel Marais Grands Boulevards,48.86878,2.35417,Paris,112 Boulevard De Sebastopol,Paris
+687,Hotel Bowmann,48.87484,2.31795,Paris,99 Boulevard Haussmann,Paris
+688,Novotel Paris Vaugirard Montparnasse,48.83988,2.30308,Paris,257 Rue De Vaugirard,Paris
+689,Ibis Paris Canal Saint Martin,48.87941,2.36837,Paris,12 Rue Louis Blanc,Paris
+690,Citadines Saint Germain Paris,48.85556,2.34093,Paris,"53 Ter Quai Des Grands, Augustins",Paris
+691,Cour Des Vosges - Evok Collection,48.8562,2.3647,Paris,19 Place Des Vosges,Paris
+692,Le Parc Hotel - Plessis Robinson,48.7787,2.25199,Plessis Robinson,10 Avenue Paul Langevin,Paris
+693,Hotel De La Place Du Louvre,48.85927,2.34079,Paris,"21 Rue Des Pretres Saint, Germain L Auxerrois",Paris
+694,Auteuil Tour Eiffel,48.85056,2.27522,Paris,8-10 Rue Felicien David,Paris
+695,Villa Eiffel Mademoiselle,48.84372,2.29684,Paris,35 Rue Mademoiselle,Paris
+696,Grands Boulevards Experimental,48.87088,2.34486,Paris,17 Boulevard Poissonniere,Paris
+697,Hotel Le 46,48.87921,2.28765,Paris,46 Rue Brunel,Paris
+698,Greet Hotel Paris 13 Porte D Italie,48.8162,2.3656,Le Kremlin Bicetre,"22 Rue Voltaire, Building B",Paris
+699,Hotel Du Petit Moulin,48.86161,2.36217,Paris,29 To 31 Rue De Poitou,Paris
+700,Hotel Charlemagne,48.8847,2.25861,Paris,Neuilly Sur Seine,Paris
+701,De Castiglione Hotel,48.86914,2.32078,Paris,38-40 Rue Du Faubourg Saint Honore,Paris
+702,Grand Hotel Dore,48.83913,2.39745,Paris,201 Avenue Daumesnil,Paris
+703,Hyatt Regency Paris Etoile,48.88051,2.28456,Paris,3 Place Du General Koenig,Paris
+704,Citadines Opera Paris,48.87133,2.33831,Paris,18 Rue Favart,Paris
+705,Premiere Classe Chelles,48.88909,2.59289,Chelles Cedex,Eae De La Tuilerie,Paris
+706,Neuilly Park Hotel,48.88189,2.27667,Neuilly Sur Seine,23 Rue Madeleine Michelis,Paris
+707,Hotel Vendome Opera,48.87172,2.32354,Paris,11 Bis Rue De L Arcade,Paris
+708,Du Continent,48.86641,2.32692,Paris,30 Rue Du Mont-Thabor,Paris
+709,Lodge In,48.82104,2.37632,Paris,2-16 Rue Theroigne De Mericourt,Paris
+710,Ibis Styles Paris Bercy,48.8385,2.38084,Paris,77 Rue De Bercy,Paris
+711,Adagio La Defense Courbevoie,48.89335,2.25315,Courbevoie,2-4 Place Des Pleiades,Paris
+712,Marquis Faubourg Saint-Honore,48.8698,2.32084,Paris,8 Rue D Anjou,Paris
+713,Hotel Henri Iv-Rive Gauche,48.85192,2.34627,Paris,9 To 11 Rue Saint Jacques,Paris
+714,Hotel De Normandie,48.87762,2.32693,Paris,4 Rue D Amsterdam,Paris
+715,Sofitel Paris Baltimore Eiffel,48.86638,2.28951,Paris,88 Avenue Kleber,Paris
+716,Fred Hotel,48.83223,2.31639,Paris,11 Avenue Villemain,Paris
+717,Hotel Madeleine Plaza,48.87106,2.3248,Paris,33 Place De La Madeleine,Paris
+718,Odalys City Paris - Paris Xvii,48.89975,2.32171,Paris,14 Rue Helene Et Francois Missoffe,Paris
+719,Hotel Albe Bastille,48.8494,2.37442,Paris,66 Rue De Charenton,Paris
+720,Novotel Evry Courcouronnes,48.61658,2.42451,Evry,"3 Rue De La Mare Neuve, Lac De Courcouronnes",Paris
+721,Le Grey Hotel,48.88135,2.32742,Paris,12 Rue De Parme,Paris
+722,Hotel Eden Paris,48.84051,2.29911,Paris,110 Rue Blomet,Paris
+723,Hotel Odyssey,48.86504,2.34171,Paris,"19, Rue Herold",Paris
+724,La Clef Champs-Elysees Paris,48.87046,2.29915,Paris,44-46 Rue De Bassano,Paris
+725,Hotel Claret Bercy,48.8399,2.38157,Paris,44 Boulevard De Bercy,Paris
+726,Hotel Lena,48.87776,2.35501,Paris,"98, Boulevard De Magenta",Paris
+727,Bw Premier The Blake Paris,48.88033,2.31955,Paris,18 Rue De Constantinople,Paris
+728,Jacques De Molay,48.86357,2.36079,Paris,94 Rue Des Archives,Paris
+729,Campanile Paris Est - Bobigny,48.90588,2.45753,Bobigny,"304, Avenue, Paul-Vaillant Couturier",Paris
+730,Sejours Affaires Malakoff,48.81915,2.30378,Malakoff,120 Boulevard Gabriel Peri,Paris
+731,Hotel Fior D Aliza,48.87676,2.3391,Paris,39 Rue Lamartine,Paris
+732,Hotel Grands Hommes,48.84572,2.34502,Paris,17 Place Du Pantheon,Paris
+733,Campanile Nature - Les Ulis,48.67722,2.19465,Les Ulis,10 Avenue Des Andes,Paris
+734,Hotel Du Quai De Seine,48.88726,2.37324,Paris,Passage De Flandre 3,Paris
+735,Hotel Touraine,48.87635,2.33531,Paris,73 Rue Taitbout,Paris
+736,Hotel Du Printemps,48.84615,2.40178,Paris,80 Boulevard De Picpus,Paris
+737,Adagio Access Paris Reuilly,48.8496,2.37235,Paris,13 Rue De Reuilly,Paris
+738,Aparthotel Adagio Access Paris Asnieres,48.916,2.28898,Asnieres Sur Seine,16 Rue Des Freres Chausson,Paris
+739,Hotel Antin Trinite,48.87434,2.3321,Paris,74 Rue De Provence,Paris
+740,De Fleurie,48.85237,2.33752,Paris,32 Rue Gregoire De Tours,Paris
+741,B&B Hotel Cergy Port,49.03449,2.07215,Cergy-Pontoise Cedex,"3, Avenue Du Parc",Paris
+742,Ibis Paris Gennevilliers,48.92585,2.29088,Gennevilliers,32 Rue Louis Calmel,Paris
+743,Le Littre Hotel,48.84543,2.32407,Paris,9 Rue Littre,Paris
+744,Ibis Styles Paris Saint Lazare,48.8797,2.321,Paris,9 Rue De Constantinople,Paris
+745,Motel One Paris-Porte Doree,48.8346,2.40972,Paris,295 Avenue Daumesnil,Paris
+746,Timhotel Tour Eiffel,48.85019,2.29225,Paris,11 Rue Juge,Paris
+747,Campanile Nature - Sannois Ermont,48.98161,2.24291,Sannois Ermont,Rue Des Loges,Paris
+748,Le Card Hotel,48.88537,2.3114,Paris,104 Rue De Cardinet,Paris
+749,Residence Cadet,48.87474,2.34275,Paris,7 Rue Cadet,Paris
+750,All Suites Appart Hotel Palaiseau Massy,48.72173,2.24786,Palaiseau,25 Avenue Des Allies,Paris
+751,Hotel Virgina,48.82398,2.32746,Paris,66 Rue Du Pere Corentin,Paris
+752,Hotel Francois 1Er,48.87024,2.29995,Paris,7 Rue Magellan,Paris
+753,De L Horloge,48.86534,2.38334,Paris,"25, Passage De Menilmontant",Paris
+754,Bezons Paris La Defense,48.92401,2.21729,Bezons,11 Rue Ethel Et Julius Rosenberg,Paris
+755,Mercure Paris Notre Dame St Germain,48.8503,2.34506,Paris,20 Rue Du Sommerard,Paris
+756,Best Western Hotel Le Montparnasse,48.84497,2.32124,Paris,37 Boulevard Du Montparnasse,Paris
+757,B&B Hotel Meaux,48.95673,2.90659,Meaux,5 Avenue De La Victoire,Paris
+758,Hotel Ami,48.8413,2.30276,Paris,7 Rue Du General Beuret,Paris
+759,Residhome Monceau,48.90738,2.26096,Bois Colombes,3 Place De La Renaissance,Paris
+760,Bohem Sacre Coeur,48.88986,2.33899,Paris,53 Bis Rue Lamarck,Paris
+761,Hotel Saint Louis De Pigalle,48.88237,2.33466,Paris,6 Rue Fromentin,Paris
+762,Gabriel Issy-Paris,48.8278,2.27321,Issy-Les-Moulineaux,32 Boulevard Des Freres Voisin,Paris
+763,Mercure Paris Gare De Lyon,48.8445,2.37293,Paris,2 Place Louis Armand,Paris
+764,Westside Arc De Triomphe,48.88126,2.29473,Paris,36 Rue Pierre Demours,Paris
+765,Ibis Budget L'Isle Adam,49.12567,2.25049,L'Isle Adam,"Centre Commercial Le Grand Val, Zac Du Pont Aux Rayons",Paris
+766,Okko Hotels Paris Gare De L'Est,48.8775,2.3582,Paris,"""30A Rue DAlsace""",Paris
+767,Ibis Styles Saint Denis Pleyel,48.92889,2.34025,Paris,2 Quai De St Ouen,Paris
+768,Mercure Paris Boulogne,48.8337,2.25647,Boulogne Billancourt,37 Place Rene Clair,Paris
+769,Panache,48.8732,2.34313,Paris,1 Rue Geoffroy Marie,Paris
+770,Le Mathurin,48.87325,2.32398,Paris,43 Rue Des Mathurins,Paris
+771,Charing Cross Hotel,48.87485,2.32375,Paris,39 Rue Pasquier,Paris
+772,Apollon Montparnasse Hotel,48.83474,2.31703,Paris,91 Rue De L Ouest,Paris
+773,Hotel Montalembert,48.86285,2.31324,Paris,3 Rue Montalembert,Paris
+774,Appartcity Paris Clichy,48.90207,2.30724,Clichy-La-Garenne,4  Rue Palloy,Paris
+775,9Confidentiel,48.85687,2.35625,Paris,58 Rue Du Roi De Sicile,Paris
+776,Ibis Styles Paris La Defense Courbevoie,48.8974,2.24708,Courbevoie,99 Rue Du Capitaine Guynemer,Paris
+777,Hotel Inn Paris Place D Italie,48.83166,2.35733,Paris,178 Bd Vincent Auriol,Paris
+778,Hotel Saint Dominique 62,48.85994,2.30875,Paris,"62, Rue Saint Dominique",Paris
+780,Mercure Paris Eiffel Mirabeau,48.8461,2.27888,Paris,10 Avenue Emile Zola,Paris
+781,Hotel Pley,48.87561,2.30406,Paris,214 Rue Du Faubourg Saint Honore,Paris
+782,Mercure Paris Ouest St Germain,48.90307,2.09334,Saint Germain En Laye,11 Avenue Des Loges,Paris
+783,Scarlett,48.87322,2.38278,Paris,1 Rue Jouye Rouve,Paris
+785,O Lysee Hotel,48.87057,2.30758,Paris,7 Rue Du Colisee,Paris
+786,Esprit Saint Germain,48.85146,2.33644,Paris,22 Rue Saint Sulpice,Paris
+787,Novotel Paris 13 Porte D'Italie,48.81605,2.36432,Le Kremlin Bicetre,"22 Rue Voltaire, Building A",Paris
+788,Campanile Crteil Bonneuil,48.77058,2.49167,Bonneuil Sur Marne Cretei,"2, Av Des Bleuets Za Des Petits Carreaux",Paris
+789,Campanile Nature - Epone,48.95986,1.81579,Epone,Avenue Du Chemin Mauldre,Paris
+790,Plaza Tour Eiffel,48.86452,2.28225,Paris,32 Rue Greuze,Paris
+791,Les Jardins De Mademoiselle,48.84364,2.29474,Paris,15 Rue De Mademoiselle,Paris
+792,Chateau Des Fleurs,48.87177,2.29839,Paris,19 Rue Vernet,Paris
+793,Hotel Villeneuve La Garenne,48.94071,2.32462,Villeneuve La Garenne,"80 Boulevard Charles De Gaulle, Chemin Du Bucher",Paris
+794,Le Narcisse Blanc Hotel Spa,48.86054,2.31034,Paris,19 Boulevard De La Tour Maubourg,Paris
+795,B&B Hotel Meaux Nanteuil-Les-Meaux,48.94674,2.88024,Nanteuil-Les-Meaux,2 Rue Du Typographe,Paris
+796,Campanile Senlis,49.20802,2.60475,Senlis,Route Nationale 324,Paris
+797,Hotel Floride Etoile,48.86625,2.28788,Paris,14 Rue Saint Didier,Paris
+798,Maison Monceau,48.88228,2.305,Paris,38 Rue Cardinet,Paris
+799,Best Western Seine West Hotel,48.87896,2.24287,Puteaux,19-20 Quai De Dion Bouton,Paris
+800,Mayflower Hotel,48.88137,2.32349,Paris,34 Rue De Moscou,Paris
+801,Hotel Aston,48.87182,2.34492,Paris,12 Cite Bergere,Paris
+802,Mistral,48.83691,2.32383,Paris,"24, Rue Cels",Paris
+803,Hotel 34B,48.87266,2.34358,Paris,34 Rue Bergere,Paris
+804,Pavillon Des Gatines,48.80219,1.97735,Plaisir,46 Ter Rue Pierre Curie,Paris
+805,Hotel Bobigny Centre Prefecture,48.9062,2.45642,Bobigny,302 Av Paul-Vaillant-Couturier,Paris
+806,Premiere Classe Mlv - Torcy,48.83388,2.66054,Torcy,Rue Anne Franck,Paris
+807,Nh Paris Opera Faubourg,48.87536,2.34147,Paris,49-51 Rue La Fayette,Paris
+808,Hotel Prince Albert Wagram,48.88649,2.31229,Paris,28 Passage Cardinet,Paris
+809,Mercure Paris 19 Philharmonie Lavillette,48.88884,2.39424,Paris,216 Avenue Jean Jaures,Paris
+810,B&B Hotel Paris 17 Batignolles,48.89432,2.31239,Paris,4 Boulevard Berthier,Paris
+811,Hotel Galileo,48.87133,2.29823,Paris,54 Rue Galilee,Paris
+812,Les Jardins D Eiffel,48.85916,2.30744,Paris,8 Rue Amelie,Paris
+813,Htl De Suede St Germain,48.85256,2.31917,Paris,31 Rue Vaneau,Paris
+814,Hotel Pavillon Monceau,48.88534,2.30792,Paris,43 Rue Jouffroy D Abbans,Paris
+815,Campanile Paris Est Porte De Bagnolet,48.86534,2.41671,Bagnolet,"28 Avenue Du General De Gaulle, B.L. 311",Paris
+816,Hotel Palm - Astotel,48.87749,2.34344,Paris,30 Rue De Maubeuge,Paris
+817,Citadines Gare De Lyon Paris,48.84626,2.3838,Paris,"14-18, Rue De Chaligny",Paris
+818,Ibis Budget Marne La Vallee Pontault,48.79922,2.62573,Pontault Combault,"Parc Des Activit Des Arpents, Rue Des Cygnes",Paris
+819,Odeon Hotel,48.85143,2.33881,Paris,3 Rue De L Odeon,Paris
+820,Mercure Malakoff Parc Expo,48.81673,2.30615,Malakoff,122 Avenue Pierre Brossolette,Paris
+821,Kyriad Paris 18 - Porte Clignancourt - M,48.89699,2.34547,Paris,78 Boulevard Ornano,Paris
+822,Ibis Styles Colombes Paris,48.9342,2.25852,Colombes,1 Rue Albert Camus,Paris
+823,De L Abbaye St Germain,48.85008,2.33054,Paris,10 Rue Cassette,Paris
+824,Ibis Styles Pantin,48.89023,2.39929,Pantin,"22 Avenue Jean Lolive, Building B",Paris
+825,Emile,48.85537,2.36126,Paris,2 Rue Malher,Paris
+826,Ibis Budget Meudon,48.8173,2.24883,Meudon,3 Bis Rue De Paris,Paris
+827,Timhotel Paris Gare Montparnasse,48.84296,2.32124,Paris,22 Rue De Larrivee,Paris
+828,Kyriad Villeneuve Saint Georges,48.76111,2.44558,Villeneuve-St-Georges,"11, 15 Rue Louis Armand",Paris
+829,Agenor,48.83683,2.32401,Paris,Rue Cels 22,Paris
+830,Premiere Classe La Ville-Du-Bois,48.65216,2.27118,La Ville Du Bois,Zac Des Graviers - Allee Saint Fiacre,Paris
+831,The Originals City Hotel La Verriere,48.7589,1.95032,La Verriere,"Rue Louis Lormand, 78-Yvelines France",Paris
+832,L Interlude,48.83643,2.40414,Paris,258 Avenue Daumesnil,Paris
+833,Holiday Inn Express Paris - Velizy,48.77877,2.21245,Velizy Villacoublay,"""51 Avenue De LEurope""",Paris
+834,Marignan Champs Elysees,48.8685,2.30647,Paris,12 Rue De Marignan,Paris
+835,Hotel Marena Opera,48.87917,2.34306,Paris,27 Rue De La Tour D Auvergne,Paris
+836,Bw Anjou Lafayette Opera,48.87611,2.34652,Paris,4 Rue Riboutte  Sq Montholon,Paris
+837,Le Belgrand Htl Par Champs Elysees Tapes,48.87002,2.29081,Paris,51 Rue Lauriston,Paris
+838,Ibis Budget Velizy,48.78216,2.22601,Velizy Villacoublay,"1, Rue Du Petit Clamart",Paris
+839,Premiere Classe Le Blanc Mesnil,48.95116,2.46675,Le Blanc-Mesnil,Avenue Descartes,Paris
+840,The Villa Modigliani,48.8416,2.32792,Paris,13 Rue Delambre,Paris
+841,Residence Nell,48.8741,2.34263,Paris,60 Rue Richer,Paris
+842,Quorum Hotel,48.8427,2.20731,Saint Cloud,2 Boulevard De La Republique,Paris
+843,B&B Hotel Cergy Pierrelaye,49.0226,2.14143,Pierrelaye,Rn 14 Za La Porte Ouest,Paris
+844,Le Grand Mazarin,48.85341,2.3488,Paris,17 Rue De La Verrerie,Paris
+845,Ibis Budget Paris Gennevilliers,48.94206,2.30494,Gennevilliers,"5 Avenue Des Louvresses, Zac Des Louvresses",Paris
+846,Esteem Tour Eiffel,48.84813,2.28728,Paris,9 Rue Ginoux,Paris
+847,Arc Porte D Orleans,48.81759,2.32425,Paris,11 Rue Gabriel Peri,Paris
+848,Hotel Londres Et New York,48.8753,2.32636,Paris,15 Place Du Havre,Paris
+849,Trendy Canettes Hotel,48.85198,2.33375,Paris,17 Rue Des Canettes,Paris
+850,Jeanne D Arc Le Marais,48.85558,2.36322,Paris,3 Rue De Jarente,Paris
+851,Terrass Hotel,48.88654,2.3332,Paris,"12 Rue Joseph De Maistre, 18 Arrondissement Montmartre",Paris
+852,Aparthotel Adagio La Defense Kleber,48.89428,2.24864,Courbevoie,73 Avenue Gambetta,Paris
+853,Mercure Paris La Defense Arche,48.89567,2.22315,Nanterre,17 Esplanade Charles De Gaulle,Paris
+854,Zenao Appart Hotel Alfortville,48.8037,2.4234,Alfortville,54 Rue Victor Hugo,Paris
+855,Hotel Villa Sorel,48.83545,2.24298,Boulogne Billancourt,20 Rue Georges Sorel,Paris
+856,Hotel De L Exposition,48.86903,2.36285,Paris,4 Boulevard De Magenta,Paris
+857,"Comfort Aparthotel Versailles,St Cyr",48.80668,2.05311,Saint Cyr L Ecole,68 Rue Gabriel Peri,Paris
+858,Best Western Paris Porte De Versailles,48.82349,2.27457,Issy Les Moulineaux,11 Bis Avenue Jean Jaures,Paris
+859,Hotel Design Sorbonne,48.84812,2.34252,Paris,6 Rue Victor Cousin,Paris
+860,Moxy Paris Charles De Gaulle Airport,49.00735,2.54755,Paris,5 Rue Du Signe,Paris
+861,Hotel Le National Clichy Paris,48.90453,2.30477,Clichy,32 Bd Jean Jaures,Paris
+862,"Tribute Le Parchamp, Paris Boulogne",48.84023,2.23548,Boulogne-Billancourt,"114 Route De La Reine,, 46 Rue De Billancourt",Paris
+863,Hotel Jules And Jim,48.86359,2.35737,Paris,11 Rue Des Gravilliers,Paris
+864,Hotel Elysees Opera,48.88148,2.32446,Paris,17 Rue De Turin,Paris
+865,Aparthotel Adagio Paris Montrouge,48.82009,2.31131,Montrouge,96 Rue Gabriel Peri,Paris
+866,Airelles Le Grand Controle,48.80134,2.11993,Versailles,12 Rue De Independance Americaine,Paris
+867,Hotel Helussi,48.87789,2.34696,Paris,22 Bis Rue De Bellefond,Paris
+868,Melia Paris Champs Elysees,48.86874,2.28288,Paris,"102 Avenue Victor Hugo, Distrito 16",Paris
+869,All Suites Appart Hotel Noisy Le Grand,48.84046,2.54131,Noisy-Le-Grand,3 Boulevard Du Mont D Est,Paris
+870,Hotel Therese,48.86585,2.33614,Paris,5 Rue Therese,Paris
+871,Chateau De L Hermitage,49.06246,2.11367,Ennery,8 Rue Du Parc,Paris
+872,Hotel De Lutece,48.85244,2.35466,Paris,65 Rue Saint Louis,Paris
+873,Ibis Styles Paris Gare Est,48.87921,2.36222,Paris,1 Et 3 Rue De Chateau Landon,Paris
+874,Ibis Styles Bourg La Reine,48.78073,2.31576,Bourg La Reine,82 Av General Leclerc,Paris
+875,Yuna Maillot Hotel Apartments,48.88662,2.28577,Paris,48 Rue Jacques Ibert,Paris
+876,Mercure Paris Arc De Triomphe Wagram,48.87604,2.29616,Paris,3 Rue Brey,Paris
+877,Hotel Paris Gennevilliers,48.933,2.30395,Gennevilliers,6 Avenue Du General De Gaulle,Paris
+878,Hotel Arc De Triomphe Etoile,48.87654,2.2964,Paris,"""3, Rue De LEtoile""",Paris
+879,Novotel Suites Paris Issy-Les-Moulineaux,48.82901,2.26338,Paris,86 Rue Camille Des Moulins,Paris
+880,Adagio Access St Denis Pleyel,48.91835,2.34255,Saint Denis,10 Rue Du Docteur Finot,Paris
+881,Hotel Dalila,48.89657,2.34363,Paris,51 Rue Letort,Paris
+882,Premiere Classe St Quentin En Yvelines,48.76215,1.97446,Trappes,"65 Bis Avenue Georges Politzer, Za De Trappes Elancourt",Paris
+883,Ibis Styles Paris Boulogne Marcel Sembat,48.83351,2.24436,Boulogne Billancourt,92 Boulevard De La Republique,Paris
+884,Fauchon L Hotel Paris,48.87042,2.32358,Paris,4 Boulevard Malesherbes,Paris
+885,Les Tournelles,48.85697,2.36455,Paris,30 Rue De Turenne,Paris
+886,Hotel Istria,48.83909,2.32943,Paris,29 Rue Campagne Premiere,Paris
+887,Hotel Westminster,48.8694,2.33116,Paris,13 Rue De La Paix,Paris
+888,Melia Paris La Defense,48.88854,2.25076,Courbevoie,"3, Boulevard De Neuilly",Paris
+889,Hotel De L Arcade,48.87162,2.32349,Paris,9 Rue De L Arcade,Paris
+890,Hotel Bassano,48.869,2.29719,Paris,15 Rue De Bassano,Paris
+891,Porte De Versailles Hotel,48.83511,2.2825,Paris,"11,Boulevard Victor",Paris
+892,B&B Hotel Lieusaint Carre Senart 3 Etoil,48.63771,2.54257,Lieusaint,Rue Du Danemark,Paris
+893,Hotel Le Saint Gregoire,48.84717,2.32595,Paris,43 Rue De Labbe Gregoire,Paris
+894,Laz Hotel Spa Urbain Paris,48.87869,2.32765,Paris,17 Rue De Milan,Paris
+895,Ze Hotel Paris,48.87891,2.34486,Paris,10 Rue De La Tour D Auvergne,Paris
+896,Courcelles Mederic,48.88019,2.30256,Paris,4 Rue Mederic,Paris
+897,Hotel Plaza Etoile,48.8761,2.29645,Paris,21 Avenue De Wagram,Paris
+898,Voco Porte De Clichy,48.898,2.31009,Clichy,2 Rue Du 8 Mai 1945,Paris
+899,Hotel L Eaubonne,48.9927,2.2832,Eaubonne,16 B Avenue De Paris,Paris
+900,Chavanel Hotel,48.87218,2.32627,Paris,22 Rue Tronchet,Paris
+901,Ibis Paris 17 Clichy-Batignolles,48.89215,2.31489,Paris,10 Rue Bernard Buffet,Paris
+902,Patio Bastille,48.84934,2.39044,Paris,289 Bis Rue Du Faubourg Saint Antoine,Paris
+903,Sofitel Le Scribe Paris Opera,48.87057,2.32973,Paris,1 Rue Scribe,Paris
+904,Mama Shelter Paris La Defense,48.88547,2.25005,Puteaux,10 Rue Jean Jaures,Paris
+905,Hotel Maison 46,48.84583,2.29839,Paris,46 Rue De La Croix Nivert,Paris
+906,Ibis Styles Paris Massena,48.82364,2.37148,Paris,82 84 Rue Regnault,Paris
+907,The People Paris Bercy,48.83903,2.39251,Paris,28 Boulevard De Reuilly,Paris
+908,Villa Sopi Appart Hotel By Patrick Hayat,48.87981,2.34506,Paris,29 Rue Condorcet,Paris
+909,Hotel Chateaudun Opera,48.87618,2.33691,Paris,30 Rue Chateaudun,Paris
+910,La Fantaisie,48.87542,2.34347,Paris,24 Rue Cadet,Paris
+912,Mercure Paris Place Italie,48.83019,2.35288,Paris,25 Boulevard Blanqui,Paris
+913,Hotel Adele Et Jules,48.87216,2.3453,Paris,2 Et 4 Bis Cite Rougemont,Paris
+914,Novotel Paris Centre Bercy,48.83878,2.38076,Paris,85 Rue De Bercy,Paris
+915,Hotel Vivaldi,48.88297,2.24071,Puteaux,5 Rue Roque De Fillol,Paris
+916,Premiere Classe Melun-Vert Saint Denis,48.56668,2.63329,Vert-St-Denis,"270 Avenue De L Europe, Zae Jean Monnet",Paris
+917,Hotel Square Louvois,48.86841,2.33683,Paris,12 Rue De Louvois,Paris
+918,Campanile Chaville - Pont De Svres,48.8133,2.19261,Chaville,"1 Parvis Robert Schuman, 885 Avenue Roger",Paris
+919,Hotel Albert 1Er,48.88154,2.17851,Rueil-Malmaison,20 Avenue Albert 1Er,Paris
+920,Miiro Le Grand Hotel Cayre,48.85534,2.3255,Paris,4 Boulevard Raspail,Paris
+921,Campanile Nature - Taverny,49.01554,2.21943,Taverny,"Centre Commercial Les Portes De Taverny A 115, 1 Rue Theroigne De Mericourt",Paris
+922,Grand Coeur Latin,48.84815,2.34198,Paris,20 Rue Cujas,Paris
+923,Jills Hotel,48.87251,2.35516,Paris,61 Rue De Chateau D Eau,Paris
+924,B&B Hotel Paris Porte D'Orleans,48.82048,2.32249,Montrouge,53-55 Boulevard Romain Rolland,Paris
+925,Hotel Park Lane,48.87453,2.31879,Paris,"4, Rue De La Boetie",Paris
+926,Timhotel Le Louvre,48.86224,2.33947,Paris,4 Rue Croix Des Petits Champs,Paris
+927,Hotel Pas De Calais,48.85377,2.33009,Paris,59 Rue Des Saints Peres,Paris
+928,Hotel Mathis Paris,48.87005,2.31131,Paris,3 Rue De Ponthieu,Paris
+929,Hotel Louvre Saint-Honore,48.86179,2.34066,Paris,141 Rue Saint Honore,Paris
+930,Elysee Etoile Paris,48.87663,2.29626,Paris,"""5 Rue De LEtoile""",Paris
+931,Residhome Paris Asnieres Park,48.91925,2.31592,Asnieres,3 Rue Maria Montessori,Paris
+932,Hotel Saint Paul Rive Gauche,48.84966,2.34017,Paris,43 Rue Monsieur Le Prince,Paris
+933,Tribe Paris Suresnes,48.87071,2.23219,Suresnes,33 Quai Gallieni,Paris
+934,New Hotel Le Voltaire,48.85837,2.3817,Paris,3 Rue Petion,Paris
+935,Hotel Britannique,48.85826,2.34638,Paris,20 Avenue Victoria,Paris
+936,Adagio Paris Bercy,48.83207,2.38748,Paris,1-7 Cours Du Minervois,Paris
+937,Des Bains,48.84137,2.3262,Paris,33 Rue Delambre,Paris
+938,Ibis Paris Porte D'Orleans,48.81736,2.3294,Montrouge,33 Rue Barbes,Paris
+939,B&B Hotel Corbeil Essonnes,48.61066,2.46031,Corbeil-Essonnes,3 Avenue Du 8 Mai 1945,Paris
+940,Le Jardin De Verre By Locke,48.84364,2.35368,Paris,7 Rue Lacepede,Paris
+941,Hotel Le A,48.87239,2.30892,Paris,4 Rue D Artois,Paris
+942,Ibis Paris Ornano Montmartre,48.89703,2.3454,Paris,70 Bis Boulevard Ornano,Paris
+943,Le Senat Hotel,48.8491,2.33971,Paris,10 Rue De Vaugirard,Paris
+944,Citizenm Paris La Defense,48.89412,2.23003,Nanterre,194 Jardin De L Arche,Paris
+945,Paris Art Hotel By Malone,48.84741,2.35239,Paris,1 Rue Des Ecoles,Paris
+946,Residence Des Arts Hotel Paris,48.85353,2.3424,Paris,14 Rue Git Le Coeur,Paris
+947,Campanile Villepinte,48.96102,2.55301,Villepinte,2-8 Rue Jean Fourgeaud,Paris
+948,B&B Hotel Goussainville Cdg,49.01881,2.46205,Goussainville,17 Rue Le Corbusier,Paris
+949,Chambiges Elysees Hotel,48.86686,2.30387,Paris,8 Rue Chambiges,Paris
+950,Hotel Folie,48.85369,2.38813,Paris,12 Rue Leon Frot,Paris
+951,M Social Hotel Paris,48.87247,2.33757,Paris,12 Boulevard Haussmann,Paris
+952,Ibis Paris Tour Montparnasse 15Th Hotel,48.84341,2.32025,Paris,22 Avenue Du Maine,Paris
+953,Secret De Paris Hotel & Spa,48.88137,2.32829,Paris,2 Rue De Parme,Paris
+954,Le Dauphin,48.88352,2.24368,Puteaux,"45, Rue Jean Jaures",Paris
+955,Hotel D'Alsace,48.87576,2.35743,Paris,85 Boulevard De Strasbourg,Paris
+956,Timhotel Paris Gare De Lyon,48.84679,2.37021,Paris,3 Rue D Austerlitz,Paris
+957,Hotel Etoile Maillot,48.87557,2.28367,Paris,Avenue Malakoff 143,Paris
+958,Bonne Nouvelle,48.86934,2.34952,Paris,17 Rue Beauregard,Paris
+959,Adagio Access Paris Nanterre,48.89237,2.18811,Nanterre,110 Rue Henri Barbusse,Paris
+960,Premiere Classe Paris - Rosny Sous Bois,48.87839,2.47549,Rosny-Sous-Bois,"3 Rue De Lisbonne, Zac De Nanteuil",Paris
+961,Hotel D Angleterre Saint Germa,48.85582,2.33325,Paris,44 Rue Jacob,Paris
+962,Adagio Paris Xv,48.83112,2.28234,Paris,20 Rue D Oradour Sur Glane,Paris
+963,Quality Suites Maisons-Laffitte Paris Ou,48.94569,2.15219,Maisons Laffitte,16-18 Rue De Paris,Paris
+964,Shangri-La Paris,48.8637,2.29339,Paris,10 Avenue D Iena,Paris
+965,Timhotel Palais Royal,48.86643,2.33987,Paris,3 Rue De La Banque,Paris
+966,Hotel Jardin De Villiers,48.88403,2.31499,Paris,18 Rue Claude Pouillet,Paris
+967,Brit Hotel Privilege Paris - Rosny,48.87772,2.47569,Rosny-Sous-Bois,2 Rue De Lisbonne,Paris
+968,Hotel Lautrec Opera,48.87106,2.33883,Paris,8-10 Rue D Amboise,Paris
+969,Motel One Paris-Versailles,48.82995,2.28514,Paris,5 Rue Du 4 Septembre,Paris
+970,Hotel Michelet Odeon,48.84975,2.3382,Paris,6 Place De L Odeon,Paris
+971,Hotel Monsieur And Spa,48.87354,2.32173,Paris,62 Rue Des Mathurins,Paris
+972,Ibis Paris Porte De Montreuil,48.85455,2.41555,Paris,2 Avenue Du Professeur Andre Lemierre,Paris
+973,Residhome Paris Opera,48.87475,2.32909,Paris,30 Rue Joubert,Paris
+974,Premiere Classe Versailles-St Cyr,48.7972,2.05859,St-Cyr,Rue Du Pont De Dreux,Paris
+975,Hotel Roi Soleil Prestige Plaisir,48.80085,1.96252,Plaisir,1277 Avenue Du Pressoir,Paris
+976,Eugenie,48.85326,2.34204,Paris,31 Rue Saint Andre Des Arts,Paris
+977,Ibis Budget Marne La Vallee Es,48.86205,2.67376,St Thibault Des Vignes,33 Avenue St Germain Des Noyer,Paris
+978,Nh Collection Ponthieu Champs-Elysees,48.87086,2.30924,Paris,24 Rue De Ponthieu,Paris
+979,Bobo S Hotel,48.82329,2.32611,Paris,108 Boulevard Jourdan,Paris
+980,Maison Villeroy,48.86525,2.30477,Paris,33 Rue Jean Goujon,Paris
+981,Les Demeures De Varennes,48.67863,2.56062,Varennes Jarcy,2 Rue De Brie,Paris
+982,Citadines Montmartre Paris,48.88519,2.33117,Paris,"16, Avenue Rachel",Paris
+983,Mercure Paris La Defense,48.89568,2.25111,Courbevoie,"30 Rue Baudin, Place Charras",Paris
+984,Timhotel Paris Gare Du Nord,48.87952,2.35567,Paris,37 Rue De Saint Quentin,Paris
+985,B&B Hotel Paris Clichy-Sous-Bois 3 Etoil,48.90572,2.55097,Clichy Sous Bois,1 Allee Etienne Laurent,Paris
+986,Residhome Paris Clamart,48.79257,2.27259,Clamart,Passage Du Panorama,Paris
+987,Adagio Access Paris Porte De Charenton,48.82925,2.40122,Charenton Le Pont,201 203 Rue De Paris,Paris
+988,Hotel Acadia - Astotel,48.8733,2.3437,Paris,4 Rue Geoffroy Marie,Paris
+989,Le Vert Galant,48.83225,2.35042,Paris,43 Rue Croulebarbe,Paris
+990,Maison Barriere Vendome Paris,48.86578,2.32817,Paris,17 Rue Du Mont Thabor,Paris
+991,New Hotel Opera,48.87974,2.32873,Paris,4 Rue De Liege,Paris
+992,Leonardo Boutique Paris Opera,48.87178,2.34461,Paris,Cite Bergere 8,Paris
+993,Lyric Hotel,48.869,2.33679,Paris,2 Rue De Gramont,Paris
+995,Tulip Residences Joinville-Le-Pont,48.82,2.47583,Joinville Le Pont,"16, Avenue Du General Galieni",Paris
+996,Ibis Paris Alesia Montparnasse 14Th,48.82744,2.32103,Paris,49 Rue Des Plantes,Paris
+997,Kyriad Prestige Asnieres Sur Seine,48.91902,2.31296,Asnieres-Sur-Seine,2 Avenue De La Paix,Paris
+998,Ibis Nanterre La Defense,48.88832,2.21261,Nanterre,36 38 Avenue Des Champs Pierreux,Paris
+999,Best Western Aramis Saint Ger,48.84673,2.3264,Paris,124 Rue De Rennes,Paris
+1000,Adagio Access Defense Vinci,48.89686,2.23468,Courbevoie,88 Rue Des Etudiants,Paris
+1001,Ibis Gare Nord Chateau Landon,48.88091,2.36279,Paris,197/199 Rue Lafayette,Paris
+1002,Campanile Nature-Cergy St. Christophe,49.05574,2.03657,Cergy,"12 Rue Du Petit Albi, Parc D Activites De L Horloge",Paris
+1003,Hotel Saint Marc,48.87081,2.33822,Paris,36 Rue Saint Marc,Paris
+1004,Hotel Des Saints Peres,48.85341,2.32991,Paris,65 Rue Des Saints Peres,Paris
+1005,Hotel Rose Bourbon,48.84398,2.28872,Paris,53 Rue De L Eglise,Paris
+1006,Hotel Fabric,48.86306,2.37286,Paris,31 Rue De La Folie Mericourt,Paris
+1007,Louvre Sainte Anne,48.86647,2.33575,Paris,"32, Rue Sainte Anne",Paris
+1008,Bridget,48.86907,2.39537,Paris,258 Rue Des Pyrenees,Paris
+1009,Hotel Fontaines Du Luxembourg,48.84902,2.34011,Paris,4 Rue De Vaugirard,Paris
+1010,Hotel De L Esperance,48.83815,2.3496,Paris,15 Rue Pascal,Paris
+1011,Holiday Inn Paris Gare De Lyon Bastille,48.84681,2.37178,Paris,11 Rue De Lyon,Paris
+1012,Ibis Paris Italie Tolbiac 13E,48.8258,2.35263,Paris,177 Rue De Tolbiac,Paris
+1013,Hotel Le Six,48.8438,2.32811,Paris,14 Rue Stanislas,Paris
+1014,Ares Eiffel,48.8504,2.29833,Paris,7 Rue Du Gnrl De Larminat,Paris
+1015,Hotel Avalon Cosy,48.88082,2.35147,Paris,28 Rue De Dunkerque,Paris
+1016,Ibis Budget Saint Maurice,48.81595,2.45902,Paris Saint Maurice,252 Rue Du Marechal Leclerc,Paris
+1017,Seven Hotel Paris,48.839,2.34566,Paris,"20, Rue Berthollet",Paris
+1018,Hotel Noucha,48.85048,2.27056,Paris,66 Rue Jean De La Fontaine,Paris
+1019,Hotel Mayfair Paris Con,48.86614,2.32615,Paris,3 Rue Rouget De L Isle,Paris
+1020,Ibis Styles Versailles Sqy,48.79627,2.05824,Saint Quentin En Yvelines,1 Rue Du Pont De Dreux,Paris
+1021,Residence Paris Asnieres,48.90888,2.28779,Asnieres,7 Rue Du General Mangin,Paris
+1022,Maison Traversiere,48.84721,2.37261,Paris,31 Rue Traversiere,Paris
+1023,Ibis Budget Marne La Vallee Chelles,48.89057,2.5931,Chelles Cedex,9 Rue De Derri Re La Montagne,Paris
+1024,Holiday Inn Elysees,48.87299,2.31604,Paris,24 Rue De Miromesnil,Paris
+1025,Hotel Le Pavillon,48.85995,2.30934,Paris,54 Rue Saint Dominque,Paris
+1026,Novotel Paris Gare De Lyon,48.84537,2.37527,Paris,2 Rue Hector Malot,Paris
+1027,The Hoxton Paris,48.87005,2.34639,Paris,30-32 Rue De Sentier,Paris
+1028,Hotel Marguerite,48.82523,2.36084,Paris,102 Avenue De Choisy,Paris
+1029,Hotel Paris Marne-La-Vallee By Ihg,48.85532,2.80824,Magny Le Hongre,40 Allee De La Mare Houleuse,Paris
+1030,Opera Deauville,48.87816,2.32707,Paris,"""40 Rue DAmsterdam""",Paris
+1031,Intercontinental Paris Champs-Elyses,48.87052,2.29802,Paris,64 Marceau,Paris
+1032,Best Western Plus Sydney Opera,48.87339,2.32407,Paris,50 Rue Des Mathurins,Paris
+1033,Campanile Nature - Meaux,48.95656,2.91791,Meaux,1 Rue De La Cave Aux Herons,Paris
+1034,Hotel Da Vinci,48.85661,2.33201,Paris,25 Rue Des Saints Peres,Paris
+1035,Sejours Affaires Paris Davout,48.85772,2.40953,Paris,129 Boulevard Davout,Paris
+1036,B&B Hotel Cergy Saint Christophe,49.05243,2.05353,Cergy,Avenue De La Plaine Des Sports,Paris
+1037,Ibis Paris Porte De Saint Ouen,48.90147,2.32797,Saint Ouen,9 Rue La Fontaine,Paris
+1038,Premiere Classe Plaisir - Gatines,48.80294,1.97227,Plaisir,36 Rue Pierre Curie,Paris
+1039,Bw Empire Elysees,48.87797,2.29555,Paris,3 Rue De Montenotte,Paris
+1040,Montparnasse Saint Germain,48.84236,2.32343,Paris,19 Rue Du Depart,Paris
+1041,Ibis Paris Vaugirard,48.83589,2.29497,Paris,5 Rue Eugene Gibez,Paris
+1042,Hotel De Paris,48.84111,2.24029,Boulogne,104 Bis Rue De Paris,Paris
+1043,Appia La Fayette,48.87841,2.35707,Paris,13 Rue Des Deux Gares,Paris
+1044,Lion D Or Paris Suites,48.86548,2.33182,Paris,5 Rue De La Sourdiere,Paris
+1045,Paris Sud Villabe Ace Hotel,48.58862,2.45267,Villabe,1 Route De Villoison,Paris
+1046,Le Relais Saint Charles,48.85027,2.29335,Paris,72 Boulevard De Grenelle,Paris
+1047,Maison Malesherbes,48.87554,2.3187,Paris,11 Place Saint Augustin,Paris
+1048,Une Autre Chambre,48.8651,2.35656,Paris,3 Rue Bailly,Paris
+1049,Ibis Rungis Paris Orly,48.75342,2.35067,Rungis,4 Avenue Charles Lindbergh,Paris
+1050,Ibis Budget Gennevilliers,48.91815,2.30704,Gennevilliers,4 Rue Georges Corete,Paris
+1051,Hotel La Maison Montparnasse,48.83265,2.3165,Paris,56 Rue De Gergovie,Paris
+1052,Hotel Whistler,48.87937,2.35598,Paris,36 Rue De Saint Quentin,Paris
+1053,Hotel Petit Lafayette,48.87611,2.34574,Paris,46 Rue De Trevise,Paris
+1054,Des Grandes Ecoles,48.84532,2.35012,Paris,75 Rue Du Cardinal Lemoine,Paris
+1055,Ibis Budget Paris Porte D Italie West,48.81583,2.36371,Kremlin Bicetre,"6/15, Rue Elisee Reclus",Paris
+1056,Novotel Paris Stade Basilique,48.92993,2.35686,Saint Denis,1 Place De La Porte De Paris,Paris
+1057,Hotel Lavoisier,48.87376,2.32016,Paris,21 Rue Lavoisier,Paris
+1058,Exquis Hotel,48.85374,2.38055,Paris,"71, Rue De Charonne",Paris
+1059,Lyf Gambetta Paris,48.86379,2.40336,Paris,2Bis 4 Rue De La Cour Des Noues,Paris
+1060,Hotel D Orsay,48.86039,2.3231,Paris,93 Rue De Lille,Paris
+1061,Paris Marriott Rive Gauche Htl & Con Ctr,48.83166,2.34007,Paris,17 Boulevard Saint Jacques,Paris
+1062,Hotel Maison Hamelin Paris,48.86613,2.2926,Paris,10-12 Rue De L Amiral Hamelin,Paris
+1063,Aparthotel Adagio La Defense Esplanade,48.88808,2.24725,Paris,"35 Cours Michelet, La Defense 10",Paris
+1064,Hotel Mansart,48.86853,2.32975,Paris,5 Rue Des Capucines,Paris
+1065,Hotel Le Colisee,48.87044,2.30768,Paris,6 Rue Du Colisee,Paris
+1066,Hotel Andrea,48.85818,2.35029,Paris,3 Rue Saint-Bon,Paris
+1067,Hotel Du Parc Montparnasse,48.84083,2.32389,Paris,6 Rue Jolivet,Paris
+1068,Hotel Eiffel Turenne,48.85423,2.30758,Paris,20 Avenue De Tourville,Paris
+1069,Hotel De Seze,48.87056,2.3264,Paris,16 Rue De Seze,Paris
+1070,Hotel Dame Des Arts,48.85289,2.34229,Paris,4 Rue Danton,Paris
+1071,Htl Residence Foch,48.87421,2.28106,Paris,10 Rue Marbeau,Paris
+1072,Appart Hotel Zenao Suresnes,48.86844,2.22779,Suresnes,4 Rue Diderot,Paris
+1073,The One Alma Paris,48.86188,2.30392,Paris,10-12 Rue Cognacq Jay,Paris
+1074,Courseine,48.89903,2.24641,Courbevoie,"18, Avenue Marceau",Paris
+1075,Ibis Paris Porte Clichy Centre,48.8972,2.30978,Clichy,15 Boulevard Victor Hugo,Paris
+1076,Hotel Vinci Due,48.85824,2.33097,Paris,28 Rue De Lille,Paris
+1077,La Clef Tour Eiffel Paris,48.86451,2.2886,Paris,83 Avenue Kleber,Paris
+1078,Paris Neuilly,48.88463,2.26006,Paris,1 Ave De Madrid,Paris
+1079,Hotel Theoreme,48.87273,2.3384,Paris,15 Rue Le Peletier,Paris
+1080,Hotel Le Village Montmartre,48.88389,2.34435,Paris,20 Rue D Orsel,Paris
+1081,Appartcity Le Bourget Aeroport,48.94907,2.43909,Blanc Mesnil,158 - 164 Avenue Du 8 Mai 1945,Paris
+1082,Le Pigalle,48.88169,2.3374,Paris,9 Rue Frochot,Paris
+1083,Plaza Elysees,48.87468,2.30582,Paris,177 Boulevard Haussmann,Paris
+1084,Hotel L'Horset Opera,48.86915,2.33379,Paris,18 Rue D Antin,Paris
+1085,Hotel Le Hameau De Passy,48.85782,2.27972,Paris,48  Rue De Passy,Paris
+1086,Hotel Duo,48.85793,2.35305,Paris,11 Rue Du Temple,Paris
+1087,Hotel Les Matins,48.87889,2.33944,Paris,3 Rue Clauzel,Paris
+1088,Hc Hotel Posy,48.88301,2.3329,Paris,39 Rue Pierre Fontaine,Paris
+1089,Le Prince Regent Et Spa,48.84939,2.34015,Paris,28 Rue Monsieur Le Prince,Paris
+1090,Altona,48.88239,2.34979,Paris,166 Rue Du Faubourg Poissonniere,Paris
+1091,Urban Bivouac Hotel,48.82727,2.3647,Paris,1 Rue Sthrau - Tolbiac Olympiades,Paris
+1092,Grand Hotel Chicago,48.88383,2.31853,Paris,99 Bis Rue De Rome,Paris
+1093,Hotel Parisianer,48.84565,2.37539,Paris,"5, Rue Hector Malot",Paris
+1094,Ibis Styles Sceaux Paris Sud,48.77884,2.29374,Sceaux,20 Avenue De Camberwell,Paris
+1095,Hotel Toujours,48.87626,2.28347,Paris,155 Rue Malakoff,Paris
+1096,Surestay Apolonia Paris Montmartre Hotel,48.89129,2.34127,Paris,147 Rue Marcadet,Paris
+1097,Les Jardins De Montmartre,48.89288,2.34105,Paris,131 Rue Ordener,Paris
+1098,Og Paris Paix Republique,48.86841,2.3593,Paris,2 Bis Boulevard Saint-Martin,Paris
+1099,Canopy By Hilton Paris Eiffel Tower,48.86444,2.28504,Paris,16 Avenue D Eylau,Paris
+1100,Hotel Atmospheres Paris,48.84863,2.34805,Paris,31 Rue Des Ecoles,Paris
+1101,Zenao Appart Hotel Saint Maur Des Fosses,48.79977,2.51534,Saint-Maur-Des-Fosses,34 Rue Benjamin Franklin,Paris
+1102,Snob Hotel,48.8623,2.3495,Paris,84 Rue Saint Denis,Paris
+1103,Premiere Classe Plaisir,48.79878,1.95511,Plaisir,"Zac De Ste Apolline, Rue Des Poiriers",Paris
+1104,B&B Hotel Le Port-Marly Saint-Germain En,48.88407,2.10561,Le Port-Marly,35 Avenue De Saint Germain,Paris
+1105,Hotel Du Louvre In The Unbound Collectio,48.86297,2.33569,Paris,Place Andre Malraux,Paris
+1106,Hotel Elysees Regencia,48.86867,2.29854,Paris,41 Avenue Marceau,Paris
+1107,Hana Hotel Paris,48.86949,2.33655,Paris,17 Rue Du Quatre - Septembre,Paris
+1108,Courtyard Paris Arcueil Marriott,48.8102,2.32807,Arcueil,"6 Avenue President, Salvador Allende",Paris
+1109,Hotel Napoleon Paris,48.87429,2.29808,Paris,40 Avenue De Friedland,Paris
+1110,Kyriad Creteil - Bonneuil Sur Marne,48.76676,2.48491,Bonneuil Sur Marne,"Carrefour Du General De Gaulle, Avenue Jean Rostand",Paris
+1111,Moxy Paris Val D Europe,48.85522,2.76834,Montevrain,"""2 Avenue De LEurope""",Paris
+1112,Max Hotel,48.82791,2.3298,Paris,"""34 Rue DAlesia""",Paris
+1113,Campanile Prime - Paris 14,48.83435,2.32396,Paris,"146, Avenue Du Maine",Paris
+1114,Hotel Orphee,48.84001,2.36131,Paris,4 Boulevard Saint Marcel,Paris
+1115,Adagio Access Carrieres Sous Poissy,48.9376,2.03654,Carrieres Sous Poissy,27 Rue De La Senette,Paris
+1116,Kyriad Fontenay Tresigny,48.71247,2.85603,Fontenay Tresigny,114 Rue Bertaux,Paris
+1117,Hotel D Aubusson,48.85477,2.33947,Paris,33 Rue Dauphine,Paris
+1118,Mercure Paris Porte D-Orleans,48.81784,2.32927,Montrouge,13 Rue Francois Ory,Paris
+1119,Premiere Classe Conflans Sainte Honorine,49.00966,2.08497,Conflans-Ste-Honorine,"11 Rue Des Belles Hates, Za Des Boutries",Paris
+1120,Adagio Access Paris Maisons Alfort,48.81496,2.41878,Maisons Alfort,13 Rue Eugene Renault,Paris
+1121,Montmartre Batignolles,48.88498,2.32932,Paris,03 Rue Forest,Paris
+1122,Rayz Vendome,48.86937,2.33183,Paris,9 Rue Daunou,Paris
+1123,Ibis Paris Gare De Lyon Reuilly,48.84946,2.38532,Paris,9 Rue De Reuilly,Paris
+1124,Champerret Heliopolis,48.88514,2.29362,Paris,13 Rue D Heliopolis,Paris
+1125,New Hotel Gare Du Nord,48.8796,2.35605,Paris,40 Rue De Saint Quentin,Paris
+1126,Hotel Petit Saint Honore,48.8728,2.31578,Paris,21 Rue De Penthievre,Paris
+1127,Hyatt Paris Madeleine,48.87289,2.3215,Paris,24 Boulevard Malesherbes,Paris
+1128,Staycity Paris Gare De L Est,48.8737,2.35905,Paris,5-7 Passage Dubail,Paris
+1129,Hotel Le Richemont,48.82811,2.36865,Paris,17 Rue Jean Colly,Paris
+1130,Hotel France Albion,48.87754,2.33834,Paris,11 Rue Notre Dame De Lorette,Paris
+1131,Ibis Cergy Pontoise Le Port,49.03129,2.06931,Cergy Pontoise,28 Avenue Des Grouettes,Paris
+1132,Nemea Appart Hotel Paris Levallois,48.89795,2.29172,Levallois Perret,43 Rue Raspail,Paris
+1134,Odalys City Paris Rueil Malmaison,48.88743,2.17318,Rueil-Malmaison,113 Avenue Victor Hugo,Paris
+1135,Phileas Lazare Et Spa,48.87687,2.327,Paris,24 Rue D Amsterdam,Paris
+1136,Etats-Unis Opera Hotel,48.86901,2.33366,Paris,"""16 Rue DAntin""",Paris
+1137,Hotel D Espagne,48.87213,2.34475,Paris,9 Cite Bergere,Paris
+1138,Exe Paris Centre,48.87842,2.32687,Paris,"""29 Rue D Amsterdam""",Paris
+1139,Ibis Budget Orgeval,48.92551,1.99535,Orgeval,Rn 13,Paris
+1140,Hotel Le 6 Tiquetonne,48.86454,2.34961,Paris,6 Rue Tiquetonne,Paris
+1141,B&B Hotel Marne-La-Vallee Val D Europe,48.83968,2.78455,Serris,Zac Couternois -11 Impasse Dorothee Le Maitre,Paris
+1142,Hotel Elysia By Inwood,48.87368,2.30629,Paris,35 Rue De Berri,Paris
+1143,Ibis Budget Saint Quentin,48.78923,2.03592,Montigny Le Bretonneux,1 Place De La Paix Celeste,Paris
+1144,Best Western Au Trocadero,48.86379,2.28663,Paris,3 Avenue Raymond-Poincare,Paris
+1145,Academie Saint Germain,48.85523,2.33072,Paris,32 Rue Des Saintes Peres,Paris
+1146,Grand Hotel Malher,48.85577,2.36125,Paris,5 Rue Malher,Paris
+1147,Hotel Arc Elysees,48.8742,2.30456,Paris,45 Rue Washington,Paris
+1148,Hotel Eiffel Rive Gauche,48.85746,2.30236,Paris,6 Rue Du Gros Caillou,Paris
+1149,Hotel Terminus Montparnasse,48.8443,2.3233,Paris,59 Boulevard Du Montparnasse,Paris
+1150,Premiere Classe Villejust-Za Courtaboeuf,48.68458,2.2183,Courtaboeuf,"Zac Courtaboeuf N 7, 2 Avenue Des Deux Lacs",Paris
+1151,De Neuville Arc De Triomphe,48.88771,2.30046,Paris,3 Rue Verniquet,Paris
+1152,Hotel Xo,48.88281,2.29816,Paris,"23 To 25 Rue Theodore, De Banville",Paris
+1153,Hotel Beausejour Ranelagh,48.85562,2.26972,Paris,99 Rue De Ranelagh,Paris
+1154,All Suites Hotel Paris Pleyel L Ile Sain,48.92537,2.33348,L Lle-Saint-Denis,1 Place De La Batellerie,Paris
+1155,French Theory Quartier Latin,48.84802,2.34219,Paris,"18, Rue Cujas",Paris
+1156,Hotel Le Jardin De Cluny,48.84983,2.34683,Paris,9 Rue Sommerard,Paris
+1157,Ibis Paris Defense Courbevoie,48.89562,2.26193,Courbevoie,39 Quai Du President Paul Doumer,Paris
+1158,Hotel Lilas Blanc Grenelle,48.84833,2.29829,Paris,5 Rue De L Avre,Paris
+1159,Kyriad Les Ulis,48.67702,2.19417,Les Ulis Cedex,"Parc De Courtaboeuf 14,Ave Des Andes",Paris
+1160,Citadines La Defense Paris,48.88861,2.25229,Courbevoie,"Paris La Defense, 1-8 Boulevard De Neuilly",Paris
+1161,Hotel London,48.87133,2.3353,Paris,Boulevard Des Italiens 32,Paris
+1162,Citadines Austerlitz Paris,48.8349,2.36036,Paris,"27, Rue Esquirol",Paris
+1163,B&B Hotel Paris Italie Porte De Choisy,48.8169,2.36649,Ivry Sur Seine,15 Rue Charles Leroy,Paris
+1164,Kyriad Direct Le Bourget - Gonesse,48.97885,2.46031,Gonesse,Zi Sud14 Rue Ampere,Paris
+1165,Hotel Dali Val D Europe Tapestry Collect,48.857,2.74874,Chanteloup-En-Brie,Place Gerard Willaume,Paris
+1166,Bvlgari Hotel Paris,48.86821,2.30148,Paris,30 Avenue George V,Paris
+1167,Brit Hotel Paris Orly Rungis,48.76774,2.3682,Thiais,203 Avenue De Fontainebleau,Paris
+1168,Hotel Maison Mere,48.87713,2.34519,Paris,7 Rue Mayran,Paris
+1169,Pullman Paris Centre Bercy,48.83163,2.38703,Paris,1 Rue De Libourne,Paris
+1170,Premiere Classe Villepinte - Parc Expo,48.96106,2.55378,Villepinte,2 A 8 Avenue Jean Fourgeaud - Espace V,Paris
+1171,Garabel,48.83152,1.94266,Plaisir,Avenue Du 19 Mars 1962 78,Paris
+1172,Adagio Paris Vincennes,48.84524,2.43333,Vincennes,42 Avenue De Paris,Paris
+1173,Kleber Champs-Elysees Tour-Eiffel Paris,48.86875,2.2921,Paris,7 Rue De Belloy,Paris
+1174,Hotel Prince Albert Lyon Bercy,48.84722,2.37772,Paris,108 Rue De Charenton,Paris
+1175,Staycity Near Disneyland Paris,48.85258,2.81018,Paris,"Allee De Lorme Rond, 77700 Bailly Romainvilliers",Paris
+1176,Hotel Du Danube,48.85628,2.33192,Paris,58 Rue Jacob,Paris
+1177,Hampton By Hilton Paris Cdg,49.00704,2.52,Roissy-En-France,2 Avenue Heinz Gloor,Paris
+1178,Hotel La Villa M,48.84229,2.31265,Paris,24-30 Boulevard Pasteur,Paris
+1179,Staycity Paris La Defense,48.89069,2.25334,Courbevoie,1 Place Des Trois Freres Enghels,Paris
+1180,Kyriad Argenteuil,48.94291,2.23046,Argenteuil,35-39 Boulevard Du General,Paris
+1181,Duc De Saint-Simon,48.85609,2.32353,Paris,"14, Rue De Saint-Simon",Paris
+1182,Hotel Residence Henri Iv,48.84817,2.34907,Paris,50 Rue Des Bernardins,Paris
+1183,Hotel Atn,48.87794,2.32762,Paris,"""21, Rue DAthenes""",Paris
+1184,B&B Hotel Cergy Saint-Christophe Gare,49.05078,2.03693,Cergy,2 Rue Des Cyclades,Paris
+1185,Bw Hotel Acadie Paris Nord Villepinte,48.96432,2.56205,Tremblay-En-France,24 Avenue Marcel Paul,Paris
+1186,Hotel 123 Sebastopol - Astotel,48.8676,2.35307,Paris,123 Boulevard De Sebastopol,Paris
+1187,Yac Paris Clichy Radisson Indiv,48.90138,2.30496,Paris,69 Bd Jean Jaures,Paris
+1188,Blc Design Hotel,48.85435,2.38261,Paris,4 Rue Richard Lenoir,Paris
+1189,Hotel Queen Mary Paris,48.87305,2.32521,Paris,9 Rue De Greffulhe,Paris
+1190,Hotel Manolita,48.88585,2.33453,Paris,1 Rue Lepic,Paris
+1191,Ariane Montparnasse By Patrick Hayat,48.83209,2.32178,Paris,35 Rue De La Sabliere,Paris
+1192,Hotel Fertel Etoile,48.87608,2.2898,Paris,4 Rue Des Acacias,Paris
+1193,La Planque,48.87185,2.37015,Paris,3 Rue Arthur Groussier,Paris
+1194,New Hotel Saint Lazare,48.88016,2.32694,Paris,"""53 Rue DAmsterdam""",Paris
+1195,Hotel West End,48.86712,2.30388,Paris,7 Rue Clement Marot,Paris
+1196,Hotel Victoires Opera,48.8649,2.34692,Paris,56 Rue De Montorgueil,Paris
+1197,Cottages De France Cdg,49.04041,2.68651,Saint-Mard,15 Avenue Des Deux Moulins,Paris
+1198,Courtyard By Marriott Paris Cdg Central,49.00887,2.54917,Roissy-En-France,10 Rue Du Voyageur,Paris
+1199,Amadeus Hotel,48.84907,2.38916,Paris,39 Rue Claude Tillier,Paris
+1200,Pavillon Faubourg St G,48.85672,2.33036,Paris,5 Rue Du Pre-Aux-Clercs,Paris
+1201,Renaissance Arc De Triomphe,48.8771,2.29713,Paris,39 Avenue De Wagram,Paris
+1202,Hc Abaca Messidor,48.83688,2.29551,Paris,330 Rue De Vaugirard,Paris
+1203,Le Derby Alma By Inwood,48.86044,2.30072,Paris,8 Avenue Rapp,Paris
+1204,Residhome Carrieres La Defense,48.91115,2.16702,Carrieres Sur Seine,2 Avenue Eiffel,Paris
+1205,Madeleine De Senlis,48.84633,2.34253,Paris,9 Rue Malebranche,Paris
+1206,Hotel Les Theatres,48.86958,2.35175,Paris,98 Rue Clery,Paris
+1207,B&B Hotel Paris Porte De Bagnolet,48.86889,2.41352,Bagnolet,44 Avenue Gambetta,Paris
+1208,Hotel Eiffel Villa Garibaldi,48.84644,2.30587,Paris,48 Boulevard Garibaldi,Paris
+1209,Nolinski Paris - Evok Collection,48.86548,2.33483,Paris,16 Avenue De L Opera,Paris
+1210,Hotel My Home In Paris,48.86362,2.369,Paris,Rue De Malte 5,Paris
+1211,Welcome Hotel,48.85315,2.33689,Paris,66 Rue De Seine,Paris
+1212,Holiday Inn Exp Canal De La,48.88838,2.37847,Paris,"68 Quai De La Seine Du Bassin, De La Villette",Paris
+1213,Mercure Paris Opera Garnier,48.87492,2.32601,Paris,4 Rue De L Isly,Paris
+1214,Hotel Bourgogne And Montana,48.86015,2.31832,Paris,3 Rue De Bourgogne,Paris
+1215,Majestic Hotel Spa,48.87037,2.29387,Paris,30 Rue La Perouse,Paris
+1216,Timhotel Nation,48.85151,2.39896,Paris,5 Et 7 Rue D Avron,Paris
+1217,Hotel Du Bois,48.8717,2.29097,Paris,11 Rue Du Dome,Paris
+1218,Ibis Budget Senlis,49.20828,2.60641,Paris,"72 Av. Du General De Gaulle, ""Parc DActivites Sisteron Nord""",Paris
+1219,Le Nouvel Hotel Du Theatre,48.83948,2.32243,Paris,16 Rue Vandamme,Paris
+1220,Mama Shelter Paris West,48.8287,2.29202,Paris,20 Ave De La Porte De La Plaine,Paris
+1221,Campanile Prime - Levallois,48.89142,2.28409,Levallois Perret,"72, Rue Marius Aufan",Paris
+1222,Premiere Classe Herblay,49.00172,2.18502,Herblay,"Rue Rene Coty, Angle Avenue De La Liberation",Paris
+1223,Hc Ohm Hotel,48.83939,2.26318,Paris,"11, Rue Claude Terrasse",Paris
+1224,Og Paris Maison Montmartre,48.90041,2.33629,Paris,32 Avenue De La Porte De Montmartre,Paris
+1225,La Fondation,48.88451,2.31504,Paris,40 Rue Legendre,Paris
+1226,Maison Orphee,48.87173,2.32632,Paris,23 Rue Vignon,Paris
+1227,Kyriad Paris 13 Italie Gobelins,48.83383,2.35496,Paris,"5, Rue Veronese",Paris
+1228,Artus Hotel,48.85346,2.33608,Paris,34 Rue De Buci Paris,Paris
+1229,Ritz Paris,48.86807,2.32896,Paris,15 Place Vendome,Paris
+1231,Hotel Maxim Quartier Latin,48.84052,2.35336,Paris,28 Rue Censier,Paris
+1232,Hotel Le Little Regina,48.87606,2.35747,Paris,89 Bd De Strasbourg,Paris
+1233,Hotel L Hotel,48.85636,2.33526,Paris,13 Rue Des Beaux Arts,Paris
+1234,La Belle Juliette,48.84748,2.32246,Paris,92 Rue Du Cherche Midi,Paris
+1235,Mercure Paris Montparnasse Raspail,48.84123,2.33015,Paris,207 Boulevard Raspail,Paris
+1236,Hotel Prince Albert Montmartre,48.89326,2.33977,Paris,116 Rue Ordener,Paris
+1237,Hotel Keppler Preferred Lvx,48.86976,2.29728,Paris,10 Rue Kepler,Paris
+1238,Chateau De La Tour,49.1918,2.42929,Gouvieux Chantilly,Chemin Du Chateau De La Tour,Paris
+1239,Le Bellune,48.83417,2.28521,Paris,35 Boulevard Victor,Paris
+1241,Aida Marais,48.87003,2.36018,Paris,19 Rue Du Chateau Deau,Paris
+1242,Hotel Piapia,48.84849,2.40791,Paris,14 Rue Des Maraichers,Paris
+1243,Hotel Du Square D Anvers,48.88223,2.34489,Paris,"""6 Place DAnvers""",Paris
+1244,Hotel Saint Pierre Montmartre,48.88445,2.34726,Paris,10 Rue De Clignancourt,Paris
+1245,Hotel Doisy,48.87896,2.29194,Paris,55 Avenue Des Ternes,Paris
+1246,Sophie Germain,48.83095,2.33062,Paris,12 Rue Sophie Germain,Paris
+1247,Residhome Suites Paris Senart,48.62066,2.54016,Lieusaint,"""12 Allee Du Trait DUnion"", Carre Senart",Paris
+1248,Ibis Budget Paris Pte De Vanve,48.82429,2.29895,Paris,110 Rue Jean Bleuzen,Paris
+1249,New Hotel Lafayette,48.87626,2.34222,Paris,25 Rue Buffaut,Paris
+1250,Oceania Paris Pte De Versailles,48.83039,2.28487,Paris,52 Rue D Oradour Sur Glane,Paris
+1251,Kyriad Meaux Sud - Nanteuil Les Meaux,48.93522,2.88036,Nanteuil Les Meaux,23 Av De La Foulee,Paris
+1252,Mercure Levallois Perret,48.88967,2.28273,Levallois Perret,48 Rue Chaptal,Paris
+1253,Le Clos Medicis,48.84812,2.34065,Paris,56 Rue Monsieur Le Prince,Paris
+1254,Prince De Galles A Luxury Collection Htl,48.86909,2.30082,Paris,33 Avenue George V,Paris
+1255,Residence Europe Et Spa,48.90269,2.31373,Clichy,"52, Bd General Leclerc",Paris
+1256,Ibis Styles Paris Cambronne,48.84801,2.30058,Paris,166 Boulevard De Grenelle,Paris
+1257,Hotel Bonsejour Montmartre,48.88612,2.33623,Paris,11 Rue Burq,Paris
+1258,Hotel Ernest,48.87646,2.34868,Paris,78 Rue Du Faubourg Poissonniere,Paris
+1260,George Sand,48.87314,2.32731,Paris,26 Rue Des Mathurins,Paris
+1261,Massena,48.87189,2.32633,Paris,"16, Rue Tronchet",Paris
+1262,Pullman Paris La Defense,48.89496,2.23923,Courbevoie,11 Avenue De L Arche,Paris
+1263,Ibis Styles Guyancourt Versailles,48.76579,2.08009,Guyancourt,Place Georges Besse,Paris
+1264,Parici Hotel,48.83593,2.24922,Boulogne-Billancourt,63 Rue Thiers,Paris
+1265,Hotel Vic Eiffel,48.84536,2.30965,Paris,92 Boulevard Garibaldi,Paris
+1266,De Banville Hotel,48.88647,2.29495,Paris,166 Boulevard Berthier,Paris
+1267,Hotel Des Grands Voyageurs,48.84711,2.32574,Paris,92 Rue De Vaugirard,Paris
+1268,Mercure Paris Pte Versail Expo,48.82704,2.29136,Vanves,36 38 Rue Du Moulin,Paris
+1269,Ibis Paris Porte D Italie,48.81711,2.34995,Gentilly,13 Rue Du Val De Marne,Paris
+1270,Citadines Trocadero Paris,48.86629,2.28584,Paris,29 Bis Rue Saint Didier,Paris
+1271,Ibis Budget Paris Pte D Orlean,48.8195,2.32656,Paris,15 - 21 Boulevard Romain Rolla,Paris
+1272,Grand Hotel Saint Michel,48.8479,2.34226,Paris,19 Rue Cujas,Paris
+1273,Hotel Bedford,48.87212,2.3237,Paris,Rue De L Arcade 17,Paris
+1274,Charles V Hotel,48.85348,2.36181,Paris,20 Rue Saint Paul,Paris
+1275,Eiffel Saint Charles,48.84983,2.28843,Paris,37 Rue Saint Charles,Paris
+1276,Novotel Paris Centre Gare Montparnasse,48.83858,2.31504,Paris,17 Rue Du Cotentin,Paris
+1277,Bienvenue,48.8762,2.34222,Paris,"23, Rue Buffault",Paris
+1278,Ibis Budget Marne La Vallee,48.85455,2.77047,Montevrain,6 Rue De La Gare,Paris
+1279,Citadines Bastille Marais Paris,48.85812,2.37092,Paris,37 Boulevard Richard Lenoir,Paris
+1280,Mercure La Sorbonne St Germain,48.8494,2.34317,Paris,14 Rue De La Sorbonne,Paris
+1281,Ibis Styles Paris Nation,48.84689,2.40801,Paris,96 Cours De Vincennes,Paris
+1282,Campanile Villejuif,48.79744,2.3479,Villejuif,20 Rue Du Docteur Pinel,Paris
+1283,Le Milie Rose,48.87363,2.35205,Paris,22 Rue Des Petites Ecuries,Paris
+1284,"Hotel Litteraire Marcel Ayme, Bw Premier",48.88648,2.33564,Paris,16 Rue Tholoze,Paris
+1285,Duquesne Eiffel,48.85269,2.30905,Paris,"23,Avenue Duqesne",Paris
+1286,Hotel De Latour Maubourg,48.85816,2.31046,Paris,150 Rue De Grenelle,Paris
+1287,Ibis Paris Marne La Vallee,48.84282,2.58497,Champs Sur Marne,"8 Boulevard Newton, Cite Descartes",Paris
+1288,Haussmann Saint Augustin,48.87332,2.31819,Paris,20 Rue Roquepine,Paris
+1289,Hotel Hobou (Ex Hotel Acanthe),48.84035,2.22827,Boulogne-Billancourt,9-11 Rond-Point Rhin Et Danube,Paris
+1290,Hc Hotel Magenta 38,48.8721,2.36005,Paris,38 Boulevard De Magenta,Paris
+1291,Jeu De Paume,48.85203,2.35612,Paris,54 Rue Saint Louis Enlile,Paris
+1292,Zenao Appart Hotels Le Raincy,48.89473,2.51401,Le Raincy,66 Allee Gambetta,Paris
+1293,Hotel De La Paix,48.83868,2.28872,Paris,"43, Rue Duranton",Paris
+1294,Hotel Relais De Lyon By Malone,48.84963,2.37974,Paris,64 Rue Crozatier,Paris
+1295,Le Tourville By Inwood,48.85424,2.30781,Paris,16 Avenue De Tourville,Paris
+1296,Mercure Paris Montparnasse Tgv,48.83758,2.31872,Paris,"40 Rue Du Cdt Rene Mouchotte, Place De Catalogne",Paris
+1297,Mercure Boulogne St Cloud,48.84389,2.22976,Boulogne Billancourt,20-22 Rue Des Abondances,Paris
+1298,Residhome Paris Rosa Parks,48.89562,2.37306,Paris,3-7 Rue Gaston Tessier,Paris
+1299,Archetype Etoile,48.87619,2.29009,Paris,6 Rue Des Acacias,Paris
+1300,Hotel Mazagran,48.87031,2.3514,Paris,4 Rue Mazagran,Paris
+1301,Hotel Beausejour,48.86423,2.37512,Paris,71 Avenue Parmentier,Paris
+1302,Mercure Paris Saint Ouen,48.90254,2.3309,Saint Ouen,115 Avenue Gabriel Peri,Paris
+1303,Ibis Styles Paris Montmartre North,48.89525,2.34091,Paris,77 Rue Du Ruisseau,Paris
+1304,Residhome Paris Asnieres,48.91783,2.31603,Asnieres,1 Rue Eugenie Eboue,Paris
+1305,Hotel Left Bank Saint-Germain,48.85317,2.33868,Paris,9 Rue De L Ancienne Comedie,Paris
+1306,Nomad Hotel Paris Roissy Cdg Airport,49.01973,2.58516,Le Mesnil Amelot,34-36 Rue De Paris,Paris
+1307,Ibis Paris Gare Du Nord Tgv,48.87921,2.35578,Paris,31 33 Rue De Saint Quentin,Paris
+1308,Best Western Hotel Ronceray Opera,48.87184,2.34192,Paris,10 Boulevard Montmartre,Paris
+1309,Appartcity St Germain En Laye,48.90319,2.07365,Saint Germain En Laye,11 Place Christiane Frahier,Paris
+1310,Crowne Plaza Paris - Republique,48.86727,2.36551,Paris,10 Place De La Republique,Paris
+1311,Tsuba Hotel,48.87775,2.29314,Paris,45 Rue Des Acacias,Paris
+1312,Best Western Htl Opera Drouot,48.87307,2.34249,Paris,04 Rue De La Grange Bateliere,Paris
+1313,Hor,48.87946,2.35761,Paris,160 Rue La Fayette,Paris
+1314,Le Walt By Inwood,48.85473,2.3066,Paris,37 Avenue De La Motte Picquet,Paris
+1315,Le Pavillon Des Lettres,48.87137,2.31812,Paris,12 Rue Des Saussaies,Paris
+1316,Novotel Paris Rueil Malmaison,48.88799,2.1688,Rueil Malmaison,21 Avenue Edouard Belin,Paris
+1317,Ibis Paris Place D Italie 13Th Hotel,48.83271,2.35909,Paris,25 Avenue Stephen Pichon,Paris
+1318,Zenao Saint Mande,48.83991,2.41893,Saint-Mande,"""17-19 Rue Jeanne DArc""",Paris
+1319,Ac By Marriott Porte Maillot,48.88211,2.28206,Paris,6 Rue Gustave Charpentier,Paris
+1320,Campanile Prime - Paris 15 Tour Eiffel,48.85042,2.28874,Paris,"30  Rue Saint Charles, 21 Rue Sextius-Michel",Paris
+1321,Kimpton St Honore Paris,48.87029,2.33068,Paris,27-29 Boulevard Des Capucines,Paris
+1322,Ibis Paris Grands Boulevards Opera 9Th,48.87421,2.34227,Paris,38 Rue Du Faubourg Montmartre,Paris
+1323,De Nell Hotel,48.87326,2.34679,Paris,7-9 Rue Du Conservatoire,Paris
+1324,Elsa Hotel Paris,48.8768,2.29206,Paris,27 Avenue Carnot,Paris
+1325,Mercure Aparthotel Le Scenario,48.83374,2.25599,Boulogne Billancourt,63 Place Rene Clair,Paris
+1326,Adagio Access Vanves Porte De Chatillon,48.81767,2.28727,Vanves,5 Rue Aristide Briand,Paris
+1327,Hotel Amelie,48.85928,2.30751,Paris,5 Rue Amelie,Paris
+1328,Grand Hotel Clichy,48.89885,2.30733,Clichy,36 Boulevard Jean Jaures,Paris
+1329,B&B Hotel Paris Malakoff Parc Des Exposi,48.82475,2.30101,Malakoff,2 Boulevard Charles De Gaulle,Paris
+1330,Ibis Styles Paris Gare De Lyon,48.8481,2.372,Paris,52 Avenue Ledru Rollin,Paris
+1331,Hotel Romance Malesherbes,48.88641,2.31264,Paris,129 Rue Cardinet,Paris
+1332,Bachaumont Hotel Paris,48.86624,2.34507,Paris,18 Rue Bachaumont,Paris
+1333,Timhotel Opera Madeleine,48.87529,2.32604,Paris,113 Rue Saint Lazare,Paris
+1334,Mercure Maurepas Saint Quentin,48.75952,1.94578,Maurepas,1 Rocade De Camargue,Paris
+1335,Kyriad Saint-Fargeau-Ponthierry,48.53745,2.54286,Saint Fargeau Ponthierry,27 Rue De La Saussaie,Paris
+1336,Hotel Des Ecrivains,48.83329,2.35604,Paris,8 Rue Coypel,Paris
+1337,Montparnasse Alesia,48.83005,2.32022,Paris,147 Ter Rue D Alesia,Paris
+1338,Adagio Access Paris Clichy,48.89868,2.30353,Clichy,19 23 Rue Anatole France,Paris
+1339,Mercure Paris Eiffel Tower Grenelle,48.85049,2.29263,Paris,64 Boulevard De Grenelle,Paris
+1340,Copernic Serviced Apartment Paris 16,48.8689,2.2909,Paris,3 Rue Copernic,Paris
+1341,Test Prop3 For Hcr Sys Perf Evaluation -,48.8448,2.36922,Paris,"2314 Stanley Rd, Schoeman St",Paris
+1342,Hotel Le Ballu,48.88218,2.32954,Paris,30 Rue Ballu,Paris
+1343,Hotel De La Boetie,48.87163,2.30801,Paris,91 Rue La Boetie,Paris
+1344,B Montmartre Hotel,48.88359,2.32577,Paris,6 Rue Lecluse,Paris
+1345,Hc Boris V.,48.89026,2.2905,Levallois Perret,73 Rue Louise Michel,Paris
+1346,Ibis Styles Paris Maine Montparnasse,48.83169,2.32178,Paris,22 Rue Hippolyte Maindron,Paris
+1347,Campanile Prime - Suresnes - La Dfense,48.86745,2.2263,Suresnes,15 Blvd Henri Sellier,Paris
+1348,New Orient,48.88029,2.3197,Paris,16 Rue De Constantinople,Paris
+1349,Campanile Nature - Saint-Germain-En-Laye,48.90451,2.05548,St Germain En Laye,"Route De Mantes - Rn13 - 6, Allee De Pomone",Paris
+1350,Aiglon,48.83966,2.33015,Paris,232 Boulevard Raspail,Paris
+1351,Monsieur George Hotel,48.87293,2.30256,Paris,17 Rue De Washington,Paris
+1352,Campanile Nature - Paris Ouest,48.93729,2.27772,Gennevilliers,41 Route Principale Du Port,Paris
+1353,B&B Hotel Paris Gennevilliers Asnieres,48.93113,2.28254,Gennevilliers,"1, Boulevard Beaumarchais",Paris
+1354,Europe Hotel Paris Eiffel,48.84958,2.29696,Paris,103 Boulevard De Grenelle,Paris
+1355,Du Bresil,48.84644,2.34134,Paris,10 Rue Le Goff,Paris
+1356,Hotel La Lanterne & Spa By Timhotel,48.84893,2.34852,Paris,12 Rue De La Montagne Sainte Genevieve,Paris
+1357,Hotel Joyce - Astotel,48.87937,2.33417,Paris,29 Rue La Bruyere,Paris
+1358,Le Petit Beaumarchais Hotel And Spa,48.85478,2.36898,Paris,8 Boulevard Beaumarchais,Paris
+1359,Kyriad Chantilly Sud - Luzarches,49.12537,2.42856,Chaumontel,54 Rue De Paris,Paris
+1360,9Hotel Republique,48.87077,2.36052,Paris,7 - 9 Rue Pierre Chausson,Paris
+1361,Mercure Paris Opera Louvre,48.87107,2.33954,Paris,95 Rue De Richelieu,Paris
+1362,Hotel Miss Fuller,48.87586,2.29441,Paris,11 Avenue Mac-Mahon,Paris
+1363,Adagio Paris Malakoff Chatillon,48.8197,2.31021,Malakoff,60 Avenue Pierre Brossolette,Paris
+1364,Hotel Belinda,48.84147,2.26271,Paris,73 Rue Boileau,Paris
+1365,Hotel Regence Paris,48.88213,2.32579,Paris,33 Rue De Saint Petersbourg,Paris
+1366,Quality Aparthotel Massy Palaiseau,48.72097,2.26162,Massy,5 Av. Emile Baudot,Paris
+1367,Grand Hotel Du Loiret,48.85695,2.35529,Paris,8 Rue Des Mauvais Garcons,Paris
+1368,Ibis Boulogne Billancourt,48.83081,2.23859,Boulogne Billancourt,12 Rue De La Ferme,Paris
+1369,Hotel Montfleuri,48.87483,2.29072,Paris,21 Rue De La Grande Armee,Paris
+1370,The People Paris Marais,48.85018,2.36298,Paris,17 Boulevard Morland,Paris
+1371,Libertel Montmartre Opera,48.88211,2.33456,Paris,32 Rue Duperre,Paris
+1372,Citizenm Paris Champs-Elysees,48.87095,2.30587,Paris,128 Rue De La Boetie,Paris
+1373,Sejours Affaires Rive Gauche,48.85661,2.77887,Serris,20 Cours Du Danube,Paris
+1374,Best Western Premier Trocadero La Tour,48.85834,2.27925,Paris,5 Bis Rue Massenett,Paris
+1375,Domaine De Bellevue,48.7681,2.83614,Neufmoutiers-En-Brie,19 Rue De L Eglise,Paris
+1376,Campanile Conflans Sainte Honorine,49.00576,2.08609,Conflans St Honorine,Rn184 Et 91 Rue De Cergy,Paris
+1377,Golden Tulip Opera De Noailles,48.86959,2.33463,Paris,9 Rue De La Michodiere,Paris
+1378,The Social Hub Paris La Defense,48.88469,2.24352,Puteaux,56 Rue Roque De Fillol,Paris
+1379,Holiday Inn Paris - Cdg Airport,49.00878,2.51487,Roissy En France Paris,61 Rue Houdart,Paris
+1380,Mercure Paris Gennevilliers,48.94072,2.30541,Gennevilliers,"3 Avenue De Louvresses, Zac Des Louvresses",Paris
+1381,Hotel Glasgow Monceau,48.88652,2.30943,Paris,3 Rue De La Felicite,Paris
+1382,Hotel Europe Saint Severin,48.85271,2.34425,Paris,40 Rue Saint Severin,Paris
+1383,Pullman Paris Montparnasse,48.83835,2.32077,Paris,19 Rue Du Commandant Mouchotte,Paris
+1384,Campanile Epinay Sur Orge,48.67661,2.33632,Epinay-Sur-Orge,Rue Du Grand Vaux,Paris
+1385,Ibis Paris Maine Montparnasse 14Th,48.83378,2.32286,Paris,160 Rue Du Chateau,Paris
+1386,Hotel Parc Saint Severin,48.85183,2.3448,Paris,22 Rue De La Parcheminerie,Paris
+1387,Ibis Budget Paris Porte De Bercy,48.82515,2.39397,Charenton Le Pont,"2, Place De L Europe, Paris Bercy 2",Paris
+1388,Libertel Austerlitz,48.84237,2.36319,Paris,12 Boulevard De L Hopital,Paris
+1389,Ibis Styles Meaux Centre,48.9569,2.87744,Meaux,27 Place Jean Bureaux,Paris
+1390,Grand Hotel Du Palais Royal,48.86315,2.33781,Paris,No 4 Rue De Valois,Paris
+1391,B&B Home Rueil-Malmaison Gare,48.89043,2.17423,Rueil Malmaison,17 Rue Francois Jacob,Paris
+1392,B&B Hotel Paris Ivry Quai De Seine,48.82331,2.38615,Ivry-Sur-Seine,13 Rue Francois Mitterrand,Paris
+1393,La Maison Champs Elysees,48.86659,2.309,Paris,8 Rue Jean Goujon,Paris
+1394,Hotel Aoriste,48.86483,2.33658,Paris,22 Rue De Richelieu,Paris
+1395,Sejours Affaires Grande Arche,48.89888,2.23667,Courbevoie,11 Allee Des Tilleuls,Paris
+1396,Hotel Villa Escudier,48.84353,2.24095,Paris Boulogne,64 Rue Escudier,Paris
+1397,Hotel Elysees Bassano,48.86893,2.29743,Paris,24 Rue De Bassano,Paris
+1399,Hotel France Louvre,48.8565,2.35618,Paris,40 Rue De Rivoli,Paris
+1400,Abbatial Saint Germain,48.84976,2.35061,Paris,"46, Bd Saint-Germain",Paris
+1401,Courtyard Paris Porte De Versailles,48.82972,2.28411,Issy Les Moulineaux,5 Rue Ernest Renan,Paris
+1403,La Clef Louvre Paris,48.86399,2.33624,Paris,8 Rue De Richelieu,Paris
+1404,New Hotel Republique,48.86613,2.36827,Paris,22 Rue Du Grand Prieure,Paris
+1405,Bw Saint Louis - Grand Paris Vincennes,48.84496,2.43508,Vincennes,2 Bis Rue Robert Giraudineau,Paris
+1406,Maison Boissiere Barnes Residences,48.86751,2.28862,Paris,49 Rue Boissiere,Paris
+1407,Novotel Paris La Defense,48.88805,2.25304,La Defense,"2 Boulevard De Neuilly, La Defense 1",Paris
+1408,Hc 10 Opera Hotel,48.8719,2.33507,Paris,10 Rue De Helder,Paris
+1409,Hotel Indigo Paris - Opera,48.87067,2.32946,Paris,2 Rue Edouard Vii,Paris
+1410,H?Tel Lancaster Paris Champs Elys?Es,48.87228,2.30381,Paris,7 Rue De Berri,Paris
+1411,Appart Hotel Zenao Montreuil,48.85975,2.44532,Montreuil,34 Rue Gaston Lauriau,Paris
+1412,City Residence Ivry,48.81792,2.39814,Ivry Sur Seine,Bd Paul Vaillant Couturier 60,Paris
+1413,Hotel Pastel Paris,48.86842,2.28918,Paris,79 Rue De Lauriston,Paris
+1414,Renaissance Paris Vendome,48.86544,2.32961,Paris,4 Rue De Mont Thabor,Paris
+1416,Hotel Du Midi Paris,48.83307,2.33262,Paris,4 Avenue Rene Coty,Paris
+1417,B&B Hotel Pontault Combault,48.78323,2.61515,Pontault Combault,96 Rue Des Pres Saint Martin,Paris
+1418,Hotel Litteraire Arthur Rimbaud,48.87095,2.35571,Paris,6 Rue Gustave Goublier,Paris
+1419,Ibis Styles Puteaux Paris La Defense,48.88587,2.22983,Puteaux,97 Av Du General De Gaulle,Paris
+1420,Ibis Paris Gare De L'Est Tgv,48.87553,2.35838,Paris,6 Rue Saint Laurent,Paris
+1421,Mercure Paris Pasteur,48.83762,2.30639,Paris,10 Rue Gager Gabillot,Paris
+1422,Hotel Bleu De Grenelle,48.84894,2.29853,Paris,140 To 142 Boulevard De Grenelle,Paris
+1423,Novotel Paris Creteil Le Lac,48.7806,2.44727,Creteil,Rue Jean Gabin,Paris
+1424,Mercure Paris Gare Montparnasse,48.83996,2.32365,Paris,20 Rue De La Gaite,Paris
+1425,B&B Hotel Orly Chevilly Marche Internati,48.7658,2.35869,Chevilly-Larue,"3 Rue Jean Ferrat, Zac Petit Leroy",Paris
+1426,Ibis Styles Paris Nation,48.85512,2.40953,Paris,36 Rue De La Croix Saint Simon,Paris
+1427,Best Western Blanche De Castil,48.52904,2.01243,Dourdan,7 Rue Demetz,Paris
+1428,Hotel Chateau Voltaire,48.8662,2.3328,Paris,55-57 Rue Saint Roch,Paris
+1429,Le Lampika,48.8338,2.3312,Paris,28 Place Denfert Rochereau,Paris
+1430,1 Place Vendome,48.86692,2.32849,Paris,1 Place Vendome,Paris
+1431,All Suites Appart Hotel Paris Ouest Colo,48.93311,2.27233,Colombes,1 Allee Louise Michel,Paris
+1432,B&B Hotel Argenteuil,48.93347,2.23853,Paris,114 Quai De Bezons,Paris
+1433,Kyriad Combs-La-Ville - Senart,48.64972,2.5693,Combs-La-Ville,4 Rue Rene Dumont,Paris
+1434,Adagio Access Paris P. Auguste,48.85883,2.39107,Paris,12 Rue Pierre Bayle,Paris
+1435,Adagio Paris Montmartre,48.8834,2.34279,Paris,10 Place Charles Dullin,Paris
+1436,La Maison Favart,48.8708,2.33737,Paris,"5, Rue De Marivaux",Paris
+1437,Citadines Les Halles Paris,48.86063,2.34689,Paris,4 Rue Des Innocents,Paris
+1438,Sofitel Paris Arc De Triomphe,48.87505,2.30134,Paris,14 Rue Beaujon,Paris
+1439,Melia Paris Vendome,48.8668,2.32582,Paris,"8, Rue Cambon",Paris
+1440,Le Grand Pavillon Chantilly,49.19602,2.51359,Vineuil Saint Firmin,4 Rte De Senlis,Paris
+1441,Hotel Gavarni,48.85869,2.28273,Paris,5 Rue Gavarni,Paris
+1442,Best Western Plus Bretagne Montparnasse,48.83531,2.32065,Paris,33 Rue Raymond Losserand,Paris
+1443,Grand Pigalle Experimental,48.88087,2.33743,Paris,29 Rue Victor Masse,Paris
+1444,Zelie Hotel Champs-Elysees,48.87679,2.29483,Paris,23 Rue Brey,Paris
+1445,Hotel Madrigal,48.84214,2.31277,Paris,32 Boulevard Pasteur,Paris
+1446,Novotel Paris East Hotel,48.86333,2.41511,Bagnolet,1 Ave De La Republique,Paris
+1447,Hotel Providence,48.86923,2.35644,Paris,90 Rue Rene Boulange,Paris
+1448,Hotel Terre Neuve,48.85438,2.39821,Paris,22 Bis Rue Terre Neuve,Paris
+1449,Hotel Kyriad Paris Bezons - La Defense,48.93138,2.2122,Bezons,80 Avenue Gabriel Peri,Paris
+1450,Ibis Budget Paris La Villette,48.88427,2.37581,Paris,57 63 Avenue Jean Jaures,Paris
+1451,Gardette Park Hotel,48.861,2.37891,Paris,Rue Du General Blaise 1,Paris
+1452,Mercure Paris Val De Fontenay,48.85431,2.48827,Fontenay Sous Bois,Avenue Des Olympiades,Paris
+1453,Mercure Paris Velizy,48.77904,2.21512,Velizy Villacoublay,22 Avenue De L Europe,Paris
+1454,Courtyard Paris Creteil,48.76798,2.46406,Creteil,2 Rue Daniel Costantini,Paris
+1455,Hotel Diva Opera,48.87336,2.34511,Paris,11 Rue De Trevise,Paris
+1456,Adagio Porte De Versailles,48.83106,2.28104,Issy Les Moulineaux,16 Rue Eliane Jeannin Garreau,Paris
+1457,Hotel Ducs De Bourgogne,48.86035,2.34405,Paris,19 Rue Du Pont Neuf,Paris
+1458,Hotel Pulitzer Paris,48.87322,2.34288,Paris,23 Rue Du Faubourg Montmarte,Paris
+1459,Le Burgundy Paris,48.86797,2.32579,Paris,8 Rue Duphot,Paris
+1460,Novotel Poissy Orgeval,48.92487,1.99567,Orgeval,482 Route De Quarante Sous,Paris
+1461,Hotel De Sers,48.86823,2.30038,Paris,41 Ave Pierre 1Er De Serbie,Paris
+1462,Du Jardin Des Plantes,48.84399,2.35466,Paris,5 Rue Linne,Paris
+1463,Hotel Verneuil St Germain,48.85734,2.33143,Paris,8 Rue De Verneuil,Paris
+1464,Citizenm Paris Opera,48.86907,2.34378,Paris,18 Rue Du Croissant,Paris
+1465,Belloy St Germain,48.85039,2.34225,Paris,2 Rue Racine,Paris
+1466,Bridgestreet Opera Serviced Apartments,48.87699,2.32191,Paris,8 Rue Tronson Du Coudray,Paris
+1467,Hotel Acropole,48.82341,2.3251,Paris,199 Boulevard Brune,Paris
+1468,Tribe Paris Pantin,48.89513,2.40036,Pantin,70 Avenue Du General Leclerc,Paris
+1469,Audran,48.88531,2.33596,Paris,7 Rue Audran,Paris
+1470,Hotel Odeon Saint Germain,48.85146,2.33753,Paris,13 Rue Saint Sulpice,Paris
+1471,Villathena,48.87789,2.32762,Paris,23 Rue D Athenes,Paris
+1472,Hotel Hiro,48.8762,2.29592,Paris,7 Rue Brey,Paris
+1473,Le Louis Versailles Chateau,48.80203,2.12899,Versailles,2 Bis Avenue De Paris,Paris
+1474,Drawing House,48.83729,2.32005,Paris,21 Rue Vercingetorix,Paris
+1475,Hotel Star Champs Elysees,48.87718,2.29368,Paris,18 Rue De Larc De Triomphe,Paris
+1476,Villa Des Ternes Hotel,48.88038,2.28587,Paris,97 Avenue Des Ternes,Paris
+1477,Mercure Paris 9 Pigalle Sacre-Coeur,48.8824,2.33653,Paris,21 Boulevard De Clichy,Paris
+1478,55 Montparnasse,48.8336,2.31771,Paris,55 Rue De Plaisance,Paris
+1479,Paris Opera Affiliated By Melia,48.8715,2.34259,Paris,"3, Bld Montmartre",Paris
+1480,Hotel Le Placide,48.84988,2.32432,Paris,6 Rue Saint Placide,Paris
+1481,Hotel Boileau,48.84075,2.26242,Paris,81 Rue Boileau,Paris
+1482,Adagio Access La Defense Puteaux,48.88495,2.24429,Puteaux,70 Rue Roque De Fillol,Paris
+1483,Appart City Collction Paris Gare De Lyon,48.84251,2.38492,Paris,114 Avenue Daumesnil,Paris
+1484,Timhotel Opera Blanche,48.88285,2.33412,Paris,34 Rue Pierre Fontaine,Paris
+1485,Moxy Paris Clamart,48.78071,2.24235,Clamart,Avenue Du General De Gaulle,Paris
+1486,Hotel Bastille Speria,48.85394,2.3675,Paris,1 Rue De La Bastille,Paris
+1487,Ibis Budget Mlv Noisy Le Grd,48.83807,2.55086,Noisy Le Grand,9 Rue De L Universite,Paris
+1488,Pergolese,48.87574,2.2863,Paris,3 Rue Pergolese,Paris
+1489,Hotel Le Relais Des Halles,48.86321,2.34891,Paris,26 Rue Pierre Lescot,Paris
+1490,J.K. Place Paris,48.86119,2.32161,Paris,82 Rue De Lille,Paris
+1491,Nemea Appart Hotel Velizy Europe,48.77942,2.21318,Velizy,26 Avenue De L Europe,Paris
+1492,Edouard 7 Paris Opera,48.86834,2.33307,Paris,"""39 Avenue De LOpera""",Paris
+1493,Yuna Montmartre Hotel Ap,48.89005,2.34513,Paris,5 Rue Du Baigneur,Paris
+1494,The People Paris Belleville,48.87004,2.37893,Paris,59 Boulevard De Belleville,Paris
+1495,Mercure Paris 17 Batignolles,48.88814,2.30683,Paris,118 Rue De Tocqueville,Paris
+1496,Fraser Suites Harmonie Paris La Defense,48.88788,2.25222,Courbevoie,4 Boulevard De Neuilly,Paris
+1497,Hotel De France Gare De Lyon Bastille,48.84764,2.37198,Paris,12 Rue De Lyon,Paris
+1498,Hotel Le Marianne,48.87261,2.30757,Paris,11 Rue Paul Baudry,Paris
+1499,Hotel Baume 4 Star,48.85029,2.33927,Paris,7 Rue Casimir Delavigne,Paris
+1500,Paris Lafayette,48.87641,2.34905,Paris,23 Rue Des Messageries,Paris
+1501,Aida Opera,48.87396,2.34686,Paris,11 Rue Richer,Paris
+1502,Hotel Mercure Paris Suresnes Longchamp,48.87066,2.22483,Suresnes,30 Avenue General De Gaulle,Paris
+1503,Hotel Des Deux Iles,48.85232,2.35496,Paris,59 Rue Saint Louis,Paris
+1504,Alpha Paris Eiffel By Patrick Hayat,48.8351,2.24682,Boulogne Billancourt,26 Rue Emile Landrin,Paris
+1505,Maison Colbert Melia Collection,48.85152,2.34869,Paris,"""7, Rue De LHotel Colbert""",Paris
+1506,Ibis Gare De Lyon Diderot 12Th,48.84632,2.37645,Paris,31 Bis Bd Diderot,Paris
+1507,La Villa Haussmann,48.87532,2.31673,Paris,132 Boulevard Haussmann,Paris
+1508,Hotel Regent'S Garden - Astotel,48.87989,2.29183,Paris,6 Rue Pierre Demours,Paris
+1509,Campanile Melun Sud - Dammarie Les Lys,48.51531,2.62653,Dammarie Les Lys,346 Rue Bernard De Poret,Paris
+1510,Residhome Paris Gare De Lyon,48.84192,2.38398,Paris,47 Rue Jorge Semprun,Paris
+1511,Hotel Gramont,48.87056,2.33698,Paris,22 Rue Gramont,Paris
+1512,Adagio Paris Haussmann,48.875,2.31334,Paris,129- 131 Boulevard Haussmann,Paris
+1513,Mercure Paris Alesia,48.82373,2.3241,Paris,185 Boulevard Brune,Paris
+1514,Hotel 123 Elysees - Astotel,48.87306,2.30978,Paris,123 Rue Du Faubourg St. Honore,Paris
+1515,Hotel Ile De France Opera,48.86892,2.3347,Paris,26 Rue St Augustin,Paris
+1516,Ibis Styles Paris Buttes Chaumont Hotel,48.88457,2.3793,Paris,4 Rue Petit,Paris
+1517,Villa Des Pres,48.85349,2.33641,Paris,29 Rue De Buci,Paris
+1518,Hotel Delavigne,48.85065,2.33933,Paris,1 Rue Casimir Delavigne,Paris
+1519,Mercure Opera Gd Boulevards,48.87394,2.35008,Paris,42 Rue Des Petites Ecuries,Paris
+1520,Ibis Paris Gare De L Est 10 Eme,48.87523,2.35847,Paris,5 Rue Saint Laurent,Paris
+1521,Hotel La Nouvelle Republique,48.86695,2.3795,Paris,9 Rue Moret,Paris
+1522,Timhotel Invalides Eiffel,48.85933,2.31046,Paris,35 Blvd De La Tour Maubourg,Paris
+1523,Hotel Le 209 Paris Bercy,48.83928,2.38913,Paris,209 Rue De Charenton,Paris
+1524,Le Relais Saint Jacques Hotel,48.84299,2.34226,Paris,3 Rue De L Abbe De L Epee,Paris
+1525,Relais Du Marais,48.86639,2.36071,Paris,76 Rue Turbigo,Paris
+1526,Parister,48.87531,2.34436,Paris,19 Rue Saulnier,Paris
+1527,Hotel La Regence-Paris La Defense,48.89399,2.24779,Courbevoie,69 Avenue Gambetta,Paris
+1528,De Notre Dame,48.85039,2.34946,Paris,"19, Rue Maitre Albert",Paris
+1529,Mercure Paris Bercy Bibliotheq,48.83736,2.37299,Paris,6 Boulevard Vincent Auriol,Paris
+1530,Hotel Opera D Antin,48.87422,2.33201,Paris,75 Rue De Provence,Paris
+1531,Hotelf1 Roissy Cdg,48.98898,2.5135,Roissy Charles De Gaulle,"335 Rue De La Belle Etoile Building 2, Zac Paris Nord 2 Roissy En France Cedex",Paris
+1532,Maison Cassandre,48.88497,2.32652,Paris,15 Avenue De Clichy,Paris
+1533,Longchamp Elysees,48.86529,2.28347,Paris,"68 Rue De Longchamp, Ile De France",Paris
+1534,Hotel Du Prince Eugene,48.85066,2.39242,Paris,Boulevard Voltaire 247,Paris
+1535,Hotel Duret,48.87525,2.28659,Paris,30 Rue Duret,Paris
+1536,Hotel Regina Louvre Lvx,48.86383,2.33248,Paris,2 Place Des Pyramides,Paris
+1537,Hotel Lord Byron,48.87324,2.30229,Paris,5 Rue Chateaubriand,Paris
+1538,Ibis Saint Quentin En Yvelines Velodrome,48.78928,2.03554,Montigny Le Bretonneux,2 Place De La Paix Celeste,Paris
+1539,Yays Paris Issy By Numa,48.82161,2.26503,Paris,20 Avenue Bourgain,Paris
+1540,Courtyard Colombes Marriott,48.91243,2.23122,Colombes,91 Bld Charles De Gaulle,Paris
+1541,Hotel Elixir,48.85841,2.34647,Paris,"7, Rue Jean-Lantier",Paris
+1542,Campanile Prime Paris 19 - La Villette,48.89338,2.37987,Paris,147-151 Rue De Flandre,Paris
+1543,Campanile Prime - Arcueil,48.80539,2.32581,Arcueil,73 Av Aristide Briand,Paris
+1544,Saint Christophe,48.84366,2.35261,Paris,"17, Rue Lacepede",Paris
+1545,De Lille,48.85851,2.32991,Paris,40 Rue De Lille,Paris
+1546,Campanile Prime - Pantin,48.89115,2.4034,Pantin,"62-64, Avenue, Jean-Lolive",Paris
+1547,Hotel Costes,48.86676,2.32795,Paris,7 Rue De Castiglione,Paris
+1548,B&B Hotel Paris Est - Bondy,48.90546,2.47897,Bondy,90 Avenue Du General Gallieni,Paris
+1549,Sejours Affaires Saint Mande,48.84971,2.41724,Montreuil,72 Rue Claude Erignac,Paris
+1550,Adagio La Defense Le Parc,48.8972,2.23622,Courbevoie,1 Rue Des Lilas D Espagne,Paris
+1551,Libertel Gare Du Nord Suede,48.87799,2.35478,Paris,106 Bd De  Magenta,Paris
+1552,Premiere Classe Saint Ouen L Aumone,49.03413,2.11698,St-Ouen L Aum One,Cite De L  Auto,Paris
+1553,Ibis Styles Paris Pte Orleans,48.81899,2.32582,Montrouge,41 Avenue Aristide Briand,Paris
+1554,Hotel Le Twelve,48.84647,2.40626,Paris,82 Avenue Du Docteur Arnold Netter,Paris
+1555,B&B Hotel Paris Test,48.85834,2.28419,Paris,1 Rue Test,Paris
+1556,Mercure Paris Lyon Bastille,48.8469,2.37283,Paris,3 Rue Parrot,Paris
+1557,Quality Aparthotel Choisy Orly Airport,48.75273,2.40597,Choisy Le Roi,133 Av. Du Marechal De Lattre,Paris
+1558,Hc Hotel Atrium,48.86688,2.22079,Suresnes,72 Boulevard Henri Sellie,Paris
+1559,Hotel Relais Bosquet By Malone,48.85626,2.30519,Paris,19 Rue Du Champ De Mars,Paris
+1560,Harvey,48.87788,2.28656,Paris,7 Rue Du Debarcadere,Paris
+1561,Hc Hotel Josephine,48.88226,2.33178,Paris,67 Rue Blanche,Paris
+1562,L Opale Noire,48.85893,2.32344,Paris,20 Rue De Bellechasse,Paris
+1563,Hotel St Ouen L Aumone,49.04731,2.1343,Saint Ouen Laumone,4 Allee Des 3 Caravelles,Paris
+1564,Okko Hotels Paris Rueil-Malmaison,48.88713,2.17366,Rueil Malmaison,109 Avenue Victor Hugo,Paris
+1565,Baba Hotel,48.89537,2.34734,Paris,15 Rue Du Roi D Alger,Paris
+1566,Muguet,48.85568,2.30889,Paris,11 Rue Chevert,Paris
+1567,Hotel Cabane,48.8338,2.31764,Paris,76 Rue Raymond Losserand,Paris
+1568,Cinepole,48.81913,2.47868,Joinville Le Pont,Avenue Des Platanes 8,Paris
+1569,Hc Le R. Kipling Hotel,48.88204,2.33168,Paris,65 Rue Blanche,Paris
+1570,Le Clark Hotel,48.86441,2.36625,Paris,16 Bd Du Temple,Paris
+1571,Grand Hotel Champs Elysees,48.87269,2.29694,Paris,78 Avenue Marceau,Paris
+1572,Le Petit Paris,48.84526,2.34242,Paris,214 Rue Saint-Jacques,Paris
+1573,Adagio Access Colombes La Defense,48.91501,2.22756,Colombes,2 Rue Pierre Expert,Paris
+1574,Hotel L Ormaie,48.86723,2.28792,Paris,97 Rue Lauriston,Paris
+1575,Hotel Barnett Paris,48.89165,2.33454,Paris,193 Rue Marcadet,Paris
+1576,Hotel Orchidee,48.8358,2.31677,Paris,65 Rue De L Ouest,Paris
+1578,Mercure Paris Centre Eiffel Tower,48.85521,2.29201,Paris,20 Rue Jean Rey,Paris
+1579,Hotel Nude,48.84061,2.33446,Paris,"155, Boulevard Du Montparnasse",Paris
+1580,Campanile Paris 12 - Bercy Village,48.83521,2.38757,Paris,17 Rue Baron Le Roy,Paris
+1581,Sofitel Paris Le Faubourg,48.86853,2.32151,Paris,15 Rue Boissy D Anglas,Paris
+1582,Too Hotel Paris Mgallery,48.82493,2.38367,Paris,65 Rue Bruneseau,Paris
+1583,B&B Hotel Paris Nord Gonesse Parc Des Ex,48.98042,2.44288,Gonesse,Rue Jean Mermoz,Paris
+1584,All Suites Appart Hotel Et Hotel Paris 1,48.81679,2.3576,Paris,17-25 Rue Gerda Taro,Paris
+1585,Royal Opera,48.87216,2.32532,Paris,5 Rue De Castellane,Paris
+1586,La Maison Boheme,48.88686,2.34114,Paris,1 Rue Saint-Rustique,Paris
+1587,Hotel Paris Vaugirard,48.83304,2.28907,Paris,403 Rue De Vaugirard,Paris
+1588,Hotel De Pourtales,48.8714,2.32524,Paris,7 Rue Tronchet,Paris
+1589,Hotel Litteraire Le Swann,48.87978,2.32069,Paris,11-15 Rue De Constantinople,Paris
+1590,L Imprimerie Hotel,48.90149,2.30582,Clichy,15 Rue Victor Meric,Paris
+1591,Hotel Malar,48.86021,2.306,Paris,29 Rue Malar,Paris
+1592,Hotel Relais Du Louvre,48.85926,2.34098,Paris,19 Rue Des Pretres Saint,Paris
+1594,Hotel National Des Arts Et Metiers,48.86576,2.35307,Paris,243 Rue Saint Martin,Paris
+1595,B&B Hotel Versailles Rocquencourt,48.83624,2.10917,Rocquencourt,14 Avenue De Voluceau,Paris
+1596,Sejours Affaires Paris Vitry,48.79982,2.38103,Vitry Sur Seine,108 Boulevard De Stalingrad,Paris
+1597,Les Maisons De Campagne -  Maison Du Val,48.92124,2.10618,Saint Germain En Laye,Route Forestiere Des Brancas,Paris
+1598,Ibis Styles Paris Jardin,48.89249,2.37455,Paris,219 Rue De Crimee,Paris
+1599,Saint Sulpice,48.851,2.3358,Paris,3 Rue Garanciere,Paris
+1600,Kyriad Paris 12 - Nation,48.84639,2.40169,Paris,54 Rue Du Rendez Vous,Paris
+1601,Concortel Hotel,48.87258,2.3233,Paris,21 Rue Pasquier,Paris
+1602,Sejours Affaires Atlantis,48.72582,2.26501,Massy,6 Rue Christophe Colomb,Paris
+1603,B&B Hotel Evry Lisses 1,48.59398,2.43922,Lisses,"Zac Du Clos Aux Pois, 2 Rue Des Petits Champs",Paris
+1604,Monsieur Aristide Hotel,48.88531,2.33516,Paris,3 Rue Aristide Bruan,Paris
+1605,Locomo Paris Gare De Lyon,48.84696,2.3721,Paris,6 Bis Rue De Lyon,Paris
+1606,Mercure Paris Arc De Triomphe Etoile,48.87829,2.29499,Paris,27 Avenue Des Ternes,Paris
+1607,Paris Saint Cloud Hotel,48.8422,2.21948,Saint Cloud,34 36 Rue Royale,Paris
+1608,Hotel Claude Bernard,48.84887,2.34688,Paris,43 Rue Des Ecoles,Paris
+1609,Hc Hotel Sanso,48.829,2.37519,Paris,15 Rue De Tolbiac,Paris
+1610,Hotel Paris Bastille Boutet,48.85189,2.38377,Paris,22 24 Rue Faidherbe,Paris
+1611,Highstay Luxury Serviced Apt Chapon Ii,48.86309,2.35656,Paris,13 Rue Chapon,Paris
+1612,Hotel Les Jardins De La Villa,48.88022,2.28598,Paris,5 Rue Belidor,Paris
+1613,B&B Hotel Marne La Vallee Torcy,48.83897,2.6531,Torcy,3Ter Rue Pierre Mendes France,Paris
+1614,Plessis Grand Hotel - Le Plessis-Robinso,48.77982,2.25995,Plessis-Robinson,51 Avenue Aristide Briand,Paris
+1615,Hotel Le 10 Bis,48.87801,2.2865,Paris,10 Bis Rue Debarcadere,Paris
+1616,Ibis Styles Paris Val De Fontenay Hotel,48.85277,2.4869,Fontenay Sous Bois,2-4 Avenue Du Val De Fontenay,Paris
+1617,Hotel Thoumieux,48.85975,2.3086,Paris,79 Rue Saint Dominique,Paris
+1618,37 Lodge Courbevoie La Defense,48.89777,2.25229,Courbevoie,35-37 Rue Pierre Lhomme,Paris
+1619,Hotel Louis 2,48.8516,2.33821,Paris,"2, Rue Saint Sulpice",Paris
+1620,Hotel Mont Dore,48.88372,2.32276,Paris,19 Rue Du Mont Dore,Paris
+1621,Timhotel Boulogne Rives De Seine,48.82723,2.24735,Boulogne Billancourt,251 Boulevard Jean Jaures,Paris
+1622,Hotel Amoi,48.86972,2.36098,Paris,12 Rue Du Chateau D Eau,Paris
+1623,Comfort Hotel Rungis - Orly,48.75681,2.34729,Rungis,2 Rue Mondetour,Paris
+1624,Grand Powers,48.86914,2.30315,Paris,52 Rue Francois 1Er,Paris
+1625,Hotel Magda Champs Elysees,48.87604,2.29531,Paris,7 Rue Troyon,Paris
+1626,Le Rendez-Vous Batignolles,48.88415,2.32304,Paris,17 Rue Lecluse,Paris
+1627,Saint James Paris,48.87068,2.27988,Paris,"5 Place Du Chancelier, Adenauer",Paris
+1628,Og Paris Sud Orly Draveil,48.68682,2.39024,Paris,Avenue De Bellevue 46,Paris
+1629,Des Academies Et Des Arts,48.84214,2.33036,Paris,15 Rue De La Grande Chaumiere,Paris
+1630,Pavillon De La Reine,48.85627,2.36604,Paris,28 Place Des Vosges,Paris
+1631,De La Porte Doree,48.83597,2.40597,Paris,273 Avenue Daumesnil,Paris
+1632,Hotel Opera Liege,48.8796,2.32805,Paris,9 Rue De Liege,Paris
+1633,Hotel Du Temps Paris,48.87651,2.34747,Paris,11 Rue De Montholon,Paris
+1634,Hotel Arcadie Montparnasse,48.83895,2.3226,Paris,71 Avenue Du Maine,Paris
+1635,Enzo Hotels Trappes By Kyriad Direct,48.77,2.00281,Trappes,Rue Eugene Henaff,Paris
+1636,Adagio Access Vanves Porte De Versailles,48.82122,2.29278,Vanves,26 Rue Jean Bleuzen,Paris
+1637,Arty Paris Porte De Versailles,48.83187,2.30453,Paris,62 Rue Des Morillons,Paris
+1638,De L'Universite,48.85702,2.32999,Paris,22 Rue De L Universite,Paris
+1639,Sevres Saint Germain Hotel,48.84928,2.32491,Paris,22 Rue Saint Placide,Paris
+1640,Residhome Paris Guyancourt,48.77508,2.07177,Guyancourt,6 Boulevard Du Chateau,Paris
+1641,Hotelf1 Paris Saint Ouen,48.90118,2.33257,Paris,29 Rue Du Docteur Babinski,Paris
+1642,Mercure Paris Saint Cloud Hippodrome,48.8447,2.21134,Saint Cloud,43 Boulevard De La Republique,Paris
+1643,Novotel Paris Porte D'Orleans,48.81955,2.32618,Paris,"15, 17, 21 Boulevard Romain, Rolland",Paris
+1644,Adagio Access Paris Massy Gare,48.72702,2.2572,Massy,2A Place De L Union Europeenne,Paris
+1645,Chateau Frontenac Hotel,48.86905,2.30283,Paris,54 Rue Pierre Charron,Paris
+1646,Hotel Claridge-Worldhotel,48.86849,2.30368,Paris,37 Rue Francois 1Er,Paris
+1647,Le Metropolitan Paris Tour Eiffel,48.86566,2.28304,Paris,10 Place De Mexico,Paris
+1648,B&B Hotel Paris Le Bourget,48.92889,2.41901,La Courneuve,211 Rue Paul Vaillant Couturier,Paris
+1649,B&B Hotel Champigny Sur Marne,48.82733,2.51881,Champigny Sur Marne,307 Avenue Du General De Gaulle,Paris
+1650,Chess Hotel,48.87165,2.33497,Paris,6 Rue Du Helder,Paris
+1651,Paris J Adore Hotel Et Spa,48.88254,2.31924,Paris,7 Rue Beudant,Paris
+1652,Nh Paris Gare De L Est,48.87587,2.35896,Paris,5 Rue Du 8 Mai 45,Paris
+1653,B&B Hotel Saint Denis Porte De Paris,48.93378,2.37112,Saint Denis,14 Avenue Du Docteur Lamaze,Paris
+1654,Ibis Rueil Malmaison Center,48.88006,2.18522,Rueil Malmaison,16 Boulevard De L Hopital Ste,Paris
+1655,Hotel De Montesquieu,48.87285,2.30731,Paris,8 Rue Frederic Bastiat,Paris
+1656,Quality Aparthotel Parc Marne La Vallee,48.85005,2.82308,Bailly-Romainvilliers,34 Rue Du Bois Trou,Paris
+1657,Doubletree By Hilton Paris Boulogne,48.83631,2.25273,Boulogne Billancourt,31-33 Avenue Edouard Vaillant,Paris
+1658,Hotel Chatillon,48.82568,2.32321,Paris,11 Square Chatillon,Paris
+1659,Le Dokhans Paris Arc De Triomphe,48.8663,2.28663,Paris,117 Rue Lauriston,Paris
+1660,Eiffel Petit Louvre,48.85053,2.29235,Paris,1 Rue De Lourmel,Paris
+1661,Serotel Lutece,48.84004,2.34586,Paris,"2, Rue Berthollet",Paris
+1662,Hotel L Antoine,48.8525,2.3722,Paris,10 To 12 Rue De Charonne,Paris
+1663,Bloom House Hotel & Spa,48.8815,2.36261,Paris,23 Rue Du Chateau Landon,Paris
+1664,Best Western 11Bauer Paris St Ouen,48.91213,2.33648,Saint-Ouen-Sur-Seine,11 Rue Du Docteur Bauer,Paris
+1665,Odalys City Paris Montmartre,48.88823,2.34239,Paris,7-9 Rue Saint Vincent,Paris
+1666,Hotel A La Villa Des Artistes,48.84227,2.33086,Paris,9 Rue De La Grande Chaumiere,Paris
+1667,Contact Hotel La Chaumiere,48.97404,1.91283,Les Mureaux,1Bis Rue Des Pleiades,Paris
+1668,Adagio Access Palaiseau Saclay,48.715,2.19705,Palaiseau,6 Boulevard Gaspard Monge,Paris
+1669,Des 3 Poussins,48.87908,2.33825,Paris,15 Rue Clauzel,Paris
+1671,Adagio Access Paris Ivry,48.81468,2.39692,Ivry Sur Seine,50 Boulevard De Brandebourg,Paris
+1672,Mademoiselle,48.87728,2.35435,Paris,7 Rue Des Petits Hotels,Paris
+1673,Renaissance Paris Hippodrome,48.85923,2.19563,Rueil Malmaison,123 Rue Du Lieutenant Colonel,Paris
+1674,Mercure Paris Bastille Marais,48.85715,2.38066,Paris,53 Rue Richard Lenoir,Paris
+1675,Bw Premier Faubourg 88,48.87768,2.34919,Paris,88 Rue Du Faubourg Poissoniere,Paris
+1676,Novotel Massy Palaiseau,48.71863,2.26418,Palaiseau,18 20 Rue Emile Baudot,Paris
+1677,Campanile Chantilly,49.2039,2.45999,Chantilly,Rn16 Gouvieux,Paris
+1678,Hc Hotel Cervantes Paris,48.88099,2.32304,Paris,19 Rue De Berne,Paris

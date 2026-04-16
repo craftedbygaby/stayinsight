@@ -5,7 +5,7 @@
 </tr>
 </table>
 
-**StayInsight** is a travel intelligence startup that helps tourists and travel agencies make smarter accommodation decisions in European cities by comparing hotels and Airbnb listings on price, quality and location.
+**StayInsight** is a travel intelligence startup helping accommodation services make smarter strategic decisions in European cities.
 
 This project is an exploratory data analysis conducted for StayInsight, focused on **Paris** as the first city in their European expansion. A collaborative data analysis project exploring accommodation pricing, guest satisfaction and geographic distribution of Airbnb listings in Paris. Built as part of the IronHack Data Analytics Bootcamp.
 
@@ -39,7 +39,15 @@ This project was developed collaboratively as part of the IronHack Data Analytic
 | **Records** | 3,558 rows |
 | **Columns** | 20 |
 
-### 3. Hotels Paris & Rome — API Data
+### 3. Tourism & Hospitality Industry Analysis
+| Detail | Info |
+|---|---|
+| **Source** | [Kaggle — Tourism & Hospitality Industry Analysis Dataset](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset) |
+| **File** | `Tourism_Hospitality_Industry_Analysis.csv` |
+| **Records** | 500 rows |
+| **Columns** | 23 |
+
+### 4. Hotels Paris & Rome — API Data
 | Detail | Info |
 |---|---|
 | **Source** | [Google Hotel Data Scraper — RapidAPI](https://rapidapi.com/search/google-hotel-data-scaper) |
@@ -49,28 +57,41 @@ This project was developed collaboratively as part of the IronHack Data Analytic
 | **Extraction code** | `API_handling.ipynb` |
 | **Pipeline credit** | Data extracted and prepared by [Johannes Vidal](https://github.com/JohannesVidal/hotel_pricing_project) |
 
-### 4. Tourism & Hospitality Industry Analysis
+### 5. Geoapify — Points of Interest (POI) Data
 | Detail | Info |
 |---|---|
-| **Source** | [Kaggle — Tourism & Hospitality Industry Analysis Dataset](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset) |
-| **File** | `Tourism_Hospitality_Industry_Analysis.csv` |
-| **Records** | 500 rows |
-| **Columns** | 23 |
+| **Source** | [Geoapify Places API](https://www.geoapify.com/places-api) |
+| **Purpose** | Enriched dataset with touristic environment data around each accommodation |
+| **Radius** | 500m around each listing |
+| **Key variables** | `n_geoapify_heritage`, `geoapify_tourism_density_score` |
+| **Extraction code** | `API_handling.ipynb` |
+| **Pipeline credit** | Data extracted and prepared by [Johannes Vidal](https://github.com/JohannesVidal/hotel_pricing_project) |
+
+The Geoapify API was used to move beyond simple coordinates to a more meaningful concept: how touristic a location actually is. Key derived variables:
+- **`n_geoapify_heritage`** — number of historical/heritage sites within 500m. Strongest relationship with price, capturing culturally significant areas
+- **`geoapify_tourism_density_score`** — weighted score combining attractions, sights and heritage, giving more weight to active tourist demand. Built as a single interpretable metric for overall tourism intensity of a location
 
 ---
 
 ## API Key Management
 
-This project uses the **Google Hotel Data Scraper** via [RapidAPI](https://rapidapi.com). To run the extraction notebook you will need your own API key.
+This project uses two external APIs. To run the extraction notebook you will need your own API keys.
+
+### Google Hotel Data Scraper — RapidAPI
+1. Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the Google Hotel Data Scraper (free tier available)
+2. Copy your `x-rapidapi-key`
+
+### Geoapify Places API
+1. Sign up at [geoapify.com](https://www.geoapify.com)
+2. Generate an API key from your dashboard (free tier available)
 
 ### Setup
-1. Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the Google Hotel Data Scraper (free tier available)
-2. Create a `.env` file in the root of the project:
+Create a `.env` file in the root of the project:
    ```
    RAPIDAPI_KEY=your_key_here
    GOOGLE_HOTEL_RAPIDAPI_HOST=google-hotel-data-scaper.p.rapidapi.com
+   GEOAPIFY_API_KEY=your_key_here
    ```
-3. The `src/config.py` file loads these values automatically — do not hardcode keys in notebooks
 
 > ⚠️ Never push your `.env` file to GitHub. It is already listed in `.gitignore`.
 
@@ -110,8 +131,8 @@ This project uses the **Google Hotel Data Scraper** via [RapidAPI](https://rapid
    - *Hypothesis:* Superhost listings will show higher guest satisfaction scores and cleanliness ratings than non-superhost listings, and will command higher prices per night.
    - *Conclusion:* PLACEHOLDER
 
-3. **Are hotel and Airbnb listings in Paris concentrated in specific neighbourhoods, and does location affect pricing or ratings?**
-   - *Hypothesis:* Listings closer to the city centre and major attractions will have higher prices but not necessarily higher satisfaction scores.
+3. **Are hotel and Airbnb listings in Paris concentrated in specific neighbourhoods, and how does location influence pricing and guest satisfaction?**
+   - *Hypothesis:* Listings located in areas with higher tourism intensity — particularly those rich in heritage and major attractions — tend to command higher prices, but do not necessarily achieve higher guest satisfaction.
    - *Conclusion:* PLACEHOLDER
 
 ---
@@ -144,9 +165,10 @@ This project uses the **Google Hotel Data Scraper** via [RapidAPI](https://rapid
 
 ## Tools Used
 
-- **Python** (Pandas, Matplotlib, Seaborn)
+- **Python** (Pandas, Matplotlib, Seaborn, Geopy, Folium)
 - **Jupyter Notebook**
 - **RapidAPI** — Google Hotel Data Scraper (hotel data extraction)
+- **Geoapify** — Places API (points of interest enrichment)
 
 ---
 
